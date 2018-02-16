@@ -704,6 +704,12 @@
           <a href="https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model" target="_blank">Understanding the DOM</a>
         </li>
         <li>
+          <a href="http://designpatternsphp.readthedocs.io/ru/latest/" target="_blank">DesignPatternsPHP</a>
+        </li>
+        <li>
+          <a href="https://refactoring.guru/ru/design-patterns/catalog" target="_blank">Каталог паттернов проектирования</a>
+        </li>
+        <li>
           <a href="http://www.elisdn.ru/" target="_blank">Дмитрий Елисеев</a>
         </li>
         <li>
