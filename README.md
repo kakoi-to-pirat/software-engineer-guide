@@ -205,6 +205,9 @@
         <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Курс</a>
       </p>
       <p>6.1
+        <a href="https://githowto.com/ru" target="_blank">Учебник</a>
+      </p>
+      <p>6.2
         <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: основы ООП и PHP</h2>
