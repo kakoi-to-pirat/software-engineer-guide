@@ -10,8 +10,8 @@
   <header class="tl_article_header">
     <h1 dir="auto">Как стать веб-разработчиком с помощью YouTube. Мой опыт.</h1>
     <address dir="auto">
-      <a rel="author" href="https://t.me/piratestories" target="_blank">Пиратские истории</a>
-      <time datetime="2018-02-09T05:58:47+0000">February 09, 2018</time>
+      <a rel="author" href="https://t.me/piratestories" target="_blank">Пиратские истории</a>, 
+      <time datetime="2018-02-09T05:58:47+0000">February 09, 2018</time><br>
     </address>
   </header>
   <article id="_tl_editor" class="tl_article_content ql-container ql-disabled">
