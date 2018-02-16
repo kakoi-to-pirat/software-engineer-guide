@@ -613,8 +613,7 @@
         <strong>3. PHP </strong>
       </p>
       <p>3.1 "<a href="http://phptherightway.ru/" target="_blank">PHP: Правильный Путь</a>"</p>
-      <p>3.2 "
-        <a href="https://www.ozon.ru/context/detail/id/135695718/" target="_blank">Современный PHP. Новые возможности и передовой опыт</a>"</p>
+      <p>3.2 "<a href="https://www.ozon.ru/context/detail/id/135695718/" target="_blank">Современный PHP. Новые возможности и передовой опыт</a>"</p>
       <p>3.3 "<a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">PHP: объекты, шаблоны и методики программирования</a>" </p>
       <p>
         <strong>4. Дизайн</strong>
