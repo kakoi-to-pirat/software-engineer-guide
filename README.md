@@ -30,7 +30,7 @@
             <em>От нуля до героя фронтенда</em>
           </a>".</li>
         <li>По бэкенду (php) - учебник "
-          <a href="http://getjump.github.io/ru-php-the-right-way/" target="_blank">PHP: Правильный путь</a>".</li>
+          <a href="http://getjump.github.io/ru-php-the-right-way/" target="_blank">PHP: Правильный путь</a> ".</li>
         <li>По базам данных подойдет любая книжка, в принципе. Например,
           <a href="https://www.litmir.me/bd/?b=549307&amp;p=1"
             target="_blank">"SQL. Полное руководство"</a>
@@ -610,7 +610,7 @@
         <strong>1. CSS</strong>
       </p>
       <p>1.1 "
-        <a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач"</a>
+        <a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач</a>"
       </p>
       <p>
         <strong>2. JS</strong>
