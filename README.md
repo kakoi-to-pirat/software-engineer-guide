@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Как стать веб-разработчиком с помощью YouTube. Мой опыт.</title>
 </head>
 <body>
 <main class="tl_article">
@@ -753,7 +752,7 @@
       <ol>
         <li>
           <a href="https://www.youtube.com/redirect?event=comments&amp;q=http%3A%2F%2Fcodewars.com%2F&amp;redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx"
-            target="_blank">codewars.com</a>
+            target="_blank">codewars.com</a> 
         </li>
         <li>
           <a href="https://www.youtube.com/redirect?event=comments&amp;q=http%3A%2F%2Fkaggle.com%2F&amp;redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx"
@@ -787,7 +786,7 @@
       <aside>
         <br>
       </aside>
-      <aside>Главное - это практика.</aside>
+      <aside><em>Главное - это практика.</em></aside>
       <aside>
         <br>
       </aside>
