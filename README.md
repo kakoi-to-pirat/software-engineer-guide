@@ -736,16 +736,25 @@
           <a href="https://mbeaudru.github.io/modern-js-cheatsheet/" target="_blank">Modern JS Cheatsheet</a>
         </li>
         <li>
+          <a href="https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model" target="_blank">Understanding the DOM</a>
+        </li>
+        <li>
           <a href="http://amp.gs/1BoQ" target="_blank">Clean javascript code</a>
         </li>
         <li>
           <a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag" target="_blank">Layout Land</a>
         </li>
         <li>
-          <a href="https://rakh.im/" target="_blank">Блог Рахима</a>
+          <a href="https://t.me/ruhighload" target="_blank">Оптимизация Web приложений</a>
         </li>
         <li>
-          <a href="https://t.me/ruhighload" target="_blank">Оптимизация Web приложений</a>
+          <a href="https://bespoyasov.ru/front-not-pain/" target="_blank">Фронтенд - это не больно</a>
+        </li>
+        <li>
+          <a href="https://goo.gl/bpRWUt" target="_blank">Вёрстка — это не тупо</a>
+        </li>
+        <li>
+          <a href="https://ru.hexlet.io/blog/posts/infographics-programmer-competency-matrix" target="_blank">Матрица компетентности</a>
         </li>
       </ol>
       <h4 id="Практические-задачи">Практические задачи </h4>
