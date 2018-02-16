@@ -18,22 +18,17 @@
     <div class="ql-editor" contenteditable="false" dir="auto">
       <p>Есть отличные гайды по построению стратегии изучения веб-технологий.</p>
       <ol>
-        <li>По программированию в целом - цикл статей "
-          <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18"
-            target="_blank">
-            <em>Три пути программиста: хороший, плохой, злой</em>
-          </a>".</li>
+        <li>По программированию в целом - цикл статей 
+          "<a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18"
+            target="_blank"><em>Три пути программиста: хороший, плохой, злой</em></a>".</li>
         <li>По фронтенду - серия статей, из двух частей
-          <em>"</em>
-          <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328"
-            target="_blank">
-            <em>От нуля до героя фронтенда</em>
-          </a>".</li>
-        <li>По бэкенду (php) - учебник "
-          <a href="http://getjump.github.io/ru-php-the-right-way/" target="_blank">PHP: Правильный путь</a> ".</li>
-        <li>По базам данных подойдет любая книжка, в принципе. Например,"
-          <a href="https://www.litmir.me/bd/?b=549307&amp;p=1"
-            target="_blank">SQL. Полное руководство</a> "
+          "<a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328"
+            target="_blank"><em>От нуля до героя фронтенда</em></a>".</li>
+        <li>По бэкенду (php) - учебник 
+          "<a href="http://getjump.github.io/ru-php-the-right-way/" target="_blank">PHP: Правильный путь</a>".</li>
+        <li>По базам данных подойдет любая книжка, в принципе. Например,
+          "<a href="https://www.litmir.me/bd/?b=549307&amp;p=1"
+            target="_blank">SQL. Полное руководство</a>"
         </li>
       </ol>
       <p>Где учиться программированию? Рекомендую три ресурса. Не только за качество, но и за наличие практических заданий.</p>
@@ -54,10 +49,7 @@
           </a>
         </li>
       </ol>
-      <p>Где учиться верстке? В "
-        <a href="https://htmlacademy.ru/" target="_blank">
-          <em>HTML Academy</em>
-        </a>".</p>
+      <p>Где учиться верстке? В "<a href="https://htmlacademy.ru/" target="_blank"><em>HTML Academy</em></a>".</p>
       <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube
         <em>(</em>
         <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457"
