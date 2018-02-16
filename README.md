@@ -54,10 +54,10 @@
           </a>
         </li>
       </ol>
-      <p>Где учиться верстке? В
+      <p>Где учиться верстке? В "
         <a href="https://htmlacademy.ru/" target="_blank">
           <em>HTML Academy</em>
-        </a>.</p>
+        </a>".</p>
       <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube
         <em>(</em>
         <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457"
@@ -79,7 +79,7 @@
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
       </figure>
       <p>Для полноты картины, я добавил статьи и курсы от авторитетных авторов из источников выше. </p>
-      <h4 id="Основы-программирования">Основы программирования</h4>
+      <h2 id="Основы-программирования">Основы программирования</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=rrRZZ_3licM&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33" target="_blank">Лучшее у hexlet</a>
       </p>
@@ -97,7 +97,7 @@
       <p>3.
         <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5" target="_blank">Гарвардский курс "CS50"</a>
       </p>
-      <h4 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h4>
+      <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>
         <strong>1. HTML</strong>
       </p>
@@ -217,7 +217,7 @@
       <p>6.1
         <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
-      <h4 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: основы ООП и PHP</h4>
+      <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: основы ООП и PHP</h2>
       <p>
         <strong>1. </strong>
         <a href="https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ" target="_blank">
@@ -326,7 +326,7 @@
       <p>10.1
         <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">Курс от Хекслет</a>
       </p>
-      <h4 id="Базы-данных">Базы данных</h4>
+      <h2 id="Базы-данных">Базы данных</h2>
       <p>
         <strong>1. Что такое базы данных, основные понятия, СУБД и язык SQL </strong>
       </p>
@@ -350,7 +350,7 @@
       </p>
       <p>
         <strong>6. </strong>
-        <a href="https://www.youtube.com/playlist?list=PLwwk4BHih4fgR-ZP74p7R_AOph3tvgoHd" target="_blank">
+        <a href="https://www.youtube.com/playlist?list=PLwwk4BHih2fgR-ZP74p7R_AOph3tvgoHd" target="_blank">
           <strong>Архитектура БД </strong>
         </a>
       </p>
@@ -383,7 +383,7 @@
       <p>8.3
         <a href="http://tigor.com.ua/blog/2009/10/21/orm-in-the-php-world/" target="_blank">Список ORM</a>
       </p>
-      <h4 id="Паттерны-и-алгоритмы">Паттерны и алгоритмы</h4>
+      <h2 id="Паттерны-и-алгоритмы">Паттерны и алгоритмы</h2>
       <p>
         <strong>1. Шаблоны проектирования в PHP: </strong>
         <a href="http://devacademy.ru/posts/shablony-proiektirovaniia-v-php/"
@@ -410,7 +410,7 @@
       <p>5.2 Книга "
         <a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-155"
           target="_blank">Грокаем Алгоритмы</a>"</p>
-      <h4 id="Архитектура">Архитектура</h4>
+      <h2 id="Архитектура">Архитектура</h2>
       <p>
         <strong>0. Веб-сервисы</strong>
       </p>
@@ -454,7 +454,7 @@
         <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
           target="_blank">Stateful vs. Stateless</a>
       </p>
-      <h4 id="Практика-PHP">Практика PHP </h4>
+      <h2 id="Практика-PHP">Практика PHP </h2>
       <p>
         <strong>1. </strong>
         <a href="https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6" target="_blank">
@@ -478,7 +478,7 @@
       <p>2.2
         <a href="https://laravel.ru/" target="_blank">Документация</a>
       </p>
-      <h4 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h4>
+      <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
       <p>
         <strong>1. JavaScript</strong>
       </p>
@@ -545,7 +545,7 @@
       </p>
       <p>2.7. Практика: собери свой стартовый шаблон.</p>
       <p>2.8. Курс по всему сразу: [HTML Academy] Интенсивный онлайн-курс «Продвинутый HTML и CSS» 2016 </p>
-      <h4 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 2: node JS</h4>
+      <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 2: node JS</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
       </p>
@@ -555,7 +555,7 @@
       <p>x.
         <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
       </p>
-      <h4 id="Linux">Linux</h4>
+      <h2 id="Linux">Linux</h2>
       <p>1.
         <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы основ</a>
       </p>
@@ -583,7 +583,7 @@
       <p>8.
         <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a>
       </p>
-      <h4 id="Дизайн">Дизайн</h4>
+      <h2 id="Дизайн">Дизайн</h2>
       <p>1.
         <a href="https://habrahabr.ru/company/logomachine/blog/332186/" target="_blank">Про визитки</a>
       </p>
@@ -605,7 +605,7 @@
       <p>7.
         <a href="https://www.artlebedev.ru/kovodstvo/sections/187/" target="_blank">Границы возможного</a>
       </p>
-      <h4 id="Книги">Книги</h4>
+      <h2 id="Книги">Книги</h2>
       <p>
         <strong>1. CSS</strong>
       </p>
@@ -688,7 +688,7 @@
       </p>
       <p>9.1 "
         <a href="https://git-scm.com/book/ru/v1" target="_blank">Pro Git</a>"</p>
-      <h4 id="Ресурсы-(Паблики,-сайты,-каналы)">Ресурсы (Паблики, сайты, каналы)</h4>
+      <h2 id="Ресурсы-(Паблики,-сайты,-каналы)">Ресурсы (Паблики, сайты, каналы)</h2>
       <ol>
         <li>
           <a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs</a>
@@ -736,28 +736,19 @@
           <a href="https://mbeaudru.github.io/modern-js-cheatsheet/" target="_blank">Modern JS Cheatsheet</a>
         </li>
         <li>
-          <a href="https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model" target="_blank">Understanding the DOM</a>
-        </li>
-        <li>
           <a href="http://amp.gs/1BoQ" target="_blank">Clean javascript code</a>
         </li>
         <li>
           <a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag" target="_blank">Layout Land</a>
         </li>
         <li>
+          <a href="https://rakh.im/" target="_blank">Блог Рахима</a>
+        </li>
+        <li>
           <a href="https://t.me/ruhighload" target="_blank">Оптимизация Web приложений</a>
         </li>
-        <li>
-          <a href="https://bespoyasov.ru/front-not-pain/" target="_blank">Фронтенд - это не больно</a>
-        </li>
-        <li>
-          <a href="https://goo.gl/bpRWUt" target="_blank">Вёрстка — это не тупо</a>
-        </li>
-        <li>
-          <a href="https://ru.hexlet.io/blog/posts/infographics-programmer-competency-matrix" target="_blank">Матрица компетентности</a>
-        </li>
       </ol>
-      <h4 id="Практические-задачи">Практические задачи </h4>
+      <h2 id="Практические-задачи">Практические задачи </h2>
       <ol>
         <li>
           <a href="https://www.youtube.com/redirect?event=comments&amp;q=http%3A%2F%2Fcodewars.com%2F&amp;redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx"
@@ -774,7 +765,7 @@
           <a href="https://tproger.ru/digest/competitive-programming-practice/" target="_blank">Другие</a>
         </li>
       </ol>
-      <h4 id="Философия-и-мотивация">Философия и мотивация</h4>
+      <h2 id="Философия-и-мотивация">Философия и мотивация</h2>
       <ol>
         <li>
           <a href="https://www.youtube.com/watch?v=xPPCzryZK44" target="_blank">36</a>
@@ -795,7 +786,7 @@
       <aside>
         <br>
       </aside>
-      <aside><em>Главное - это практика.</em></aside>
+      <p>Главное - это практика.</p>
       <aside>
         <br>
       </aside>
