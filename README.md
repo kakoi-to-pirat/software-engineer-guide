@@ -239,8 +239,8 @@
       <p>4.1
         <a href="https://www.youtube.com/playlist?list=PL5QUj3iB7EoJGDMxuzlV58uh0ybgAHlcN" target="_blank">Разван::веселый_парень</a>
       </p>
-      <p>4.1 "
-        <a href="http://www.elisdn.ru/blog/93/oop-week-review" target="_blank">Неделя ООП</a>"</p>
+      <p>4.1
+        "<a href="http://www.elisdn.ru/blog/93/oop-week-review" target="_blank">Неделя ООП</a>"</p>
       <p>4.2
         <a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">Объекты, шаблоны и методики программирования</a>
       </p>
@@ -308,8 +308,8 @@
       </p>
       <p>9.3 "<a href="https://habrahabr.ru/post/250343/" target="_blank">PSR-7 в примерах</a>"</p>
       <p>9.4 "<a href="https://habrahabr.ru/post/337692/" target="_blank">Опыт внедрения PSR стандартов в одном легаси проекте</a>" (PSR-7, PSR-11)</p>
-      <p>9.5 Пишем "
-        <a href="https://www.youtube.com/watch?v=w4iqxN0nfTs" target="_blank">PSR-7 фреймворк 1/6</a>"</p>
+      <p>9.5 Пишем 
+        "<a href="https://www.youtube.com/watch?v=w4iqxN0nfTs" target="_blank">PSR-7 фреймворк 1/6</a>"</p>
       <p>
         <strong>10. Автоматическое тестирование</strong>
       </p>
@@ -684,16 +684,13 @@
           <a href="https://www.youtube.com/channel/UCe_TcJarfs-HKy3NySy8Kng/featured" target="_blank">Software Engineer</a>
         </li>
         <li>
-          <a href="http://www.elisdn.ru/" target="_blank">Дмитрий Елисеев</a>
-        </li>
-        <li>
-          <a href="http://guides.hexlet.io/" target="_blank">Hexlet Guides</a>
-        </li>
-        <li>
           <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank">Fun Fun Function</a>
         </li>
         <li>
           <a href="https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw" target="_blank">Google Chrome Developers</a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag" target="_blank">Layout Land</a>
         </li>
         <li>
           <a href="https://github.com/melnik909/frontend-whitelist" target="_blank">Frontend WhiteList</a>
@@ -705,7 +702,13 @@
           <a href="http://amp.gs/1BoQ" target="_blank">Clean javascript code</a>
         </li>
         <li>
-          <a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag" target="_blank">Layout Land</a>
+          <a href="https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model" target="_blank">Understanding the DOM</a>
+        </li>
+        <li>
+          <a href="http://www.elisdn.ru/" target="_blank">Дмитрий Елисеев</a>
+        </li>
+        <li>
+          <a href="http://guides.hexlet.io/" target="_blank">Hexlet Guides</a>
         </li>
         <li>
           <a href="https://rakh.im/" target="_blank">Блог Рахима</a>
