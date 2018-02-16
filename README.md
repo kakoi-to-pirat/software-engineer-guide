@@ -61,15 +61,14 @@
           target="_blank">
           <em>хороший путь</em>
         </a>
-        <em>)</em>. Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядоченны и собраны в последовательную схему обучения.</p>
+        <em>)</em>. Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядоченны и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.</p>
       <figure contenteditable="false">
         <div class="figure_wrapper">
           <img src="http://telegra.ph/file/861c890067c9f44529c12.png">
         </div>
         <span class="cursor_wrapper" contenteditable="true"></span>
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
-      </figure>
-      <p>Для полноты картины, я добавил статьи и курсы из источников выше. </p>
+      </figure>      
       <h2 id="Основы-программирования">Основы программирования</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=rrRZZ_3licM&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33" target="_blank">Лучшее у hexlet</a>
