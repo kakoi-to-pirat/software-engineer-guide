@@ -306,10 +306,8 @@
       <p>9.2
         <a href="https://github.com/getjump/fig-standards/tree/master/accepted" target="_blank">Перевод PSR 0-4</a>
       </p>
-      <p>9.3 "
-        <a href="https://habrahabr.ru/post/250343/" target="_blank">PSR-7 в примерах</a>"</p>
-      <p>9.4 "
-        <a href="https://habrahabr.ru/post/337692/" target="_blank">Опыт внедрения PSR стандартов в одном легаси проекте</a>" (PSR-7, PSR-11)</p>
+      <p>9.3 "<a href="https://habrahabr.ru/post/250343/" target="_blank">PSR-7 в примерах</a>"</p>
+      <p>9.4 "<a href="https://habrahabr.ru/post/337692/" target="_blank">Опыт внедрения PSR стандартов в одном легаси проекте</a>" (PSR-7, PSR-11)</p>
       <p>9.5 Пишем "
         <a href="https://www.youtube.com/watch?v=w4iqxN0nfTs" target="_blank">PSR-7 фреймворк 1/6</a>"</p>
       <p>
@@ -392,15 +390,15 @@
         <a href="https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg" target="_blank">Раз</a>.
         <a href="/Ot-STUPID-koda-k-SOLID-kodu-10-29">Два</a>.</p>
       <p>4.
-        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны</a>?</p>
+        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны?</a></p>
       <p>
         <strong>5. Алгоритмы</strong>
       </p>
       <p>5.1 Курс на
         <a href="https://stepik.org/course/217" target="_blank">Степике</a>
       </p>
-      <p>5.2 Книга "
-        <a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-155"
+      <p>5.2 Книга 
+        "<a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-155"
           target="_blank">Грокаем Алгоритмы</a>"</p>
       <h2 id="Архитектура">Архитектура</h2>
       <p>
@@ -435,8 +433,8 @@
         </a>
       </p>
       <p>
-        <strong>5. ADR.</strong> "
-        <a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
+        <strong>5. ADR.</strong>
+        "<a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
       <p>
         <strong>6. TDD. </strong>
         <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Как работать с TDD</a>
