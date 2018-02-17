@@ -574,6 +574,12 @@
       <p>8.
         <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a>
       </p>
+      <p>9.
+        <a href="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" target="_blank">Установка Docker</a>
+      </p>
+      <p>10.
+        <a href="https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/" target="_blank">Установка Vagrant</a>
+      </p>
       <h2 id="Дизайн">Дизайн</h2>
       <p>1.
         <a href="https://habrahabr.ru/company/logomachine/blog/332186/" target="_blank">Про визитки</a>
