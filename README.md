@@ -279,18 +279,18 @@
       <p>7.1
         <a href="https://www.youtube.com/watch?v=OfNvLy2solE" target="_blank">Что такое MVC Framework</a>?</p>
       <p>
-        <strong>8. Рабочее окружение php</strong>.</p>
+        <strong>8. Рабочее окружение php и виртуализация</strong>.</p>
       <p>8.0
         <a href="https://ru.hexlet.io/courses/php-setup-environment" target="_blank">Курс</a>
       </p>
       <p>8.1
-        <a href="http://kmarenov.github.io/2016/01/04/vagrant.html" target="_blank">Vagrant</a>
+        <a href="https://m.habrahabr.ru/post/145946/" target="_blank">Composer</a>
       </p>
       <p>8.2
-        <a href="http://guides.hexlet.io/docker" target="_blank">Docker</a>
+        <a href="http://kmarenov.github.io/2016/01/04/vagrant.html" target="_blank">Vagrant</a>
       </p>
       <p>8.3
-        <a href="https://m.habrahabr.ru/post/145946/" target="_blank">Composer</a>
+        <a href="http://guides.hexlet.io/docker" target="_blank">Docker</a>
       </p>  
       <p>8.4
         <a href="https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant" target="_blank">Отличия Vagrant и Docker</a>
