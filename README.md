@@ -291,6 +291,9 @@
       </p>
       <p>8.3
         <a href="https://m.habrahabr.ru/post/145946/" target="_blank">Composer</a>
+      </p>  
+      <p>8.4
+        <a href="https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant" target="_blank">Отличия Vagrant и Docker</a>
       </p>
       <p>В целом, судя по названиям уроков,
         <a href="https://www.youtube.com/watch?v=B1Q44OKh5YA&amp;list=PLSdH7dYnlGYht0eGi9-14X87hrSl9plCc"
