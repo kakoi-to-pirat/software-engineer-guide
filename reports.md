@@ -7,6 +7,7 @@
 </head>
 <body>
 <h1>Топ статей, докладов, ресурсов из мира веб-технологий.</h1>
+Отбираю лучшие,на мой взгляд, ресурсы из бесконечного потока информациии. Список редактируется и актуализируется время от времени.
 <ul>
   <h2>Проекты</h2>
   <li><a href="http://webmasters.teamdev.com/" target="_blank">Вёрстка — это не тупо</a></li>
@@ -32,7 +33,7 @@
   <h2>Доклады</h2>
   <li><a href="https://www.youtube.com/watch?v=58BpEJAplsM" target="_blank">Семантическое программирование: куда поместить код. YiiConf 2017</a></li>
 
-  <h2>Youtube-канылы</h2>
+  <h2>Youtube-каналы</h2>
   <li><a href="https://www.youtube.com/user/ToBeCloser007/featured" target="_blank">MarlinWD</a></li>
   <li><a href="https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg" target="_blank">getInstance</a></li>
   <li><a href="https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/featured" target="_blank">Yauhen Kavalchuk</a></li>
