@@ -80,7 +80,7 @@
         <a href="https://ru.hexlet.io/courses/programming-basics" target="_blank">
           <em>Два.</em>
         </a>
-        <a href="https://ru.hexlet.io/courses/programming-basics" target="_blank">
+        <a href="https://ru.hexlet.io/courses/introduction_to_programming" target="_blank">
           <em>Три.</em>
         </a>
       </p>
