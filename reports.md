@@ -18,6 +18,6 @@
   <li><a href="https://www.opennet.ru/opennews/art.shtml?num=47258" target="_blank">В Chrome будет принудительно включаться HTTPS для доменов .dev и .foo</a></li>
 
   <!-- <li><a href="#" target="_blank"></a></li> -->
-</ul>>
+</ul>
 </body>
 </html>
