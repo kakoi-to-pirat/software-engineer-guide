@@ -74,15 +74,15 @@
         <a href="https://www.youtube.com/watch?v=rrRZZ_3licM&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33" target="_blank">Лучшее у hexlet</a>
       </p>
       <p>2. Курсы и практика:
-        <a href="https://ru.hexlet.io/courses/introduction_to_programming/lessons/intro/theory_unit"
-          target="_blank">
-          <em>Раз</em>
+        <a href="http://code-basics.ru/" target="_blank">
+          <em>Раз.</em>
         </a>
-        <em>.</em>
         <a href="https://ru.hexlet.io/courses/programming-basics" target="_blank">
-          <em>Два</em>
+          <em>Два.</em>
         </a>
-        <em>.</em>
+        <a href="https://ru.hexlet.io/courses/programming-basics" target="_blank">
+          <em>Три.</em>
+        </a>
       </p>
       <p>3.
         <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5" target="_blank">Гарвардский курс "CS50"</a>
