@@ -672,64 +672,7 @@
           <a href="https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg" target="_blank">Веб-стандарты</a>
         </li>
         <li>
-          <a href="https://www.youtube.com/user/ToBeCloser007/featured" target="_blank">MarlinWD</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg" target="_blank">getInstance</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/featured" target="_blank">Yauhen Kavalchuk</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ" target="_blank">CodeDojo</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCzgtMBarT8AvsGc-Y_8Qexw" target="_blank">Точка.dev</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog" target="_blank">Sorax</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCe_TcJarfs-HKy3NySy8Kng/featured" target="_blank">Software Engineer</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank">Fun Fun Function</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw" target="_blank">Google Chrome Developers</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag" target="_blank">Layout Land</a>
-        </li>
-        <li>
-          <a href="https://github.com/melnik909/frontend-whitelist" target="_blank">Frontend WhiteList</a>
-        </li>
-        <li>
-          <a href="https://mbeaudru.github.io/modern-js-cheatsheet/" target="_blank">Modern JS Cheatsheet</a>
-        </li>
-        <li>
-          <a href="http://amp.gs/1BoQ" target="_blank">Clean javascript code</a>
-        </li>
-        <li>
-          <a href="https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model" target="_blank">Understanding the DOM</a>
-        </li>
-        <li>
-          <a href="http://designpatternsphp.readthedocs.io/ru/latest/" target="_blank">DesignPatternsPHP</a>
-        </li>
-        <li>
-          <a href="https://refactoring.guru/ru/design-patterns/catalog" target="_blank">Каталог паттернов проектирования</a>
-        </li>
-        <li>
-          <a href="http://www.elisdn.ru/" target="_blank">Дмитрий Елисеев</a>
-        </li>
-        <li>
-          <a href="http://guides.hexlet.io/" target="_blank">Hexlet Guides</a>
-        </li>
-        <li>
-          <a href="https://rakh.im/" target="_blank">Блог Рахима</a>
-        </li>
-        <li>
-          <a href="https://t.me/ruhighload" target="_blank">Оптимизация Web приложений</a>
+          <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md" target="_blank">Другие</a>
         </li>
       </ol>
       <h2 id="Практические-задачи">Практические задачи </h2>
@@ -762,9 +705,6 @@
         </li>
         <li>
           <a href="https://www.youtube.com/watch?v=qnRoVySmyrg" target="_blank">Про выгорания</a>
-        </li>
-        <li>
-          <a href="https://t.me/mindfool" target="_blank">Разум и реальность</a>
         </li>
       </ol>
       <aside>
