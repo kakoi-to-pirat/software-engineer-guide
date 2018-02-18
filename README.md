@@ -604,7 +604,7 @@
         <a href="https://habrahabr.ru/company/tmru/blog/187604/" target="_blank">Два</a>.</p>
       <p>7. <a href="https://www.artlebedev.ru/kovodstvo/sections/187/" target="_blank">Границы возможного</a>
       </p>      
-      <h2>Доболнительные материалы</h2>
+      <h2>Дополнительные материалы</h2>
       <h3 id="Книги">Книги</h3>
         <ol>
           <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
