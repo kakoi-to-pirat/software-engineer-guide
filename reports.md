@@ -10,6 +10,7 @@
 Отбираю лучшие, на мой взгляд, ресурсы из бесконечного потока информациии. Список редактируется и актуализируется время от времени.
 <ul>
   <h2>Проекты</h2>
+  <li><a href="http://code-basics.ru/" target="_blank">Хекслет: основы программирования</a></li>
   <li><a href="http://webmasters.teamdev.com/" target="_blank">Вёрстка — это не тупо</a></li>
   <li><a href="https://bespoyasov.ru/front-not-pain/" target="_blank">Фронтенд — это не больно!</a></li>
   <li><a href="https://github.com/melnik909/frontend-whitelist" target="_blank">Frontend WhiteList</a></li>
