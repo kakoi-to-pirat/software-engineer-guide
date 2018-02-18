@@ -603,10 +603,8 @@
         <a href="https://habrahabr.ru/post/105250/" target="_blank">Раз</a>.
         <a href="https://habrahabr.ru/company/tmru/blog/187604/" target="_blank">Два</a>.</p>
       <p>7. <a href="https://www.artlebedev.ru/kovodstvo/sections/187/" target="_blank">Границы возможного</a>
-      </p>
-      
+      </p>      
       <h2>Доболнительные материалы</h2>
-
       <h3 id="Книги">Книги</h3>
         <ol>
           <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
@@ -618,14 +616,12 @@
           <li><a href="https://www.ozon.ru/context/detail/id/19383907/" target="_blank">Семь баз данных за семь недель</a></li>
           <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md" target="_blank">Другие</a></li>
         </ol>
-
         <h3 id="Ресурсы-(Паблики,-сайты,-каналы)">Ресурсы (Паблики, сайты, каналы)</h3>
         <ol>
           <li><a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs</a></li>
           <li><a href="https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg" target="_blank">Веб-стандарты</a></li>
           <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md" target="_blank">Другие</a></li>
         </ol>
-
         <h3 id="Практические-задачи">Практические задачи </h3>
         <ol>
           <li><a href="https://www.youtube.com/redirect?event=comments&amp;q=http%3A%2F%2Fcodewars.com%2F&amp;redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx" target="_blank">codewars.com</a> </li>
@@ -633,15 +629,13 @@
           <li><a href="https://proghub.ru/" target="_blank">proghub.ru</a></li>
           <li><a href="https://tproger.ru/digest/competitive-programming-practice/" target="_blank">Другие</a></li>
         </ol>
-
         <h3 id="Философия-и-мотивация">Философия и мотивация</h3>
         <ol>
           <li><a href="https://www.youtube.com/watch?v=xPPCzryZK44" target="_blank">36</a></li>
           <li><a href="https://habrahabr.ru/company/alconost/blog/346020/" target="_blank">90 лет жизни в годах</a></li>
           <li><a href="https://habrahabr.ru/post/322674/" target="_blank">Фронтэнд-усталость</a></li>
           <li><a href="https://www.youtube.com/watch?v=qnRoVySmyrg" target="_blank">Про выгорания</a></li>
-        </ol>
-  
+        </ol>  
       <aside>
         <br>
       </aside>
