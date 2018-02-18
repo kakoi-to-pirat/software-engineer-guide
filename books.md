@@ -23,6 +23,11 @@
   <li><a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">PHP: объекты, шаблоны и методики программирования</a></li>
 </ul>
 
+<h2>GIT</h2>
+<ul>
+  <li><a href="https://git-scm.com/book/ru/v1" target="_blank">Pro Git</a></li>
+</ul>
+
 <h2>Дизайн</h2>
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/32545263/?utm_source=yandex_direct&amp;utm_medium=cpc&amp;utm_campaign=proryv_regstore_product_n_cid_detail_our_no_all_dynamic_CBR_23555380&amp;utm_term=_cbrx_642669"
@@ -44,7 +49,7 @@
 
 <h2>Базы данны</h2>
 <ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/31124973/" target="_blank">SQL. Полное руководство</a>", Грофф Дж. Р.</li>
+  <li><a href="https://www.ozon.ru/context/detail/id/31124973/" target="_blank">SQL. Полное руководство</a>, Грофф Дж. Р.</li>
   <li><a href="https://www.ozon.ru/context/detail/id/19383907/" target="_blank">Семь баз данных за семь недель</a></li>
 </ul>
 
@@ -58,9 +63,4 @@
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&amp;utm_medium=partner&amp;utm_campaign=955860"
     target="_blank">Джедайские техники</a></li>
-</ul>
-
-<h2>GIT</h2>
-<ul>
-  <li><a href="https://git-scm.com/book/ru/v1" target="_blank">Pro Git</a></li>
 </ul>
