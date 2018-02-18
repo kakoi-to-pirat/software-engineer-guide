@@ -8,7 +8,7 @@
 <body>
 <h1>Топ статей, докладов, ресурсов из мира веб-технологий.</h1>
 <ul>
-  <li><a href="http://webmasters.teamdev.com/" target="_blank">Вёрстка — это не тупро</a></li>
+  <li><a href="http://webmasters.teamdev.com/" target="_blank">Вёрстка — это не тупо</a></li>
   <li><a href="https://bespoyasov.ru/front-not-pain/" target="_blank">Фронтенд — это не больно!</a></li>
   <li><a href="https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56" target="_blank">Справочник современных концепций JavaScript: часть 1</a></li>
   <li><a href="https://medium.com/devschacht/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B9-javascript-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-8ecf07f3f36a" target="_blank">Справочник современных концепций JavaScript: часть 2</a></li>
