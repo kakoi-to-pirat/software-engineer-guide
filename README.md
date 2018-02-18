@@ -49,7 +49,7 @@
           </a>
         </li>
       </ol>
-      <p>Где учиться верстке? В "<a href="https://htmlacademy.ru/" target="_blank"><em>HTML Academy</em></a>".</p>
+      <p>Где учиться верстке? Есть <a href="http://webmasters.teamdev.com/" target="_blank"><em>отличный практичекий гайд</em></a> и "<a href="https://htmlacademy.ru/" target="_blank"><em>HTML Академия</em></a>".</p>
       <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube
         <em>(</em>
         <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457"
