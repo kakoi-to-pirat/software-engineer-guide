@@ -14,6 +14,8 @@
   <li><a href="https://refactoring.guru/ru/design-patterns/catalog" target="_blank">Каталог паттернов проектирования</a></li>
   <li><a href="https://t.me/ruhighload" target="_blank">Оптимизация Web приложений</a></li>
   <li><a href="https://devtube.ru/" target="_blank">Крупнейшая коллекция видео с IT-событий</a></li>
+  <li><a href="http://nisnom.com/" target="_blank">Сборник HTML, CSS, JavaScript/jQuery компонентов</a></li>
+  
 </ul>
 
 <h2>Новости</h2>
