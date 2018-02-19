@@ -65,5 +65,5 @@
 
 <h2>Сервисы</h2>
 <ul>
-  <li><a href="https://hreftools.com/" target="_blank">Href Tools/</a></li>
+  <li><a href="https://hreftools.com/" target="_blank">Href Tools</a></li>
 </ul>
