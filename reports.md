@@ -21,9 +21,9 @@
 
 <h2>Новости</h2>
 <ul>
-  <li><a href="https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/" target="_blank">Chrome & Firefox now force .dev domains to HTTPS via preloaded HSTS, 16.02.2018</a></li>
-  <li><a href="https://www.opennet.ru/opennews/art.shtml?num=47258" target="_blank">В Chrome будет принудительно включаться HTTPS для доменов .dev и .foo, 16.02.2018</a></li>
-  <li><a href="https://habrahabr.ru/post/349408/" target="_blank">Yii 2.0.14, 19.02.2018</a></li>
+  <li><a href="https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/" target="_blank">Chrome & Firefox now force .dev domains to HTTPS via preloaded HSTS</a>, 16.02.2018</li>
+  <li><a href="https://www.opennet.ru/opennews/art.shtml?num=47258" target="_blank">В Chrome будет принудительно включаться HTTPS для доменов .dev и .foo</a>, 16.02.2018</li>
+  <li><a href="https://habrahabr.ru/post/349408/" target="_blank">Yii 2.0.14</a>, 19.02.2018</li>
   
 </ul>
 
