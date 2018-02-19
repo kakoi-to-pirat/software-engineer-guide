@@ -62,3 +62,8 @@
   <li><a href="http://guides.hexlet.io/" target="_blank">Hexlet Guides</a></li>
   <li><a href="https://rakh.im/" target="_blank">Блог Рахима</a></li>
 </ul>
+
+<h2>Сервисы</h2>
+<ul>
+  <li><a href="https://hreftools.com/" target="_blank">Href Tools/</a></li>
+</ul>
