@@ -66,4 +66,5 @@
 <h2>Сервисы</h2>
 <ul>
   <li><a href="https://hreftools.com/" target="_blank">Href Tools</a></li>
+  <li><a href="http://ourownthing.co.uk/gradpad.html?utm_source=twitter.com&utm_medium=social&utm_campaign=krutoy-vizualnyy-generator-gradientov-n&utm_content=16722558" target="_blank">Генератор градиентов на CSS</a></li>
 </ul>
