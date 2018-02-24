@@ -17,6 +17,7 @@
   <li><a href="http://nisnom.com/" target="_blank">Сборник HTML, CSS, JavaScript/jQuery компонентов</a></li>
   <li><a href="https://gethead.info" target="_blank">Что поместить в HEAD?</a></li>
   <li><a href="http://everynoise.com" target="_blank">Интерактивная карта: 1387 музыкальных жанров с примерами</a></li>
+  <li><a href="https://typejournal.ru/" target="_blank">Журнал «Шрифт»</a></li>
   
 </ul>
 
