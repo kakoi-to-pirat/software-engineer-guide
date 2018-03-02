@@ -18,6 +18,9 @@
   <li><a href="https://gethead.info" target="_blank">Что поместить в HEAD?</a></li>
   <li><a href="http://everynoise.com" target="_blank">Интерактивная карта: 1387 музыкальных жанров с примерами</a></li>
   <li><a href="https://typejournal.ru/" target="_blank">Журнал «Шрифт»</a></li>
+  <li><a href="https://github.com/devSchacht/translations/" target="_blank">Переводы крутых статей от devSchacht</a></li>
+  <li><a href="https://github.com/Hexlet/patterns" target="_blank">Шаблоны проектирования от Hexlet</a></li>
+  <li><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Web Developer Roadmap 2018</a></li>
   
 </ul>
 
@@ -71,4 +74,5 @@
 <ul>
   <li><a href="https://hreftools.com/" target="_blank">Href Tools</a></li>
   <li><a href="http://ourownthing.co.uk/gradpad.html?utm_source=twitter.com&utm_medium=social&utm_campaign=krutoy-vizualnyy-generator-gradientov-n&utm_content=16722558" target="_blank">Генератор градиентов на CSS</a></li>
+  <li><a href="https://phpdocker.io/generator" target="_blank">Генератор Docker-шаблонов для php-приложений</a></li>
 </ul>
