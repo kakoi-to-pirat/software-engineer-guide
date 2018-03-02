@@ -371,7 +371,7 @@
         <a href="http://designpatternsphp.readthedocs.io/ru/latest/" target="_blank">Два</a>.</p>
       <p>
         <strong>2.</strong>
-        <a href="https://www.youtube.com/playlist?list=PLmqFxxywkatTBkCujXqT7ZmYs96rOpsdl" target="_blank">
+        <a href="https://www.youtube.com/watch?v=S-RjiMAxHio&list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4" target="_blank">
           <strong> GRASP и GOF</strong>
         </a>
       </p>
