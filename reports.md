@@ -43,6 +43,7 @@
   <li><a href="https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53" target="_blank">Dropdown alternatives for better (mobile) forms</a></li>
   <li><a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d" target="_blank">Итак, вы хотите научиться функциональному программированию (Часть 1)</a></li>
   <li><a href="https://medium.com/devschacht/jordan-harband-array-iteration-methods-summarized-52c1e759b9bc" target="_blank">Методы обхода массива</a></li>
+  <li><a href="https://habrahabr.ru/post/324688/" target="_blank">Чем отличается императивное программирование от декларативного</a></li>
 </ul>
 
 <h2>Доклады</h2>
