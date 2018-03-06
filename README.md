@@ -140,9 +140,6 @@
       <p>
         <strong>4. Практика верстки</strong>
       </p>
-      <p>4.0
-        <a href="https://htmlacademy.ru/courses/4/run/1" target="_blank">В HTML Academy</a>
-      </p>
       <p>4.1
         <a href="https://www.youtube.com/watch?v=7gjxE_VEA_4&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=68" target="_blank">Пример хорошей верстки</a>
       </p>
