@@ -24,9 +24,9 @@
         <li>По верстке есть отличный текстовый гайд
           "<a href="http://webmasters.teamdev.com/"
             target="_blank"><em>Вёрстка — это не тупо!</em></a>".</li>
-        <li>По фронтенду — серия статей, из двух частей
-          "<a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328"
-            target="_blank"><em>От нуля до героя фронтенда</em></a>".</li>
+        <li>По фронтенду — серия статей
+          "<em>От нуля до героя фронтенда: <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328"
+            target="_blank">часть 1</a>, <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-25f19e56eb29" target="_blank">часть 2</a></em>".</li>
         <li>По бэкенду (php) — учебник 
           "<a href="http://getjump.github.io/ru-php-the-right-way/" target="_blank">PHP: Правильный путь</a>".</li>
         <li>По базам данных подойдет любая книжка, в принципе. Например,
