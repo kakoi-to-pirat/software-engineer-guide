@@ -13,7 +13,7 @@
   <li><a href="http://designpatternsphp.readthedocs.io/ru/latest/" target="_blank">DesignPatternsPHP</a></li>
   <li><a href="https://refactoring.guru/ru/design-patterns/catalog" target="_blank">Каталог паттернов проектирования</a></li>
   <li><a href="http://design-pattern.ru/patterns/data-transfer-object.html" target="_blank">Справочник «Паттерны проектирования»</a></li>
-  <li><a href="https://t.me/ruhighload" target="_blank">Оптимизация Web приложений</a></li>
+  <li><a href="https://ruhighload.com" target="_blank">Оптимизация Web приложений</a></li>
   <li><a href="https://devtube.ru/" target="_blank">Крупнейшая коллекция видео с IT-событий</a></li>
   <li><a href="http://nisnom.com/" target="_blank">Сборник HTML, CSS, JavaScript/jQuery компонентов</a></li>
   <li><a href="https://gethead.info" target="_blank">Что поместить в HEAD?</a></li>
