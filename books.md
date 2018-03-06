@@ -44,6 +44,7 @@
     target="_blank">Грокаем Алгоритмы</a></li>
   <li><a href="https://cafe-aristokrat.ru/static/doc/0000/0000/0102/102807.m0nldixuku.pdf" target="_blank">Совершенный код</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/142429922/" target="_blank">Чистый код. Создание, анализ и рефакторинг.</a</li>
+  <li><a href="https://www.ozon.ru/context/detail/id/1308678/" target="_blank">Рефакторинг. Улучшение существующего кода.</a</li>
   <li><a href="https://www.ozon.ru/context/detail/id/140489225/" target="_blank">Экстремальное программирование: разработка через тестирование</a></li>
 </ul>
 
