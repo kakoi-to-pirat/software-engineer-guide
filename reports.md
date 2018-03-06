@@ -22,7 +22,8 @@
   <li><a href="https://github.com/devSchacht/translations/" target="_blank">Переводы крутых статей от devSchacht</a></li>
   <li><a href="https://github.com/Hexlet/patterns" target="_blank">Шаблоны проектирования от Hexlet</a></li>
   <li><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Web Developer Roadmap 2018</a></li>
-  
+  <li><a href="https://github.com/andrew--r/frontend-case-studies" target="_blank">Frontend Case Studies</a></li>
+
 </ul>
 
 <h2>Новости</h2>
