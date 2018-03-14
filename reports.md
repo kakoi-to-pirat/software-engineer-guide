@@ -23,7 +23,8 @@
   <li><a href="https://github.com/Hexlet/patterns" target="_blank">Шаблоны проектирования от Hexlet</a></li>
   <li><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Web Developer Roadmap 2018</a></li>
   <li><a href="https://github.com/andrew--r/frontend-case-studies" target="_blank">Frontend Case Studies</a></li>
-
+  <li><a href="https://github.com/codedokode/pasta/blob/master/README.md" target="_blank">php-паста</a></li>
+  
 </ul>
 
 <h2>Новости</h2>
