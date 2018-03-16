@@ -52,6 +52,7 @@
 <h2>Доклады</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=58BpEJAplsM" target="_blank">Семантическое программирование: куда поместить код. YiiConf 2017</a></li>
+  <li><a href="https://www.youtube.com/watch?v=DukfcM24tgk&index=20&list=LLvPdIxe9ZhDJyXEWsNVgBcw&t=0s" target="_blank">Максим Дорофеев — Воспитай свою обезьяну</a></li>
 </ul>
 
 <h2>Youtube-каналы</h2>
