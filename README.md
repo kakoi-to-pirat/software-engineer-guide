@@ -567,6 +567,36 @@
         <a href="https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/" target="_blank">Установка Vagrant</a>
       </p>
       <h2 id="Дизайн">Дизайн</h2>
+      <p><a href="https://www.youtube.com/watch?v=MSnt9cznhTc/" target="_blank">UI/UX. Что это такое?</a></p>
+      <h3>Настройка ФШ 2018</h3>
+      <p>1.
+        <a href="https://www.youtube.com/watch?v=fgQeE5jORjc&list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4&index=2" target="_blank">Солдаткин</a>
+      </p>
+      <p>2.
+        <a href="https://www.youtube.com/watch?v=XWeMeBQj0OM&list=PLpywlLTCVgaQonZNh74F1Duyhs3EpvIyR" target="_blank">Менчуковский</a>
+      </p>
+      <h3>Практика по ФШ 2018</h3>
+       <p>1.
+        <a href="https://www.youtube.com/watch?v=9Nehj8kD3R8" target="_blank">Home #2</a>
+      </p>
+      <p>2.
+        <a href="https://www.youtube.com/watch?v=bN8b_o7Ymsk" target="_blank">Home #2</a></p>
+      <h3>Sketch, Figma, Adobe Хd</h3>
+      <p><a href="https://www.youtube.com/watch?v=5opycxQD41E" target="_blank">Обзор</a></p>
+      <h3>youtube-каналы</h3>
+      <p>1.
+        <a href="https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw/" target="_blank">DesignProsmotr</a>
+      </p>
+      <p>2.
+        <a href="https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtg/" target="_blank">Академия Яндекс. Дизайн</a>
+      </p>
+      <p>3.
+        <a href="https://www.youtube.com/playlist?list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4/" target="_blank">Максим Солдаткин</a>
+      </p>
+      <p>4.
+       <a href="https://www.youtube.com/channel/UCSLMlkPTunVwMXDoNkLPplg/" target="_blank">Виталий Менчуковский</a>
+      </p>
+      <h3>Полезные статьи</h3>
       <p>1.
         <a href="https://habrahabr.ru/company/logomachine/blog/332186/" target="_blank">Про визитки</a>
       </p>
