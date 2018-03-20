@@ -232,9 +232,12 @@
         <strong>5. Декларативный подход в php</strong>
       </p>
       <p>5.0
-        <a href="https://www.youtube.com/watch?v=2Wmd4L9oErg" target="_blank">Теория</a>
+        <a href="https://www.youtube.com/watch?v=2Wmd4L9oErg" target="_blank">Отличие декларативного от императивного стиля</a>
       </p>
-      <p>5.1 Практика:
+      <p>5.1
+        <a href="https://coursehunters.net/course/hexlet-php-sicp" target="_blank">Построение абстракций в php</a>.
+      </p>
+      <p>5.2 Практика:
         <a href="https://www.youtube.com/watch?v=EaCR8ADzDow" target="_blank">Раз</a>.
         <a href="https://www.youtube.com/watch?v=RxN_Oh7c5nM" target="_blank">Два</a>
       </p>
