@@ -498,9 +498,12 @@
       </p>
       <p>1.8. Vue.js</p>
       <p>1.8.1
-        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
+        <a href="https://ru.vuejs.org/v2/guide/" target="_blank"> Оф. документация по Vue.js</a>
       </p>
       <p>1.8.2
+        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
+      </p>
+      <p>1.8.3
         <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
       </p>
       <p>1.9.
