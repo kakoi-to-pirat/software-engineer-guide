@@ -484,14 +484,24 @@
         <a href="https://www.youtube.com/watch?v=jlBfRDU_3OY&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=51" target="_blank">Введение в ФП на JS</a>
       </p>
       <p>1.7. React.js</p>
-      <p>1.7.1
-        <a href="https://www.youtube.com/watch?time_continue=1&amp;v=ol4OVMJZC1w" target="_blank">от learn.javascript.ru</a>
+       <p>1.7.1
+        <a href="http://gitbook.com/@maxfarseer" target="_blank">Учебник — gitbook.com/@maxfarseer</a>
       </p>
       <p>1.7.2
+        <a href="https://www.youtube.com/watch?time_continue=1&amp;v=ol4OVMJZC1w" target="_blank">от learn.javascript.ru</a>
+      </p>
+      <p>1.7.3
         <a href="https://www.youtube.com/watch?v=fQAKKXc6BCM&amp;list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl" target="_blank">от CodeDojo</a>
       </p>
-      <p>1.8.
-        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля</a>
+      <p>1.7.4
+        <a href="http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz" target="_blank">от CSSSR</a>
+      </p>
+      <p>1.8. Vue.js</p>
+      <p>1.8.1
+        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
+      </p>
+      <p>1.8.2
+        <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
       </p>
       <p>1.9.
         <a href="https://www.youtube.com/watch?v=xPFRUM_oDKA" target="_blank">ANTY HYPE</a>
