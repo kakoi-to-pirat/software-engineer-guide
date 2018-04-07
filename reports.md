@@ -58,8 +58,11 @@
   <li><a href="https://www.youtube.com/watch?v=58BpEJAplsM" target="_blank">Семантическое программирование: куда поместить код. YiiConf 2017</a></li>
   <li><a href="https://www.youtube.com/watch?v=DukfcM24tgk&index=20&list=LLvPdIxe9ZhDJyXEWsNVgBcw&t=0s" target="_blank">Максим Дорофеев — Воспитай свою обезьяну</a></li>
   <li><a href="https://www.youtube.com/watch?v=n6Iasl6bx4M&t=0s&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=14" target="_blank">Асинхронный PHP</a></li>
-  <li><a href="https://www.youtube.com/watch?v=39TUy0XiNqQ" target="_blank">Реактивный PHP. </a></li>
-  <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg" target="_blank">Функциональное программирование и PHP.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=39TUy0XiNqQ" target="_blank">Реактивный PHP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg" target="_blank">Функциональное программирование и PHP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=rrSLvFoEhLI" target="_blank">Плохие практики в ООП</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
   
 </ul>
 
@@ -75,6 +78,7 @@
   <li><a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank">Fun Fun Function</a></li>
   <li><a href="https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw" target="_blank">Google Chrome Developers</a></li>
   <li><a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag" target="_blank">Layout Land</a></li>
+  
 </ul>
 
 <h2>Блоги и паблики</h2>
@@ -82,6 +86,7 @@
   <li><a href="http://www.elisdn.ru/" target="_blank">Дмитрий Елисеев</a></li>
   <li><a href="http://guides.hexlet.io/" target="_blank">Hexlet Guides</a></li>
   <li><a href="https://rakh.im/" target="_blank">Блог Рахима</a></li>
+  
 </ul>
 
 <h2>Сервисы</h2>
@@ -89,4 +94,5 @@
   <li><a href="https://hreftools.com/" target="_blank">Href Tools</a></li>
   <li><a href="http://ourownthing.co.uk/gradpad.html?utm_source=twitter.com&utm_medium=social&utm_campaign=krutoy-vizualnyy-generator-gradientov-n&utm_content=16722558" target="_blank">Генератор градиентов на CSS</a></li>
   <li><a href="https://phpdocker.io/generator" target="_blank">Генератор Docker-шаблонов для php-приложений</a></li>
+  
 </ul>
