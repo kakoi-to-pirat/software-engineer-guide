@@ -62,7 +62,7 @@
   <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg" target="_blank">Функциональное программирование и PHP</a></li>
   <li><a href="https://www.youtube.com/watch?v=rrSLvFoEhLI" target="_blank">Плохие практики в ООП</a></li>
   <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
-  <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
+  <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc" target="_blank">Солидный код</a></li>
   
 </ul>
 
