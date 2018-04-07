@@ -24,7 +24,8 @@
   <li><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Web Developer Roadmap 2018</a></li>
   <li><a href="https://github.com/andrew--r/frontend-case-studies" target="_blank">Frontend Case Studies</a></li>
   <li><a href="https://github.com/codedokode/pasta/blob/master/README.md" target="_blank">php-паста</a></li>
-  
+  <li><a href="https://github.com/andrew--r/ui-developer-tips" target="_blank">Советы для разработчика интерфейсов</li>
+    
 </ul>
 
 <h2>Новости</h2>
@@ -32,7 +33,7 @@
   <li><a href="https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/" target="_blank">Chrome & Firefox now force .dev domains to HTTPS via preloaded HSTS</a>, 16.02.2018</li>
   <li><a href="https://www.opennet.ru/opennews/art.shtml?num=47258" target="_blank">В Chrome будет принудительно включаться HTTPS для доменов .dev и .foo</a>, 16.02.2018</li>
   <li><a href="https://habrahabr.ru/post/349408/" target="_blank">Yii 2.0.14</a>, 19.02.2018</li>
-  <li><a href="https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md" target="_blank">PSR-15 was accepted</a>, 23.01.2018</li>
+  <li><a href="https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md" target="_blank">PSR-15 was accepted</a>, 23.01.2018</li>  
   
 </ul>
 
@@ -47,12 +48,19 @@
   <li><a href="https://medium.com/devschacht/jordan-harband-array-iteration-methods-summarized-52c1e759b9bc" target="_blank">Методы обхода массива</a></li>
   <li><a href="https://habrahabr.ru/post/324688/" target="_blank">Чем отличается императивное программирование от декларативного</a></li>
   <li><a href="http://mosink.ru/blog/all/the-story-of-a-beginner-designer/" target="_blank">История одного начинающего дизайнера</a></li>
+  <li><a href="https://bespoyasov.ru/blog/working-effectively-with-legacy-code/" target="_blank">«Эффективная работа с легаси‑кодом» Майкла Физерса</a></li>
+  <li><a href="https://habrahabr.ru/post/344184/" target="_blank">Паттерны разработки: MVC vs MVP vs MVVM vs MVI</a></li>
+  
 </ul>
 
 <h2>Доклады</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=58BpEJAplsM" target="_blank">Семантическое программирование: куда поместить код. YiiConf 2017</a></li>
   <li><a href="https://www.youtube.com/watch?v=DukfcM24tgk&index=20&list=LLvPdIxe9ZhDJyXEWsNVgBcw&t=0s" target="_blank">Максим Дорофеев — Воспитай свою обезьяну</a></li>
+  <li><a href="https://www.youtube.com/watch?v=n6Iasl6bx4M&t=0s&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=14" target="_blank">Асинхронный PHP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=39TUy0XiNqQ" target="_blank">Реактивный PHP. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg" target="_blank">Функциональное программирование и PHP.</a></li>
+  
 </ul>
 
 <h2>Youtube-каналы</h2>
