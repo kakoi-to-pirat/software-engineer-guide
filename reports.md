@@ -50,6 +50,11 @@
   <li><a href="http://mosink.ru/blog/all/the-story-of-a-beginner-designer/" target="_blank">История одного начинающего дизайнера</a></li>
   <li><a href="https://bespoyasov.ru/blog/working-effectively-with-legacy-code/" target="_blank">«Эффективная работа с легаси‑кодом» Майкла Физерса</a></li>
   <li><a href="https://habrahabr.ru/post/344184/" target="_blank">Паттерны разработки: MVC vs MVP vs MVVM vs MVI</a></li>
+  <li>Сборник статей по книге «Как пережить полный конец обеда, или безопасность в PHP» в нескольких частях:<br>
+    <a href="https://habrahabr.ru/company/mailru/blog/310726/" target="_blank">Часть 1. Кто и как хочет нас атаковать</a><br>
+    <a href="https://habrahabr.ru/company/mailru/blog/352440/" target="_blank">Часть 2. Атаки с внедрением кода</a><br>
+    <a href="https://habrahabr.ru/company/mailru/blog/352442/" target="_blank">Часть 3. Межсайтовый скриптинг (XSS)</a><br>
+  </li>
   
 </ul>
 
