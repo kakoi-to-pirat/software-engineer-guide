@@ -68,7 +68,6 @@
   <li><a href="https://www.youtube.com/watch?v=rrSLvFoEhLI" target="_blank">Плохие практики в ООП</a></li>
   <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
   <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc" target="_blank">Солидный код</a></li>
-  <li><a href="https://www.youtube.com/watch?v=h9NQs0SEVoA" target="_blank">MeetUp "Фреймворк Vue.js" от Acronis</a></li>
 </ul>
 
 <h2>Youtube-каналы</h2>
