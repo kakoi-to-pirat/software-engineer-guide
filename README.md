@@ -448,12 +448,12 @@
       </p>
       <p>
         <strong>2. </strong>
-        <a href="https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWiUdG5jYeOiia-oTACZOFg" target="_blank">
-          <strong>CRUD на Laravel</strong>
+        <a href="https://coursehunters.net/course/laravel-kak-instrument-na-primere-sozdaniya-bloga" target="_blank">
+          <strong>Laravel как инструмент: на примере создания блога</strong>
         </a>
       </p>
       <p>2.1
-        <a href="http://www.elisdn.ru/blog/117/laravel-master-class" target="_blank">Курс</a>
+        <a href="http://www.elisdn.ru/blog/117/laravel-master-class" target="_blank">Мастер-класс по Laravel от Дмитрия Елисеева</a> (есть на coursehunters.net)
       </p>
       <p>2.2
         <a href="https://laravel.ru/" target="_blank">Документация</a>
