@@ -64,4 +64,6 @@
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&amp;utm_medium=partner&amp;utm_campaign=955860"
     target="_blank">Джедайские техники</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/24310355/"
+    target="_blank">Антихрупкость. Как извлечь выгоду из хаоса</a></li>
 </ul>
