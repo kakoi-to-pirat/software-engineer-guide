@@ -53,7 +53,7 @@
         </li>
       </ol>      
       <p>Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть <a href="https://htmlacademy.ru/courses/4/run/1" target="_blank">онлайн-тренажер</a>. Может быть полезным пройти бесплатную часть.</p>   
-      <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube (<a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457" target="_blank"><em>злой путь</em></a><em> с перспективой перейти на </em><a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18" target="_blank"><em>хороший путь</em></a>). Самые объективные и качественные, на мой взгляд, не отнимающие слиш<a href=ком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.</p>
+      <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube (<a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457" target="_blank"><em>злой путь</em></a><em> с перспективой перейти на </em><a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18" target="_blank"><em>хороший путь</em></a>). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.</p>
       <figure contenteditable="false">
         <div class="figure_wrapper">
           <img src="http://telegra.ph/file/861c890067c9f44529c12.png">
@@ -62,16 +62,14 @@
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
       </figure>      
       <h2 id="Основы-программирования">Основы программирования</h2>
-      <p>1.
-        <a href="https://www.youtube.com/watch?v=rrRZZ_3licM&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33" target="_blank">Лучшее у hexlet</a><a href=
+      <p>1. <a href="https://www.youtube.com/watch?v=rrRZZ_3licM&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33" target="_blank">Лучшее у hexlet</a>
       </p>
       <p>2. Курсы и практика:
         <a href="http://code-basics.ru/" target="_blank">Раз</a>.
         <a href="https://ru.hexlet.io/courses/programming-basics" target="_blank">Два</a>.
         <a href="https://ru.hexlet.io/courses/introduction_to_programming" target="_blank">Три</a>.
       </p>
-      <p>3.
-        <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5" target="_blank">Гарвардский курс "CS50"</a>
+      <p>3. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5" target="_blank">Гарвардский курс "CS50"</a>
       </p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>
@@ -112,7 +110,7 @@
         <a href="https://www.youtube.com/watch?v=xiBCOmjnXKo" target="_blank">CSS-препроцессоры</a>
       </p>
       <p>2.5 Об этом нужно знать:</p>
-      <p>2.5.1<a href=
+      <p>2.5.1 
         <a href="https://www.youtube.com/watch?v=CaDnbOjXjRg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=37" target="_blank">Про ванильный CSS</a>
       </p>
       <p>2.5.2
@@ -143,7 +141,7 @@
       <p>4.1
         <a href="https://www.youtube.com/watch?v=7gjxE_VEA_4&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=68" target="_blank">Пример хорошей верстки</a>
       </p>
-      <p>4.2<a href=
+      <p>4.2
         <a href="https://www.youtube.com/watch?v=QGMygnzlifk&amp;list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv" target="_blank">Стримы по верстке</a>
       </p>
       <p>4.3
