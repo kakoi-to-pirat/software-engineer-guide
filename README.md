@@ -89,7 +89,7 @@
       <p>1.2
         <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a>
       </p>
-      <p>1.3<a href=
+      <p>1.3
         <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a>
       </p>
       <p>1.4
