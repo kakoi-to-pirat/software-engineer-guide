@@ -442,7 +442,7 @@
         </a>
       </p>
       <p>1.1
-        <a href="http://www.elisdn.ru/blog/107/yii2-shop-master-class" target="_blank">Интернет-магазин на Yii2 от Дмитрия Елисеева</a></p>
+        <a href="http://www.elisdn.ru/blog/107/yii2-shop-master-class" target="_blank">Интернет-магазин на Yii2 от Дмитрия Елисеева</a> (есть на coursehunters.net)</p>
       <p>1.2
         <a href="https://nix-tips.ru/yii2-api-guides/" target="_blank">Документация</a>
       </p>
