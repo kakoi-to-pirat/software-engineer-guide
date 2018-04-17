@@ -405,24 +405,24 @@
       <p>1.2
         <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
       </p>
-      <p>
-        <strong>2. DDD. </strong>
-        <a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Domain Driven Design</a>
-      </p>
-       <p>3.
+       <p>2.
         <a href="https://www.youtube.com/watch?v=uj6inHmDmAY" target="_blank">
           <strong>Структура проекта</strong>
         </a>
       </p>
-      <p>4.
+      <p>3.
         <a href="https://www.youtube.com/watch?v=WL0-bd2Afho" target="_blank">
           <strong>Рецепты для Yii2</strong>
         </a>
       </p>
-      <p>5.
+      <p>4.
         <a href="http://www.elisdn.ru/blog/105/services-and-controllers" target="_blank">
           <strong>Сервисный слой и контроллеры</strong>
         </a>
+      </p>
+      <p>
+        <strong>5. DDD. </strong>
+        <a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Domain Driven Design</a>
       </p>
       <p>
         <strong>6. ADR.</strong>
