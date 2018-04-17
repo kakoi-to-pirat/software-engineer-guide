@@ -419,7 +419,7 @@
       </p>
       <p>3.
         <a href="https://www.youtube.com/watch?v=5WdKLW3vCQ4" target="_blank">
-          <strong>Dependency Injection и Service Locator в Yii 2"</strong>
+          <strong>Dependency Injection и Service Locator в Yii2</strong>
         </a>
       </p>
       <p>4.
