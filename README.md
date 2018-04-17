@@ -409,20 +409,30 @@
       <h2>Архитектура</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
-          <strong>Что такое Dependency Injection | Внедрение зависимостей</strong>
+          <strong>Dependency Injection | Внедрение зависимостей</strong>
         </a>
       </p>
       <p>2.
+        <a href="http://designpatternsphp.readthedocs.io/ru/latest/More/ServiceLocator/README.html" target="_blank">
+          <strong>Service Locator | Локатор Служб</strong>
+        </a>
+      </p>
+      <p>3.
+        <a href="https://www.youtube.com/watch?v=5WdKLW3vCQ4" target="_blank">
+          <strong>Dependency Injection и Service Locator в Yii 2"</strong>
+        </a>
+      </p>
+      <p>4.
         <a href="https://www.youtube.com/watch?v=uj6inHmDmAY" target="_blank">
           <strong>Структура проекта</strong>
         </a>
       </p>
-      <p>3.
+      <p>5.
         <a href="https://www.youtube.com/watch?v=WL0-bd2Afho" target="_blank">
           <strong>Рецепты для Yii2</strong>
         </a>
       </p>
-      <p>4.
+      <p>6.
         <a href="http://www.elisdn.ru/blog/105/services-and-controllers" target="_blank">
           <strong>Сервисный слой и контроллеры</strong>
         </a>
