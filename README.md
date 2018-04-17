@@ -407,9 +407,9 @@
         <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
       </p>
       <h2>Архитектура</h2>
-      <p>1.
+      <p><strong>1.</strong>
         <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
-          <strong>Что такое Dependency Injection | Внедрение зависимостей/strong>
+          <strong>Что такое Dependency Injection | Внедрение зависимостей</strong>
         </a>
       </p>
       <p>2.
