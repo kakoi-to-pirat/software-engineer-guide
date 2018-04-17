@@ -376,7 +376,7 @@
       <p>
         <strong>3. SOLID в PHP:</strong>
         <a href="https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg" target="_blank">Раз</a>.
-        <a href="/Ot-STUPID-koda-k-SOLID-kodu-10-29">Два</a>.</p>
+        <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
       <p>4.
         <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны?</a></p>
       <p>
