@@ -55,6 +55,7 @@
     <a href="https://habrahabr.ru/company/mailru/blog/352440/" target="_blank">Часть 2. Атаки с внедрением кода</a><br>
     <a href="https://habrahabr.ru/company/mailru/blog/352442/" target="_blank">Часть 3. Межсайтовый скриптинг (XSS)</a><br>
   </li>
+  <li><a href="http://www.elisdn.ru/blog/104/domain-entities-modelling" target="_blank">DDD. Проектирование сущностей предметной области</a></li>
   
 </ul>
 
