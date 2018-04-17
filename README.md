@@ -409,9 +409,14 @@
         <strong>2. DDD. </strong>
         <a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Domain Driven Design</a>
       </p>
-      <p>3.
-        <a href="https://www.youtube.com/watch?v=WL0-bd2Afho" target="_blank">
+       <p>3.
+        <a href="https://www.youtube.com/watch?v=uj6inHmDmAY" target="_blank">
           <strong>Структура проекта</strong>
+        </a>
+      </p>
+      <p>4.
+        <a href="https://www.youtube.com/watch?v=WL0-bd2Afho" target="_blank">
+          <strong>Рецепты для Yii2</strong>
         </a>
       </p>
       <p>
