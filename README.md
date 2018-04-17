@@ -387,8 +387,9 @@
       </p>
       <p>5.2 Книга 
         "<a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-155"
-          target="_blank">Грокаем Алгоритмы</a>"</p>
-      <h2 id="Архитектура">Архитектура</h2>
+          target="_blank">Грокаем Алгоритмы</a>"
+      </p>
+      <h2>Внешнее взаимодействие</h2>
       <p>
         <strong>0. Веб-сервисы</strong>
       </p>
@@ -405,7 +406,13 @@
       <p>1.2
         <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
       </p>
-       <p>2.
+      <h2>Архитектура</h2>
+      <p>1.
+        <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
+          <strong>Что такое Dependency Injection | Внедрение зависимостей/strong>
+        </a>
+      </p>
+      <p>2.
         <a href="https://www.youtube.com/watch?v=uj6inHmDmAY" target="_blank">
           <strong>Структура проекта</strong>
         </a>
