@@ -419,21 +419,20 @@
           <strong>Рецепты для Yii2</strong>
         </a>
       </p>
-      <p>
-        <strong>4. </strong>
+      <p>5.
         <a href="http://www.elisdn.ru/blog/105/services-and-controllers" target="_blank">
           <strong>Сервисный слой и контроллеры</strong>
         </a>
       </p>
       <p>
-        <strong>5. ADR.</strong>
+        <strong>6. ADR.</strong>
         "<a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
       <p>
-        <strong>6. TDD. </strong>
+        <strong>7. TDD. </strong>
         <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Как работать с TDD</a>
       </p>
       <p>
-        <strong>7. Состояния: </strong>
+        <strong>8. Состояния: </strong>
         <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
           target="_blank">Stateful vs. Stateless</a>
       </p>
