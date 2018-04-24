@@ -56,6 +56,7 @@
     <a href="https://habrahabr.ru/company/mailru/blog/352442/" target="_blank">Часть 3. Межсайтовый скриптинг (XSS)</a><br>
   </li>
   <li><a href="http://www.elisdn.ru/blog/104/domain-entities-modelling" target="_blank">DDD. Проектирование сущностей предметной области</a></li>
+  <li>Анатомия JavaScript-ошибок: <a href="https://blog.bugsnag.com/source-maps/">Часть 1</a>, <a href="https://blog.bugsnag.com/anatomy-of-a-javascript-error">Часть 2</a></li>
   
 </ul>
 
