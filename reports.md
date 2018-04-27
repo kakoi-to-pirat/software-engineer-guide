@@ -69,7 +69,7 @@
   <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg">Функциональное программирование и PHP</a></li>
   <li><a href="https://www.youtube.com/watch?v=rrSLvFoEhLI">Плохие практики в ООП</a></li>
   <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
-  <li><a href="https://www.youtube.com/watch?v=8NF7TKWpP_s">История реалищации ADR в одном проекте </a></li>
+  <li><a href="https://www.youtube.com/watch?v=8NF7TKWpP_s">История реализации ADR в одном проекте </a></li>
   <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc">Солидный код</a></li>
 </ul>
 
