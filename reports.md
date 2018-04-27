@@ -57,7 +57,7 @@
   </li>
   <li><a href="http://www.elisdn.ru/blog/104/domain-entities-modelling" target="_blank">DDD. Проектирование сущностей предметной области</a></li>
   <li>Анатомия JavaScript-ошибок: <a href="https://blog.bugsnag.com/source-maps/">Часть 1</a>, <a href="https://blog.bugsnag.com/anatomy-of-a-javascript-error">Часть 2</a></li>
-  <li><a href="https://slimframework.ru/cookbook/action-domain-responder">ADR и микрофрейморк Slim</a></li>
+  <li><a href="https://slimframework.ru/cookbook/action-domain-responder">ADR и микрофреймворк Slim</a></li>
 </ul>
 
 <h2>Доклады</h2>
