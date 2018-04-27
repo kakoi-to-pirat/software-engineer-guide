@@ -57,19 +57,20 @@
   </li>
   <li><a href="http://www.elisdn.ru/blog/104/domain-entities-modelling" target="_blank">DDD. Проектирование сущностей предметной области</a></li>
   <li>Анатомия JavaScript-ошибок: <a href="https://blog.bugsnag.com/source-maps/">Часть 1</a>, <a href="https://blog.bugsnag.com/anatomy-of-a-javascript-error">Часть 2</a></li>
-  
+  <li><a href="https://slimframework.ru/cookbook/action-domain-responder">ADR и микрофрейморк Slim</a></li>
 </ul>
 
 <h2>Доклады</h2>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=58BpEJAplsM" target="_blank">Семантическое программирование: куда поместить код. YiiConf 2017</a></li>
-  <li><a href="https://www.youtube.com/watch?v=DukfcM24tgk&index=20&list=LLvPdIxe9ZhDJyXEWsNVgBcw&t=0s" target="_blank">Максим Дорофеев — Воспитай свою обезьяну</a></li>
-  <li><a href="https://www.youtube.com/watch?v=n6Iasl6bx4M&t=0s&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=14" target="_blank">Асинхронный PHP</a></li>
-  <li><a href="https://www.youtube.com/watch?v=39TUy0XiNqQ" target="_blank">Реактивный PHP</a></li>
-  <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg" target="_blank">Функциональное программирование и PHP</a></li>
-  <li><a href="https://www.youtube.com/watch?v=rrSLvFoEhLI" target="_blank">Плохие практики в ООП</a></li>
-  <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
-  <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc" target="_blank">Солидный код</a></li>
+  <li><a href="https://www.youtube.com/watch?v=58BpEJAplsM">Семантическое программирование: куда поместить код. YiiConf 2017</a></li>
+  <li><a href="https://www.youtube.com/watch?v=DukfcM24tgk&index=20&list=LLvPdIxe9ZhDJyXEWsNVgBcw&t=0s">Максим Дорофеев — Воспитай свою обезьяну</a></li>
+  <li><a href="https://www.youtube.com/watch?v=n6Iasl6bx4M&t=0s&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=14">Асинхронный PHP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=39TUy0XiNqQ">Реактивный PHP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ZAxkFJC1wsg">Функциональное программирование и PHP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=rrSLvFoEhLI">Плохие практики в ООП</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8NF7TKWpP_s">История реалищации ADR в одном проекте </a></li>
+  <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc">Солидный код</a></li>
 </ul>
 
 <h2>Youtube-каналы</h2>
