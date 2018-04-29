@@ -60,6 +60,7 @@
   <li><a href="https://slimframework.ru/cookbook/action-domain-responder">ADR и микрофреймворк Slim</a></li>
   <li><a href="http://devacademy.ru/posts/struktura-vieb-prilozhienii/">Структура веб-приложений</a></li>
   <li><a href="https://svyatoslav.biz/education/webtechs_and_webapps_in_pictures/">Общие принципы работы веб-технологий в картинках</a></li>
+  <li><a href="https://habr.com/post/327746/">Построение гибких PHP приложений</a></li>
 </ul>
 
 <h2>Доклады</h2>
@@ -73,6 +74,11 @@
   <li><a href="https://www.youtube.com/watch?v=7HXIrEsmlzM">Дмитрий Науменко "Просто о сложном - Domain Driven Design"</a></li>
   <li><a href="https://www.youtube.com/watch?v=8NF7TKWpP_s">История реализации ADR в одном проекте </a></li>
   <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc">Солидный код</a></li>
+  <li>Большой сборник видеозаписей докладов про
+    <a href="https://github.com/hH39797J/javascript-videos-ru-2018">JavaScript за 2018 год</a>, 
+    <a href="https://github.com/hH39797J/python-videos-ru-2018">Python за 2018 год</a>, 
+    <a href="https://github.com/hH39797J/golang-videos-ru">Go за 2016, 2017, 2018 год</a>
+  </li>
 </ul>
 
 <h2>Youtube-каналы</h2>
