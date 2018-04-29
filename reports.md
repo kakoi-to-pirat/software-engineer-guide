@@ -76,8 +76,8 @@
   <li><a href="https://www.youtube.com/watch?v=pu0EXQvoaCc">Солидный код</a></li>
   <li>Большой сборник видеозаписей докладов про 
     <a href="https://github.com/hH39797J/javascript-videos-ru-2018">JavaScript за 2018 год</a>, 
-    <a href="https://github.com/hH39797J/python-videos-ru-2018">Python за 2018 год </a>, 
-    <a href="https://github.com/hH39797J/golang-videos-ru">Go за 2016, 2017, 2018 год </a>
+    <a href="https://github.com/hH39797J/python-videos-ru-2018">Python за 2018 год</a>, 
+    <a href="https://github.com/hH39797J/golang-videos-ru">Go за 2016, 2017, 2018 год</a>.
   </li>
 </ul>
 
