@@ -23,6 +23,11 @@
   <li><a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">PHP: объекты, шаблоны и методики программирования</a></li>
 </ul>
 
+<h2>Java</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/142431463/" target="_blank">Философия Java, Брюс Эккель</a></li>
+</ul>
+
 <h2>GIT</h2>
 <ul>
   <li><a href="https://git-scm.com/book/ru/v1" target="_blank">Pro Git</a></li>
@@ -58,6 +63,7 @@
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/20216992/" target="_blank">Паттерны проектирования</a> (Head First), O'Reilly</li>
   <li><a href="https://docs.google.com/file/d/0B6GuCegBf3X3Tm1rZl9BUTduQm8/edit" target="_blank">Банды Четырех «Паттерны проектирования»</a></li>
+    <li><a href="https://www.ozon.ru/context/detail/id/2457392/" target="_blank">Приемы объектно-ориентированного проектирования. Паттерны проектирования.</a></li>
 </ul>
 
 <h2>Философия, мотивация, самоорганизация</h2>
