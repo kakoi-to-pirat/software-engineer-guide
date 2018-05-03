@@ -63,7 +63,8 @@
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/20216992/" target="_blank">Паттерны проектирования</a> (Head First), O'Reilly</li>
   <li><a href="https://docs.google.com/file/d/0B6GuCegBf3X3Tm1rZl9BUTduQm8/edit" target="_blank">Банды Четырех «Паттерны проектирования»</a></li>
-    <li><a href="https://www.ozon.ru/context/detail/id/2457392/" target="_blank">Приемы объектно-ориентированного проектирования. Паттерны проектирования.</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/2457392/" target="_blank">Приемы объектно-ориентированного проектирования. Паттерны проектирования.</a></li>
+    <li><a href="https://www.ozon.ru/context/detail/id/1829406/" target="_blank">Patterns of Enterprise Application Architecture.</a></li>
 </ul>
 
 <h2>Философия, мотивация, самоорганизация</h2>
