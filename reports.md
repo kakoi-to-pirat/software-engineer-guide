@@ -79,6 +79,7 @@
     <a href="https://github.com/hH39797J/python-videos-ru-2018">Python за 2018 год</a>, 
     <a href="https://github.com/hH39797J/golang-videos-ru">Go за 2016, 2017, 2018 год</a>.
   </li>
+   <li><a href="https://www.youtube.com/watch?v=G6LJkWwZGuc">Николай Алименков — Парадигмы ООП</a></li>
 </ul>
 
 <h2>Youtube-каналы</h2>
