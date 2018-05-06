@@ -397,7 +397,7 @@
         <a href="https://www.youtube.com/watch?v=yaz3PRC6bUI" target="_blank">Раз</a>.
         <a href="http://php.net/manual/ru/refs.webservice.php" target="_blank">Два</a>.</p>
       <p>
-        <strong>1. REST API</strong>
+        <strong>1. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.</strong>
       </p>
       <p>1.1
         <a href="https://www.ibm.com/developerworks/ru/library/ws-restfu/" target="_blank">Раз</a>.
