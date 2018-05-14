@@ -361,6 +361,27 @@
       <p>8.3
         <a href="http://tigor.com.ua/blog/2009/10/21/orm-in-the-php-world/" target="_blank">Список ORM</a>
       </p>
+      <p>
+        <strong>9. NoSQL </strong>
+      </p>
+      <p>9.1
+        <a href="https://habr.com/post/214647/" target="_blank">PHP и различные виды NoSQL</a>
+      </p>
+      <p>9.2
+        <a href="https://www.youtube.com/watch?v=RYJS-jroFRk" target="_blank">Обзор NoSQL решений</a>
+      </p>
+      <p>
+        <strong>10. Redis </strong>
+      </p>
+      <p>10.1
+        <a href="https://www.youtube.com/watch?v=whp7wmaxmyU" target="_blank">Что такое Redis?</a>
+      </p>
+      <p>10.2
+        <a href="https://www.youtube.com/watch?v=0T3Uf6s85Vw" target="_blank">Пример практического применение Redis с Laravel</a>
+      </p>
+      <p>10.3
+        <a href="https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md" target="_blank">Книга о Redis</a>
+      </p>
       <h2 id="Паттерны-и-алгоритмы">Паттерны и алгоритмы</h2>
       <p>
         <strong>1. Шаблоны проектирования в PHP: </strong>
