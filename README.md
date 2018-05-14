@@ -577,6 +577,10 @@
         <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
           target="_blank">Цикл статей про ФП</a>
       </p>
+      <p>1.11.
+        <a href="https://getinstance.info/articles/javascript/introduction-to-service-workers/"
+          target="_blank">Service Worker</a>
+      </p>
       <p>x.x.
         <a href="https://ru.hexlet.io/professions/frontend" target="_blank">Фронтенд JS-программист</a>
       </p>
