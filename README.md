@@ -626,9 +626,9 @@
         <a href="https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/" target="_blank">Установка Vagrant</a>
       </p>
       <h2 id="DevOps">DevOps</h2>
-      <h3><strong>1. Ansible</strong><h3>
-      <p>1.1<a href="https://www.youtube.com/watch?v=IWxPJrelh5w/" target="_blank">Что такое Ansible?</a></p>
-      <p>1.2<a href="https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N" target="_blank">Курс по Ansible.</a></p>
+      <h3><strong>1. Ansible</strong></h3>
+      <p>1.1. <a href="https://www.youtube.com/watch?v=IWxPJrelh5w/" target="_blank">Что такое Ansible?</a></p>
+      <p>1.2. <a href="https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N" target="_blank">Курс по Ansible.</a></p>
       <h2 id="Дизайн">Дизайн</h2>
       <p><a href="https://www.youtube.com/watch?v=MSnt9cznhTc/" target="_blank">UI/UX. Что это такое?</a></p>
       <h3>Настройка ФШ 2018</h3>
