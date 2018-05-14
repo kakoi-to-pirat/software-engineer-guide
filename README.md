@@ -461,6 +461,22 @@
         <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
           target="_blank">Stateful vs. Stateless</a>
       </p>
+      <p>
+        <strong>9. CQRS и Event Sourcing: </strong>
+        <a href="https://www.youtube.com/watch?v=V24L4a9FFps"
+          target="_blank">Command/Query Responsibility Segregation — отделяем мух от котлет</a>
+      </p>
+      <p>
+        <strong>10. Микросервисная архитектура: </strong>
+        <a href="https://www.youtube.com/watch?v=ly77wvz2Bjo"
+          target="_blank">PHP и микросервисы</a>
+      </p>
+      <p>
+        <strong>11. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): </strong>
+        <a href="https://www.youtube.com/watch?v=XBsXLxd5_v4"
+          target="_blank">Доклад на PHP fwdays'17</a> и <a href="https://www.youtube.com/watch?v=4NOVYddMN-k"
+          target="_blank">Забацали Lambda-Функцию на AWS</a>
+      </p>
       <h2 id="Практика-PHP">Практика PHP </h2>
       <p>
         <strong>1. </strong>
