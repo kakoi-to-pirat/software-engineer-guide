@@ -25,7 +25,8 @@
   <li><a href="https://github.com/andrew--r/frontend-case-studies" target="_blank">Frontend Case Studies</a></li>
   <li><a href="https://github.com/codedokode/pasta/blob/master/README.md" target="_blank">php-паста</a></li>
   <li><a href="https://github.com/andrew--r/ui-developer-tips" target="_blank">Советы для разработчика интерфейсов</li>
-    
+  <li><a href="https://github.com/Hexlet/hexlet-slack-archive/wiki" target="_blank">Архивы хороших бесед из Слака Хекслета</li>
+   
 </ul>
 
 <h2>Новости</h2>
