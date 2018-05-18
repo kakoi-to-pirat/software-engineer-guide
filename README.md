@@ -654,6 +654,8 @@
       <h3><strong>1. Ansible</strong></h3>
       <p>1.1. <a href="https://www.youtube.com/watch?v=IWxPJrelh5w/" target="_blank">Что такое Ansible?</a></p>
       <p>1.2. <a href="https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N" target="_blank">Курс по Ansible.</a></p>
+      <h3><strong>2. Nginx и Php-Fpm</strong></h3>
+      <p>1.1. <a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/" target="_blank">Nginx, Php-Fpm и что это вообще?</a></p>      
       <h2 id="Дизайн">Дизайн</h2>
       <p><a href="https://www.youtube.com/watch?v=MSnt9cznhTc/" target="_blank">UI/UX. Что это такое?</a></p>
       <h3>Настройка ФШ 2018</h3>
