@@ -62,6 +62,9 @@
   <li><a href="http://devacademy.ru/posts/struktura-vieb-prilozhienii/">Структура веб-приложений</a></li>
   <li><a href="https://svyatoslav.biz/education/webtechs_and_webapps_in_pictures/">Общие принципы работы веб-технологий в картинках</a></li>
   <li><a href="https://habr.com/post/327746/">Построение гибких PHP приложений</a></li>
+  <li><a href="https://tyapk.ru/blog/post/dependency-injection-and-service-container">Что такое внедрение зависимостей (Dependency Injection)?</a></li>
+  <li><a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/">Nginx, Php-Fpm</a></li>
+  <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>
 </ul>
 
 <h2>Доклады</h2>
