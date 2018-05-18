@@ -650,11 +650,11 @@
       <p>1.2. <a href="https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N" target="_blank">Курс по Ansible.</a></p>
       <h3><strong>2. Nginx и Php-Fpm</strong></h3>
       <p>2.1. <a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/" target="_blank">Nginx, Php-Fpm и что это вообще?</a></p>
-      <h3><strong>3. Виртуалищация: Vagrant и Docker</strong></h3>
-      <p>3.1
+      <h3><strong>3. Виртуализация: Vagrant и Docker</strong></h3>
+      <p>3.1.
         <a href="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" target="_blank">Установка Docker</a>
       </p>
-      <p>3.2
+      <p>3.2.
         <a href="https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/" target="_blank">Установка Vagrant</a>
       </p>
       <h2 id="Дизайн">Дизайн</h2>
