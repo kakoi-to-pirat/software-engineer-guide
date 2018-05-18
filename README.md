@@ -683,6 +683,8 @@
         <a href="https://www.youtube.com/watch?v=bN8b_o7Ymsk" target="_blank">Home #2</a></p>
       <h3>Sketch, Figma, Adobe Хd</h3>
       <p><a href="https://www.youtube.com/watch?v=5opycxQD41E" target="_blank">Обзор</a></p>
+      <p><a href="https://www.youtube.com/watch?v=5i-ebNTjad8&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23" target="_blank">Официальный видео-туториал по основам Figma</a></p>
+      <p><a href="https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv" target="_blank">Вебинары по Figma на русском (см. на x1.25) </a></p>
       <h3>youtube-каналы</h3>
       <p>1.
         <a href="https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw/" target="_blank">DesignProsmotr</a>
