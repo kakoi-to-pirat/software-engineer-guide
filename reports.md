@@ -65,6 +65,8 @@
   <li><a href="https://tyapk.ru/blog/post/dependency-injection-and-service-container">Что такое внедрение зависимостей (Dependency Injection)?</a></li>
   <li><a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/">Nginx, Php-Fpm</a></li>
   <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>
+  <li><a href="http://soundcloud.com/radiojspodcast/vypusk-52-mikroservisy-na-frontende">Микросервисы на фронтенде</a></li>
+  <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
 </ul>
 
 <h2>Доклады</h2>
