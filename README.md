@@ -522,6 +522,9 @@
       <p>2.2
         <a href="https://laravel.ru/" target="_blank">Документация</a>
       </p>
+      <p>2.3
+        <a href="https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd" target="_blank">Уроки по Laravel 5 с laracasts.com в переводе на русский язык</a>
+      </p>
       <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
       <p>
         <strong>1. JavaScript</strong>
