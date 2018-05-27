@@ -130,10 +130,13 @@
         <strong>3. Графический редактор</strong>
       </p>
       <p>3.0
-        <a href="https://www.youtube.com/watch?v=BjtVlWN9A10" target="_blank">Photoshop</a>
+        <a href="https://www.youtube.com/watch?v=BjtVlWN9A10">Photoshop</a>
       </p>
       <p>3.1
-        <a href="https://www.youtube.com/watch?v=fKGPxiRGEh8" target="_blank">Adobe Assets</a>
+        <a href="https://www.youtube.com/watch?v=fKGPxiRGEh8">Adobe Assets</a>
+      </p>
+      <p>3.2
+        <a href="https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv">Figma</a>
       </p>
       <p>
         <strong>4. Практика верстки</strong>
