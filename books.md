@@ -53,6 +53,12 @@
   <li><a href="https://www.ozon.ru/context/detail/id/140489225/" target="_blank">Экстремальное программирование: разработка через тестирование</a></li>
 </ul>
 
+<h2>Архитектура</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/35045716/" target="_blank">Реализация методов предметно-ориентированного проектирования</a></li>
+</ul>
+
 <h2>Базы данны</h2>
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/" target="_blank">SQL. Полное руководство</a>, Грофф Дж. Р.</li>
