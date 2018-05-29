@@ -67,6 +67,7 @@
   <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>
   <li><a href="http://soundcloud.com/radiojspodcast/vypusk-52-mikroservisy-na-frontende">Микросервисы на фронтенде</a></li>
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
+  <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
 </ul>
 
 <h2>Доклады</h2>
@@ -86,10 +87,18 @@
     <a href="https://github.com/hH39797J/golang-videos-ru">Go за 2016, 2017, 2018 год</a>.
   </li>
    <li><a href="https://www.youtube.com/watch?v=G6LJkWwZGuc">Николай Алименков — Парадигмы ООП</a></li>
+   <li><a href="https://www.youtube.com/watch?v=BZulLbzf0uA&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr">Вебинары Хекслета</a></li>
+   <li><a href="http://soundcloud.com/radiojspodcast/vypusk-52-mikroservisy-na-frontende">Микросервисы на фронтенде</a></li>
+   <li><a href="https://www.youtube.com/watch?v=EEq1wdM2M2w">Ментальное программирование</a></li>
+   <li><a href="https://devconf.ru/ru/archive/devconf2017/offer/328">Ментальное программирование 2.0</a></li>
+   <li><a href="https://soundcloud.com/5minreact/33-kirill-mokevnin-hexlet">Пятиминутка React. Разговор с уважаемым человеком</a></li>
+   <li><a href="https://www.youtube.com/watch?v=mc7EMdyawBk">Классические приёмы программирования во фронтенде</a></li>
+   <li><a href="http://o0.github.io/trees/">Классические приёмы программирования во фронтенде — описание, презентация и практика</a></li>
 </ul>
 
 <h2>Youtube-каналы</h2>
 <ul>
+  <li><a href="https://www.youtube.com/channel/UCqLPYxuAz-WbdEBLBk_Tb7g" target="_blank">Hexlet</a></li>
   <li><a href="https://www.youtube.com/user/ToBeCloser007/featured" target="_blank">MarlinWD</a></li>
   <li><a href="https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg" target="_blank">getInstance</a></li>
   <li><a href="https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/featured" target="_blank">Yauhen Kavalchuk</a></li>
