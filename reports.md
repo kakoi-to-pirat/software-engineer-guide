@@ -68,6 +68,7 @@
   <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>  
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
+  
 </ul>
 
 <h2>Доклады</h2>
@@ -94,6 +95,8 @@
    <li><a href="https://soundcloud.com/5minreact/33-kirill-mokevnin-hexlet">Пятиминутка React. Разговор с уважаемым человеком</a></li>
    <li><a href="https://www.youtube.com/watch?v=mc7EMdyawBk">Классические приёмы программирования во фронтенде</a></li>
    <li><a href="http://o0.github.io/trees/">Классические приёмы программирования во фронтенде — описание, презентация и практика</a></li>
+  <li><a href="https://www.infoq.com/presentations/Simple-Made-Easy">Simple Made Easy</a></li>
+  
 </ul>
 
 <h2>Youtube-каналы</h2>
