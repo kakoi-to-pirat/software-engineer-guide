@@ -72,11 +72,13 @@
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
   <li><a href="http://translatedby.com/you/simple-made-easy/into-ru/">Simple Made Easy (Текстовый перевод)</a></li>
-  <li><a href="http://lea.verou.me/2018/05/responsive-tables-revisited/">Пара новых идей Лии Веру для адаптации таблиц без JS: трюк с text-shadow и функция element() из Firefox</li>
-  <li><a href="https://habr.com/company/ruvds/blog/358306/">Полезные приёмы работы с массивами в JavaScript</li>  
-  <li><a href="http://phpprofi.ru/blogs/post/82">Что такое Дженерики</li> 
-  <li><a href="https://www.dlighthouse.co/2017/09/docker-node-express-mongo.html">Поднимаем docker-container для NodeJs-приложения: Express + Mongo + Docker Compose</li>
-  <li><a href="https://ergoz.ru/create-the-smallest-and-secured-golang-docker-image-based-on-scratch/ml">Создаём самый маленький и безопасный Docker контейнер для Golang на базе Scratch</li>
+  <li><a href="http://lea.verou.me/2018/05/responsive-tables-revisited/">Пара новых идей Лии Веру для адаптации таблиц без JS: трюк с text-shadow и функция element() из Firefox</a></li>
+  <li><a href="https://habr.com/company/ruvds/blog/358306/">Полезные приёмы работы с массивами в JavaScript</a></li>  
+  <li><a href="http://phpprofi.ru/blogs/post/82">Что такое Дженерики</a></li> 
+  <li><a href="https://www.dlighthouse.co/2017/09/docker-node-express-mongo.html">Поднимаем docker-container для NodeJs-приложения: Express + Mongo + Docker Compose</a></li>
+  <li><a href="https://ergoz.ru/create-the-smallest-and-secured-golang-docker-image-based-on-scratch/ml">Создаём самый маленький и безопасный Docker контейнер для Golang на базе Scratch</a></li>
+  <li><a href="https://ru.hexlet.io/courses/js-functions/lessons/guard-expression/theory_unit">Guard Expression</a></li>
+      
 </ul>
 
 <h2>Доклады</h2>
@@ -133,8 +135,9 @@
 
 <h2>Сервисы</h2>
 <ul>
-  <li><a href="https://hreftools.com/" target="_blank">Href Tools</a></li>
-  <li><a href="http://ourownthing.co.uk/gradpad.html?utm_source=twitter.com&utm_medium=social&utm_campaign=krutoy-vizualnyy-generator-gradientov-n&utm_content=16722558" target="_blank">Генератор градиентов на CSS</a></li>
-  <li><a href="https://phpdocker.io/generator" target="_blank">Генератор Docker-шаблонов для php-приложений</a></li>
+  <li><a href="https://hreftools.com/">Href Tools</a></li>
+  <li><a href="http://ourownthing.co.uk/gradpad.html?utm_source=twitter.com&utm_medium=social&utm_campaign=krutoy-vizualnyy-generator-gradientov-n&utm_content=16722558">Генератор градиентов на CSS</a></li>
+  <li><a href="https://phpdocker.io/generator">Генератор Docker-шаблонов для php-приложений</a></li>
+  <li><a href="http://amp.gs/kOsm">Набор нарисованных «от руки» UI-элементов для веба </a></li>
   
 </ul>
