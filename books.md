@@ -8,12 +8,13 @@
 
 <h2>JavaScript</h2>
 <ul> 
-    <li><a href="https://github.com/azat-io/you-dont-know-js-ru" target="_blank">Вы не знаете Javascript</a></li>
-    <li><a href="https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/" target="_blank">Выразительный Javascript</a></li>
-    <li><a href="https://learn.javascript.ru/" target="_blank">Современный учебник Javascript</a</li>
-    <li><a href="https://www.ozon.ru/context/detail/id/20217226/" target="_blank">JavaScript. Сильные стороны</a></li>
-    <li><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/" target="_blank">Learning JavaScript Design Patterns</a></li>
-    <li><a href="http://largescalejs.ru/" target="_blank">Паттерны для масштабируемых JavaScript-приложений</a></li>
+    <li><a href="https://github.com/azat-io/you-dont-know-js-ru">Вы не знаете Javascript</a></li>
+    <li><a href="https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/">Выразительный Javascript</a></li>
+    <li><a href="https://learn.javascript.ru/">Современный учебник Javascript</a</li>
+    <li><a href="https://www.ozon.ru/context/detail/id/20217226/">JavaScript. Сильные стороны</a></li>
+    <li><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">Learning JavaScript Design Patterns</a></li>
+    <li><a href="http://largescalejs.ru/">Паттерны для масштабируемых JavaScript-приложений</a></li>
+    <li><a href="https://github.com/alekgit/mostly-adequate-guide-ru">Mostly adequate guide to FP (in javascript, translated in russian)</a></li>
 </ul>
 
 <h2>PHP</h2>
