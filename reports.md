@@ -26,7 +26,8 @@
   <li><a href="https://github.com/codedokode/pasta/blob/master/README.md" target="_blank">php-паста</a></li>
   <li><a href="https://github.com/andrew--r/ui-developer-tips" target="_blank">Советы для разработчика интерфейсов</li>
   <li><a href="https://github.com/Hexlet/hexlet-slack-archive/wiki" target="_blank">Архивы хороших бесед из Слака Хекслета</li>
-   
+   <li><a href="http://tech-documentation.ru/symfony/">Документация по Symfony 4</li>
+   <li><a href="https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd">Уроки по Laravel 5 с laracasts.com в переводе на русский язык</li>
 </ul>
 
 <h2>Новости</h2>
@@ -64,8 +65,7 @@
   <li><a href="https://habr.com/post/327746/">Построение гибких PHP приложений</a></li>
   <li><a href="https://tyapk.ru/blog/post/dependency-injection-and-service-container">Что такое внедрение зависимостей (Dependency Injection)?</a></li>
   <li><a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/">Nginx, Php-Fpm</a></li>
-  <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>
-  <li><a href="http://soundcloud.com/radiojspodcast/vypusk-52-mikroservisy-na-frontende">Микросервисы на фронтенде</a></li>
+  <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>  
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
 </ul>
@@ -88,7 +88,7 @@
   </li>
    <li><a href="https://www.youtube.com/watch?v=G6LJkWwZGuc">Николай Алименков — Парадигмы ООП</a></li>
    <li><a href="https://www.youtube.com/watch?v=BZulLbzf0uA&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr">Вебинары Хекслета</a></li>
-   <li><a href="http://soundcloud.com/radiojspodcast/vypusk-52-mikroservisy-na-frontende">Микросервисы на фронтенде</a></li>
+   <li><a href="http://soundcloud.com/radiojspodcast/vypusk-52-mikroservisy-na-frontende">Radio.js Микросервисы на фронтенде</a></li>
    <li><a href="https://www.youtube.com/watch?v=EEq1wdM2M2w">Ментальное программирование</a></li>
    <li><a href="https://devconf.ru/ru/archive/devconf2017/offer/328">Ментальное программирование 2.0</a></li>
    <li><a href="https://soundcloud.com/5minreact/33-kirill-mokevnin-hexlet">Пятиминутка React. Разговор с уважаемым человеком</a></li>
