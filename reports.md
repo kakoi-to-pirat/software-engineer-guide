@@ -68,6 +68,7 @@
   <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>  
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
+  <li><a href="http://translatedby.com/you/simple-made-easy/into-ru/">Simple Made Easy (Текстовый перевод)</a></li>
   
 </ul>
 
