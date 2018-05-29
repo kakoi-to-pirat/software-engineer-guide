@@ -28,7 +28,7 @@
   <li><a href="https://github.com/Hexlet/hexlet-slack-archive/wiki" target="_blank">Архивы хороших бесед из Слака Хекслета</li>
    <li><a href="http://tech-documentation.ru/symfony/">Документация по Symfony 4</li>
    <li><a href="https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd">Уроки по Laravel 5 с laracasts.com в переводе на русский язык</li>
-   <li><a href="https://legacy.gitbook.com/book/groosha/telegram-bot-lessons/detailsd">Пишем ботов для Telegram на языке Python. Учебник на GitBookк</li>  
+   <li><a href="https://legacy.gitbook.com/book/groosha/telegram-bot-lessons/detailsd">Пишем ботов для Telegram на языке Python. Учебник на GitBook</li>  
      
 </ul>
 
