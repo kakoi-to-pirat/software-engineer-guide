@@ -65,6 +65,7 @@
   <li><a href="https://habr.com/post/327746/">Построение гибких PHP приложений</a></li>
   <li><a href="https://tyapk.ru/blog/post/dependency-injection-and-service-container">Что такое внедрение зависимостей (Dependency Injection)?</a></li>
   <li><a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/">Nginx, Php-Fpm</a></li>
+  <li><a href="https://habr.com/company/oleg-bunin/blog/358502/">Про noBackend</a></li>
   <li><a href="https://devchat.tv/js-jabber/jsj-313-light-functional-javascript-with-kyle-simpson">Про абстракции, про сайд-эффекты,про React и про ФП</a></li>  
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
