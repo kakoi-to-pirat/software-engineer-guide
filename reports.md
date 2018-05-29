@@ -28,6 +28,8 @@
   <li><a href="https://github.com/Hexlet/hexlet-slack-archive/wiki" target="_blank">Архивы хороших бесед из Слака Хекслета</li>
    <li><a href="http://tech-documentation.ru/symfony/">Документация по Symfony 4</li>
    <li><a href="https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd">Уроки по Laravel 5 с laracasts.com в переводе на русский язык</li>
+   <li><a href="https://legacy.gitbook.com/book/groosha/telegram-bot-lessons/detailsd">Пишем ботов для Telegram на языке Python. Учебник на GitBookк</li>  
+     
 </ul>
 
 <h2>Новости</h2>
@@ -70,7 +72,11 @@
   <li><a href="http://habr.com/post/326986/">Что такое GraphQL</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Введение в Immutable.js и основные концепции функционального программирования</a></li>
   <li><a href="http://translatedby.com/you/simple-made-easy/into-ru/">Simple Made Easy (Текстовый перевод)</a></li>
-  
+  <li><a href="http://lea.verou.me/2018/05/responsive-tables-revisited/">Пара новых идей Лии Веру для адаптации таблиц без JS: трюк с text-shadow и функция element() из Firefox</li>
+  <li><a href="https://habr.com/company/ruvds/blog/358306/">Полезные приёмы работы с массивами в JavaScript</li>  
+  <li><a href="http://phpprofi.ru/blogs/post/82">Что такое Дженерики</li> 
+  <li><a href="https://www.dlighthouse.co/2017/09/docker-node-express-mongo.html">Поднимаем docker-container для NodeJs-приложения: Express + Mongo + Docker Compose</li>
+  <li><a href="https://ergoz.ru/create-the-smallest-and-secured-golang-docker-image-based-on-scratch/ml">Создаём самый маленький и безопасный Docker контейнер для Golang на базе Scratch</li>
 </ul>
 
 <h2>Доклады</h2>
