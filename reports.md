@@ -78,7 +78,8 @@
   <li><a href="https://www.dlighthouse.co/2017/09/docker-node-express-mongo.html">Поднимаем docker-container для NodeJs-приложения: Express + Mongo + Docker Compose</a></li>
   <li><a href="https://ergoz.ru/create-the-smallest-and-secured-golang-docker-image-based-on-scratch/ml">Создаём самый маленький и безопасный Docker контейнер для Golang на базе Scratch</a></li>
   <li><a href="https://ru.hexlet.io/courses/js-functions/lessons/guard-expression/theory_unit">Guard Expression</a></li>
-      
+  <li><a href="http://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/">Continuous Delivery, Continuous Deployment и Continuous Integration</a></li>
+  
 </ul>
 
 <h2>Доклады</h2>
