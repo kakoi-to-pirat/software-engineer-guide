@@ -69,7 +69,7 @@
       </p>
       <p>2. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Гарвардский курс "CS50"</a>
       </p>
-      <p><strong>3. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Структура и интерпретация компьютерных программ</a></strong>
+      <p><strong>3. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></strong>
       </p>
       <p><strong>4. <a href="https://ru.hexlet.io/courses/php-algorithms">Алгоритмы и структуры данных</a></strong>
       </p>
