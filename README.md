@@ -69,11 +69,11 @@
       </p>
       <p>2. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Гарвардский курс "CS50"</a>
       </p>
-      <p>3. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Структура и интерпретация компьютерных программ</a>
+      <p><strong>3. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Структура и интерпретация компьютерных программ</a></strong>
       </p>
-      <p>4. <a href="https://ru.hexlet.io/courses/php-algorithms">Алгоритмы и структуры данных</a>
+      <p><strong>4. <a href="https://ru.hexlet.io/courses/php-algorithms">Алгоритмы и структуры данных</a></strong>
       </p>
-      <p>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a>
+      <p><strong>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></strong>
       </p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>
