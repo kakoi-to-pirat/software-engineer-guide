@@ -64,7 +64,7 @@
       <h2 id="Основы-программирования">Основы программирования</h2>
       <p><strong>1. Курсы и практика по основам:</strong></p>       
          <p>1.1 <a href="https://ru.hexlet.io/courses/programming-basics">Основы от Кирилла Мокевнина + упражнения</a></p>
-         <p>1.2 <a href="https://ru.hexlet.io/courses/introduction_to_programming">Основы от Рахима Давлеткалиева + упражнения</a></p>
+         <p>1.2 <strong><a href="https://ru.hexlet.io/courses/introduction_to_programming">Основы от Рахима Давлеткалиева + упражнения</a></strong></p>
          <p>1.3 <a href="http://code-basics.ru/">code-basics.ru (пока только php)</a></p>
       </p>
       <p>2. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Гарвардский курс "CS50"</a>
