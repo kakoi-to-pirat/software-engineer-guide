@@ -656,7 +656,9 @@
       <p>8.
         <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a>
       </p>
-      <h2 id="DevOps">DevOps</h2>
+      <h2 id="DevOps">DevOps</h2>       
+      <h3><strong>0. Практики и инструменты</strong></h3>
+      <p>0.1. <a href="http://youtube.com/watch?v=YxSYMRLmwDk&list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9">Практики и инструменты DevOps</a></p>
       <h3><strong>1. Ansible</strong></h3>
       <p>1.1. <a href="https://www.youtube.com/watch?v=IWxPJrelh5w/" target="_blank">Что такое Ansible?</a></p>
       <p>1.2. <a href="https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N" target="_blank">Курс по Ansible.</a></p>
