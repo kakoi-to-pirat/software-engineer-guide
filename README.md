@@ -62,14 +62,18 @@
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
       </figure>      
       <h2 id="Основы-программирования">Основы программирования</h2>
-      <p>1. <a href="https://www.youtube.com/watch?v=rrRZZ_3licM&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33" target="_blank">Лучшее у hexlet</a>
+      <p>1. Курсы и практика по основам: <br>       
+        <a href="https://ru.hexlet.io/courses/programming-basics">Основы от Кирилла Мокевнина + упражнения</a><br>
+        <a href="https://ru.hexlet.io/courses/introduction_to_programming">Основы от Рахима Давлеткалиева + упражнения</a><br>
+        <a href="http://code-basics.ru/">code-basics.ru (пока только php)</a>.
       </p>
-      <p>2. Курсы и практика:
-        <a href="http://code-basics.ru/" target="_blank">Раз</a>.
-        <a href="https://ru.hexlet.io/courses/programming-basics" target="_blank">Два</a>.
-        <a href="https://ru.hexlet.io/courses/introduction_to_programming" target="_blank">Три</a>.
+      <p>2. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Гарвардский курс "CS50"</a>
       </p>
-      <p>3. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5" target="_blank">Гарвардский курс "CS50"</a>
+      <p>3. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Структура и интерпретация компьютерных программ</a>
+      </p>
+      <p>4. <a href="https://ru.hexlet.io/courses/php-algorithms">Алгоритмы и структуры данных</a>
+      </p>
+      <p>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a>
       </p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>
