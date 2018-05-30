@@ -478,7 +478,7 @@
         "<a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
       <p>
         <strong>7. TDD. </strong>
-        <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Как работать с TDD</a>
+        <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Автоматическое тестирование и TDD</a>
       </p>
       <p>
         <strong>8. Состояния: </strong>
