@@ -742,13 +742,13 @@
       <h3 id="Книги">Книги</h3>
         <ol>
           <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
-            target="_blank">Структура и интерпретация компьютерных программ</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач</a></li>
-          <li><a href="https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/" target="_blank">Выразительный Javascript</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/135695718/" target="_blank">Современный PHP. Новые возможности и передовой опыт</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/26893656/" target="_blank">Семь языков за семь недель</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/19383907/" target="_blank">Семь баз данных за семь недель</a></li>
-          <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md" target="_blank">Другие</a></li>
+            target="_blank">Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
+          <li><a href="https://www.ozon.ru/context/detail/id/137213400/">Секреты CSS. Идеальные решения ежедневных задач (Леа Веру)</a></li>
+          <li><a href="https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/">Выразительный Javascript (Marijn Haverbeke)</a></li>
+          <li><a href="https://www.ozon.ru/context/detail/id/135695718/">Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)</a></li>
+          <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
+          <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
+          <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Другие</a></li>
         </ol>
         <h3 id="Ресурсы-(Паблики,-сайты,-каналы)">Ресурсы (Паблики, сайты, каналы)</h3>
         <ol>
