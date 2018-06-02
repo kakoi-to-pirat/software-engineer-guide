@@ -15,9 +15,8 @@
     </address><br>
     <p>
       <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Книги</a> 
-    </p>
-    <p>
-      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Статьи, доклады, ресурсы</a>,
+       | 
+      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Статьи, доклады, ресурсы</a>
     </p>
   </header>
   <article id="_tl_editor" class="tl_article_content ql-container ql-disabled">
