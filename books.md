@@ -77,7 +77,7 @@
 
 <h2>Философия, мотивация, самоорганизация</h2>
 <ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/125884/">Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)</a></li>  
+  <li><a href="https://www.ozon.ru/context/detail/id/28347106/">Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)</a></li>  
   <li><a href="https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&amp;utm_medium=partner&amp;utm_campaign=955860"
     target="_blank">Джедайские техники</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/24310355/"
