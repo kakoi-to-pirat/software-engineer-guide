@@ -13,6 +13,8 @@
       <a rel="author" href="https://t.me/piratestories" target="_blank">Пиратские истории</a>, 
       <time datetime="2018-02-09T05:58:47+0000">February 09, 2018</time><br>
     </address>
+    <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Книги</a>, 
+    <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Статьи, доклады, ресурсы</a>,
   </header>
   <article id="_tl_editor" class="tl_article_content ql-container ql-disabled">
     <div class="ql-editor" contenteditable="false" dir="auto">
@@ -62,6 +64,8 @@
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
       </figure>      
       <h2 id="Основы-программирования">Основы программирования</h2>
+      <p>0. <a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики.</a>
+      </p>
       <p><strong>1. Курсы и практика по основам:</strong></p>       
          <p>1.1 <a href="https://ru.hexlet.io/courses/programming-basics">Основы от Кирилла Мокевнина + упражнения</a></p>
          <p>1.2 <strong><a href="https://ru.hexlet.io/courses/introduction_to_programming">Основы от Рахима Давлеткалиева + упражнения</a></strong></p>
@@ -72,6 +76,8 @@
       <p><strong>3. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></strong>
       </p>
       <p><strong>4. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></strong>
+      </p>
+       <p>4.1 <a href="https://stepik.org/course/217">Алгоритмы: теория и практика. Методы – Stepik</a>
       </p>
       <p><strong>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></strong>
       </p>
