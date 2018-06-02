@@ -3,7 +3,7 @@
 
 <h2>CSS</h2>
 <ul> 
-    <li><a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач</a></li>
+    <li><a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач. (Леа Веру)</a></li>
 </ul>
 
 <h2>JavaScript</h2>
