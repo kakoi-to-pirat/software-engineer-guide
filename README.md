@@ -13,10 +13,11 @@
       <a rel="author" href="https://t.me/piratestories" target="_blank">Пиратские истории</a>, 
       <time datetime="2018-02-09T05:58:47+0000">February 09, 2018</time><br>
     </address><br>
-    <p>
+    <p>|
       <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Книги</a> 
        | 
-      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Статьи, доклады, ресурсы</a>
+      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Статьи, доклады, ресурсы</a>  
+       | 
     </p>
   </header>
   <article id="_tl_editor" class="tl_article_content ql-container ql-disabled">
