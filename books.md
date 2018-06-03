@@ -79,5 +79,5 @@
   <li><a href="https://www.ozon.ru/context/detail/id/28347106/">Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)</a></li>  
   <li><a href="https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&amp;utm_medium=partner&amp;utm_campaign=955860">Джедайские техники (Максим Дорофеев)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/24310355/">Антихрупкость. Как извлечь выгоду из хаоса (Нассим Николас Талеб)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/2820575/">Джоэл о программировании</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/2820575/">Джоэл о программировании (Джоэл Спольски)</a></li>
 </ul>
