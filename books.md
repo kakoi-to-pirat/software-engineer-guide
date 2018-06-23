@@ -46,6 +46,7 @@
   <li><a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики (Чарльз Петцольд)</a></li>  
   <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
     target="_blank">Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
+  <li><a href="http://newstar.rinet.ru/~goga/tapl/">TAPL «Типы в языках программирования» (Бенджамин Пирс)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
   <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>
