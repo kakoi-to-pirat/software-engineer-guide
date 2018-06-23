@@ -16,7 +16,7 @@
     <p>|
       <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Книги</a> 
        | 
-      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Статьи, доклады, ресурсы</a>  
+      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md">Статьи, доклады, ресурсы</a>
        | 
     </p>
   </header>
