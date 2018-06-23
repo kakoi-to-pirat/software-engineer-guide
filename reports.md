@@ -84,7 +84,7 @@
   <li><a href="https://ru.hexlet.io/courses/js-functions/lessons/guard-expression/theory_unit">Guard Expression</a></li>
   <li><a href="http://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/">Continuous Delivery, Continuous Deployment и Continuous Integration</a></li>
   <li><a href="http://codenative.ru/article/chto_takoe_graphql">Что такое и как работает GraphQL?</a></li>
-  <li><a href="http://ru.hexlet.io/courses/js-react/lessons/fsm/theory_unit#lesson">Автоматное программирование  на примере React</a></li>
+  <li><a href="https://ru.hexlet.io/courses/js-react/lessons/fsm/theory_unit">Автоматное программирование  на примере React</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Иммутабельность и основные концепции функционального программирования. Введение в Immutable.js</a></li>
   <li><a href="http://tproger.ru/translations/programming-concepts-introspection-reflection/">Основные принципы программирования: интроспекция и рефлексия</a></li>
   
