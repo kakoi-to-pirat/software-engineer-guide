@@ -29,6 +29,10 @@
    <li><a href="http://tech-documentation.ru/symfony/">Документация по Symfony 4</li>
    <li><a href="https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd">Уроки по Laravel 5 с laracasts.com в переводе на русский язык</li>
    <li><a href="https://legacy.gitbook.com/book/groosha/telegram-bot-lessons/detailsd">Пишем ботов для Telegram на языке Python. Учебник на GitBook</li>  
+   <li><a href="https://medium.com/ux-crash-course/ux-ux-b0929148c31f">Перевод базового курса UX, который включает 31 основной принцип UX-проектирования: UX Crash Course: 31 Fundamentals</li>   
+   <li><a href="https://github.com/trekhleb/javascript-algorithms">Алгоритмы и структуры данных с реализацией на JavaScript в одном репозитории</li>
+   <li><a href="https://tuhub.ru/frontend/js-regexp">Руководство по регулярным выражениям в JavaScript</li>
+   <li><a href="https://developer.mozilla.org/ru/docs/Словарь#А">Словарь на MDN</li> 
      
 </ul>
 
@@ -79,6 +83,10 @@
   <li><a href="https://ergoz.ru/create-the-smallest-and-secured-golang-docker-image-based-on-scratch/ml">Создаём самый маленький и безопасный Docker контейнер для Golang на базе Scratch</a></li>
   <li><a href="https://ru.hexlet.io/courses/js-functions/lessons/guard-expression/theory_unit">Guard Expression</a></li>
   <li><a href="http://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/">Continuous Delivery, Continuous Deployment и Continuous Integration</a></li>
+  <li><a href="http://codenative.ru/article/chto_takoe_graphql">Что такое и как работает GraphQL?</a></li>
+  <li><a href="http://ru.hexlet.io/courses/js-react/lessons/fsm/theory_unit#lesson">Автоматное программирование  на примере React</a></li>
+  <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Иммутабельность и основные концепции функционального программирования. Введение в Immutable.js</a></li>
+  <li><a href="http://tproger.ru/translations/programming-concepts-introspection-reflection/">Основные принципы программирования: интроспекция и рефлексия</a></li>
   
 </ul>
 
@@ -107,6 +115,7 @@
    <li><a href="https://www.youtube.com/watch?v=mc7EMdyawBk">Классические приёмы программирования во фронтенде</a></li>
    <li><a href="http://o0.github.io/trees/">Классические приёмы программирования во фронтенде — описание, презентация и практика</a></li>
   <li><a href="https://www.infoq.com/presentations/Simple-Made-Easy">Simple Made Easy</a></li>
+  <li><a href="https://www.youtube.com/watch?v=b-Eq4YV4uwc">FullStack на одном языке или изоморфизм Рича Хикки</a></li>
   
 </ul>
 
