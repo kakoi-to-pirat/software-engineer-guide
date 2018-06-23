@@ -452,6 +452,9 @@
       <p>4.
         <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
       </p>
+      <p>5.
+        <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a>
+      </p>
       <h2>Архитектура</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
