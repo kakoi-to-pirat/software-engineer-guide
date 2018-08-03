@@ -16,6 +16,12 @@
     <li><a href="http://largescalejs.ru/">Паттерны для масштабируемых JavaScript-приложений (Эдди Османи)</a></li>
     <li><a href="https://github.com/alekgit/mostly-adequate-guide-ru">Mostly adequate guide to FP (in javascript, translated in russian)</a></li>
 </ul>
+        
+<h2>React</h2>
+<ul> 
+    <li><a href="https://leanpub.com/the-road-to-learn-react-russian">Путь к изучению React (Робин Вирух)</a></li>
+     <li><a href="https://leanpub.com/the-road-to-learn-react">The Road to learn React (Robin Wieruch)</a></li>
+</ul>
 
 <h2>PHP</h2>
 <ul>
@@ -32,6 +38,12 @@
 <h2>GIT</h2>
 <ul>
   <li><a href="https://git-scm.com/book/ru/v1" target="_blank">Pro Git (Scott Chacon & Ben Straub)</a></li>
+</ul>
+
+<h2>Операционные системы</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/2419365/?partner=hexlet" target="_blank">Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/7607778/?partner=hexlet" target="_blank">Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)</a></li>
 </ul>
 
 <h2>Дизайн</h2>
@@ -62,7 +74,8 @@
 </ul>
 
 <h2>Базы данны</h2>
-<ul>
+<ul>   
+  <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/">SQL. Полное руководство (Грофф Дж. Р.)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
 </ul>
