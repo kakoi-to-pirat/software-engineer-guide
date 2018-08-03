@@ -73,7 +73,7 @@
   <li><a href="https://www.ozon.ru/context/detail/id/35045716/">Реализация методов предметно-ориентированного проектирования (Вон Вернон)</a></li>
 </ul>
 
-<h2>Базы данны</h2>
+<h2>Базы данных</h2>
 <ul>   
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/">SQL. Полное руководство (Грофф Дж. Р.)</a></li>
