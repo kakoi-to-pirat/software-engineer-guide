@@ -77,6 +77,7 @@
 <ul>   
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/">SQL. Полное руководство (Грофф Дж. Р.)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Введение в системы баз данных (Крис Дейт)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
 </ul>
 
