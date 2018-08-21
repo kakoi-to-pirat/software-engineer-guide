@@ -69,7 +69,9 @@
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/35045716/">Реализация методов предметно-ориентированного проектирования (Вон Вернон)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Мартин Фалулер)</a></li>    
+  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Рефакторинг. Улучшение проекта существующего кода (Мартин Фаулер)</a></li>
+    
 </ul>
 
 <h2>Базы данных</h2>
