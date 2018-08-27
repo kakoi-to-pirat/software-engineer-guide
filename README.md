@@ -754,6 +754,8 @@
           <li><a href="https://www.ozon.ru/context/detail/id/135695718/">Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)</a></li>
           <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
           <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
+          <li><a href="https://leanpub.com/first-php-docker-application-ru">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
+          <li><a href="https://leanpub.com/the-road-to-learn-react-russian">Путь к изучению React (Робин Вирух)</a></li>
           <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Другие</a></li>
         </ol>
         <h3 id="Ресурсы-(Паблики,-сайты,-каналы)">Ресурсы (Паблики, сайты, каналы)</h3>
