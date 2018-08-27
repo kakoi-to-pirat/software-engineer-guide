@@ -42,7 +42,7 @@
 
 <h2>GIT</h2>
 <ul>
-  <li><a href="https://git-scm.com/book/ru/v1" target="_blank">Pro Git (Scott Chacon & Ben Straub)</a></li>
+  <li><a href="https://git-scm.com/book/ru/v2" target="_blank">Pro Git (Scott Chacon & Ben Straub)</a></li>
 </ul>
 
 <h2>Операционные системы</h2>
