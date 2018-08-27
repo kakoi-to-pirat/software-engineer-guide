@@ -32,7 +32,7 @@
 
 <h2>Docker</h2>
 <ul>
-  <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker</a></li>
+  <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
 </ul>
 
 <h2>Java</h2>
