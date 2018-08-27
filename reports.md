@@ -94,8 +94,8 @@
   <li><a href="https://habr.com/post/183150/">Функторы, аппликативные функторы и монады в картинках</a></li>
   <li><a href="https://habr.com/company/mailru/blog/349978/">Ошибочное понимание принципа DRY</a></li>
   <li><a href="https://ruhighload.com/Индексы+в+mysql">Индексы в MySQL</a></li>
-  <li><a href="http://haru-atari.com/ru/blog/9/programming-guidelines-part-1-reducing-complexity">Вольный перевод* цикла статей "Programming guidelines", который написал Matthias Noback</a></li>
-  <li><a href="https://bespoyasov.ru/blog/fsm-to-the-rescue/">Как и зачем управлять состоянием приложения с помощью конечного автомата и асинхронных функций — генераторовk</a></li>  
+  <li><a href="http://haru-atari.com/ru/blog/9/programming-guidelines-part-1-reducing-complexity">Вольный перевод цикла статей "Programming guidelines", который написал Matthias Noback</a></li>
+  <li><a href="https://bespoyasov.ru/blog/fsm-to-the-rescue/">Как и зачем управлять состоянием приложения с помощью конечного автомата и асинхронных функций — генераторов</a></li>  
   
 </ul>
 
