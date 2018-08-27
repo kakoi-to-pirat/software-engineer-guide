@@ -31,6 +31,11 @@
   <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker</a></li>
 </ul>
 
+<h2>Docker</h2>
+<ul>
+  <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker</a></li>
+</ul>
+
 <h2>Java</h2>
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/142431463/" target="_blank">Философия Java (Брюс Эккель)</a></li>
