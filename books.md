@@ -28,7 +28,6 @@
   <li><a href="http://phptherightway.ru/" target="_blank">PHP: Правильный Путь (Josh Lockhart)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/135695718/" target="_blank">Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">PHP: объекты, шаблоны и методики программирования (Мэт Зандстра)</a></li>
-  <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker</a></li>
 </ul>
 
 <h2>Docker</h2>
