@@ -33,6 +33,8 @@
    <li><a href="https://github.com/trekhleb/javascript-algorithms">Алгоритмы и структуры данных с реализацией на JavaScript в одном репозитории</li>
    <li><a href="https://tuhub.ru/frontend/js-regexp">Руководство по регулярным выражениям в JavaScript</li>
    <li><a href="https://developer.mozilla.org/ru/docs/Словарь#А">Словарь на MDN</li> 
+   <li><a href="https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/">Текстовые уроки по Elasticsearch</li> 
+   <li><a href="https://12factor.net/ru/">The Twelve-Factor App</li>
      
 </ul>
 
@@ -87,6 +89,13 @@
   <li><a href="https://ru.hexlet.io/courses/js-react/lessons/fsm/theory_unit">Автоматное программирование  на примере React</a></li>
   <li><a href="https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee">Иммутабельность и основные концепции функционального программирования. Введение в Immutable.js</a></li>
   <li><a href="http://tproger.ru/translations/programming-concepts-introspection-reflection/">Основные принципы программирования: интроспекция и рефлексия</a></li>
+  <li><a href="https://phpprofi.ru/blogs/post/58">Value Object и DTO</a></li>
+  <li><a href="https://habr.com/post/201874/">Что не так с ООП и ФП</a></li>
+  <li><a href="https://habr.com/post/183150/">Функторы, аппликативные функторы и монады в картинках</a></li>
+  <li><a href="https://habr.com/company/mailru/blog/349978/">Ошибочное понимание принципа DRY</a></li>
+  <li><a href="https://ruhighload.com/Индексы+в+mysql">Индексы в MySQL</a></li>
+  <li><a href="http://haru-atari.com/ru/blog/9/programming-guidelines-part-1-reducing-complexity">Вольный перевод* цикла статей "Programming guidelines", который написал Matthias Noback</a></li>
+  <li><a href="https://bespoyasov.ru/blog/fsm-to-the-rescue/">Как и зачем управлять состоянием приложения с помощью конечного автомата и асинхронных функций — генераторовk</a></li>  
   
 </ul>
 
@@ -116,6 +125,7 @@
    <li><a href="http://o0.github.io/trees/">Классические приёмы программирования во фронтенде — описание, презентация и практика</a></li>
   <li><a href="https://www.infoq.com/presentations/Simple-Made-Easy">Simple Made Easy</a></li>
   <li><a href="https://www.youtube.com/watch?v=b-Eq4YV4uwc">FullStack на одном языке или изоморфизм Рича Хикки</a></li>
+  <li><a href="https://www.youtube.com/watch?v=otrfSgeK3JI&list=LLvPdIxe9ZhDJyXEWsNVgBcw&index=292&t=0s">Лекция по книге Роберта Мартина "Чистый код", дополненная личным опытом и примерами из собственной практики Сергея Немчинского</a></li>
   
 </ul>
 
