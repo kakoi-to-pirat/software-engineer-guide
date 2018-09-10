@@ -47,6 +47,7 @@
 
 <h2>Операционные системы</h2>
 <ul>
+   <li><a href="https://www.ozon.ru/context/detail/id/31649356/"> Современные операционные системы (Эндрю Таненбаум, Х. Бос)</a></li>   
   <li><a href="https://www.ozon.ru/context/detail/id/2419365/?partner=hexlet" target="_blank">Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/7607778/?partner=hexlet" target="_blank">Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)</a></li>
 </ul>
