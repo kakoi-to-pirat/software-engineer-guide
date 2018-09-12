@@ -69,6 +69,8 @@
   <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/140489225/">TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/142429922/">Чистый код. Создание, анализ и рефакторинг. Библиотека программиста (Роберт Мартин)</a></li>
+    
 </ul>
 
 <h2>Архитектура</h2>
