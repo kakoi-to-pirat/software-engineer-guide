@@ -97,8 +97,8 @@
 
 <h2>Паттерны</h2>
 <ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/20216992/">Паттерны проектирования (Head First/ O'Reilly)</a></li>
-  <li><a href="https://docs.google.com/file/d/0B6GuCegBf3X3Tm1rZl9BUTduQm8/edit">Банды Четырех «Паттерны проектирования»</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/20216992/">Паттерны проектирования (Эрик Фримен)</a></li>
+  <li><a href="https://docs.google.com/file/d/0B6GuCegBf3X3Tm1rZl9BUTduQm8/edit">Банды Четырех «Паттерны проектирования» (Э. Гамма)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/2457392/">Приемы объектно-ориентированного проектирования. Паттерны проектирования (Э. Гамма)</a></li>
     <li><a href="https://www.ozon.ru/context/detail/id/1829406/">Patterns of Enterprise Application Architecture (Мартин Фаулер)</a></li>
 </ul>
