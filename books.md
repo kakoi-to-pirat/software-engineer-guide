@@ -67,8 +67,7 @@
   <li><a href="http://newstar.rinet.ru/~goga/tapl/">TAPL «Типы в языках программирования» (Бенджамин Пирс)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
   <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/140489225/">TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>  
   <li><a href="https://www.ozon.ru/context/detail/id/142429922/">Чистый код. Создание, анализ и рефакторинг. Библиотека программиста (Роберт Мартин)</a></li>
     
 </ul>
@@ -80,6 +79,12 @@
   <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Рефакторинг. Улучшение проекта существующего кода (Мартин Фаулер)</a></li>
     
+</ul>
+
+<h2>Тестирование</h2>
+<ul>
+    <li><a href="https://www.ozon.ru/context/detail/id/140489225/">TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)</a>
+    </li>
 </ul>
 
 <h2>Базы данных</h2>
