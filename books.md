@@ -65,11 +65,11 @@
   <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
     target="_blank">SICP «Структура и интерпретация компьютерных программ» (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
   <li><a href="http://newstar.rinet.ru/~goga/tapl/">TAPL «Типы в языках программирования» (Бенджамин Пирс)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
   <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>  
   <li><a href="https://www.ozon.ru/context/detail/id/142429922/">Чистый код. Создание, анализ и рефакторинг. Библиотека программиста (Роберт Мартин)</a></li>
-    
+  <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
+   <li><a href="http://is.ifmo.ru/books/_book.pdf">Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)</a></li>
 </ul>
 
 <h2>Архитектура</h2>
