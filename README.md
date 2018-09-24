@@ -142,17 +142,9 @@
       <p>
         <strong>5. JavaScript</strong>
       </p>
-      <p>5.0 Основы:</p>
-      <p>5.0.1
-        <a href="https://www.youtube.com/watch?v=H6G63NKRSi8&amp;list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem" target="_blank">Sorax (ES5)</a>
-      </p>
-      <p>5.1
-        <a href="https://www.youtube.com/watch?v=UHhQ74uwCns" target="_blank">Простая функция</a>
-      </p>
-      <p>5.2 jQuery.</p>
-      <p>5.2.1
-        <a href="https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa" target="_blank">Примеры типичных задач</a>
-      </p>
+      <p>5.1 <a href="https://www.youtube.com/watch?v=H6G63NKRSi8&amp;list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem" target="_blank">Основы ES5: Sorax</a></p>
+      <p>5.2 <a href="https://www.youtube.com/watch?v=UHhQ74uwCns" target="_blank">Простая функция</a></p>
+      <p>5.3 <a href="https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa" target="_blank">jQuery: примеры типичных задач</a></p>
       <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
       <p>
         <strong>1. JavaScript</strong>
