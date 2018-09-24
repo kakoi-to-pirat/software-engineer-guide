@@ -280,26 +280,18 @@
         <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
       </p>
       <h2>Внешнее взаимодействие</h2>
-      <p>
-        <strong>0. Веб-сервисы</strong>
-      </p>
-      <p>0.1 Что это такое?
+      <p>1. Что это Веб-сервисы?
         <a href="https://www.youtube.com/watch?v=yaz3PRC6bUI" target="_blank">Раз</a>.
         <a href="http://php.net/manual/ru/refs.webservice.php" target="_blank">Два</a>.
       </p>
       <p>
-        1. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.
+        2. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.
       </p>
       <p>
-        2. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.
+        3. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.
       </p>
-      <p>2.1
-        <a href="https://www.ibm.com/developerworks/ru/library/ws-restfu/" target="_blank">Раз</a>.
-        <a href="https://api.mail.ru/docs/guides/restapi/" target="_blank">Два</a>.
-        <a href="https://ru.wikipedia.org/wiki/REST" target="_blank">Три</a>.
-      </p>
-      <p>3. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a></p>
-      <p>4. <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a></p>
+      <p>4. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a></p>
+      <p>5. <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a></p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
       <p>
         <strong>1 </strong>
@@ -346,7 +338,7 @@
         <a href="https://www.youtube.com/watch?v=RxN_Oh7c5nM" target="_blank">Два</a>
       </p>
       <p>
-        <strong>6. php + mysql</strong>
+        <strong>6. PHP + MySql</strong>
       </p>
       <p>6.1
         <a href="http://phpfaq.ru/safemysql" target="_blank">Класс для работы с MySQL</a>
@@ -426,62 +418,61 @@
       <h2>Архитектура</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
-          <strong>Dependency Injection | Внедрение зависимостей</strong>
+          Dependency Injection | Внедрение зависимостей
         </a>
       </p>
       <p>2.
         <a href="http://designpatternsphp.readthedocs.io/ru/latest/More/ServiceLocator/README.html" target="_blank">
-          <strong>Service Locator | Локатор Служб</strong>
-        </a>
+          Service Locator | Локатор Служб</a>
       </p>
       <p>3.
         <a href="https://www.youtube.com/watch?v=5WdKLW3vCQ4" target="_blank">
-          <strong>Dependency Injection и Service Locator в Yii2</strong>
+          Dependency Injection и Service Locator в Yii2
         </a>
       </p>
       <p>4.
         <a href="https://www.youtube.com/watch?v=uj6inHmDmAY" target="_blank">
-          <strong>Структура проекта</strong>
+          Структура проекта
         </a>
       </p>
       <p>5.
         <a href="https://www.youtube.com/watch?v=WL0-bd2Afho" target="_blank">
-          <strong>Рецепты для Yii2</strong>
+          Рецепты для Yii2
         </a>
       </p>
       <p>6.
         <a href="http://www.elisdn.ru/blog/105/services-and-controllers" target="_blank">
-          <strong>Сервисный слой и контроллеры</strong>
+          Сервисный слой и контроллеры
         </a>
       </p>
       <p>
-        <strong>5. DDD. </strong>
+        5. DDD. 
         <a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Domain Driven Design</a>
       </p>
       <p>
-        <strong>6. ADR.</strong>
+        6. ADR.
         "<a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
       <p>
-        <strong>7. TDD. </strong>
+        7. TDD. 
         <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Автоматическое тестирование и TDD</a>
       </p>
       <p>
-        <strong>8. Состояния: </strong>
+        8. Состояния:>
         <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
           target="_blank">Stateful vs. Stateless</a>
       </p>
       <p>
-        <strong>9. CQRS и Event Sourcing: </strong>
+        9. CQRS и Event Sourcing: 
         <a href="https://www.youtube.com/watch?v=V24L4a9FFps"
           target="_blank">Command/Query Responsibility Segregation — отделяем мух от котлет</a>
       </p>
       <p>
-        <strong>10. Микросервисная архитектура: </strong>
+        10. Микросервисная архитектура: 
         <a href="https://www.youtube.com/watch?v=ly77wvz2Bjo"
           target="_blank">PHP и микросервисы</a>
       </p>
       <p>
-        <strong>11. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): </strong>
+        11. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): 
         <a href="https://www.youtube.com/watch?v=XBsXLxd5_v4"
           target="_blank">Доклад на PHP fwdays'17</a> и <a href="https://www.youtube.com/watch?v=4NOVYddMN-k"
           target="_blank">Забацали Lambda-Функцию на AWS</a>
