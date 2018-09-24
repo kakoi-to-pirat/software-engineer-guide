@@ -10,17 +10,11 @@
 <ul> 
     <li><a href="https://github.com/azat-io/you-dont-know-js-ru">Вы не знаете Javascript (Kyle Simpson)</a></li>
     <li><a href="https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/">Выразительный Javascript (Marijn Haverbeke)</a></li>
-    <li><a href="https://learn.javascript.ru/">Современный учебник Javascript (Илья Кантор)</a</li>
-    <li><a href="https://www.ozon.ru/context/detail/id/20217226/">JavaScript. Сильные стороны (Дуглас Крокфорд)</a></li>
-    <li><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">Learning JavaScript Design Patterns (Addy Osmani)</a></li>
-    <li><a href="http://largescalejs.ru/">Паттерны для масштабируемых JavaScript-приложений (Эдди Османи)</a></li>
-    <li><a href="https://github.com/alekgit/mostly-adequate-guide-ru">Mostly adequate guide to FP (in javascript, translated in russian)</a></li>
 </ul>
         
 <h2>React</h2>
 <ul> 
     <li><a href="https://leanpub.com/the-road-to-learn-react-russian">Путь к изучению React (Робин Вирух)</a></li>
-     <li><a href="https://leanpub.com/the-road-to-learn-react">The Road to learn React (Robin Wieruch)</a></li>
 </ul>
 
 <h2>Haskel</h2>
@@ -32,17 +26,11 @@
 <ul>
   <li><a href="http://phptherightway.ru/" target="_blank">PHP: Правильный Путь (Josh Lockhart)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/135695718/" target="_blank">Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">PHP: объекты, шаблоны и методики программирования (Мэт Зандстра)</a></li>
 </ul>
 
 <h2>Docker</h2>
 <ul>
   <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
-</ul>
-
-<h2>Java</h2>
-<ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/142431463/" target="_blank">Философия Java (Брюс Эккель)</a></li>
 </ul>
 
 <h2>GIT</h2>
@@ -71,10 +59,14 @@
     target="_blank">SICP «Структура и интерпретация компьютерных программ» (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
   <li><a href="http://newstar.rinet.ru/~goga/tapl/">TAPL «Типы в языках программирования» (Бенджамин Пирс)</a></li>
   <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
+  
+</ul>
+
+<h2>Про код</h2>
+<ul>
   <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>  
   <li><a href="https://www.ozon.ru/context/detail/id/142429922/">Чистый код. Создание, анализ и рефакторинг. Библиотека программиста (Роберт Мартин)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
-  
 </ul>
 
 <h2>Автоматное программирование</h2>
@@ -85,9 +77,7 @@
 <h2>Архитектура</h2>
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/35045716/">Реализация методов предметно-ориентированного проектирования (Вон Вернон)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Рефакторинг. Улучшение проекта существующего кода (Мартин Фаулер)</a></li>
     
 </ul>
 
@@ -100,17 +90,12 @@
 <h2>Базы данных</h2>
 <ul>   
   <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/31124973/">SQL. Полное руководство (Грофф Дж. Р.)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/136880774/">Введение в системы баз данных (Крис Дейт)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
 </ul>
 
 <h2>Паттерны</h2>
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/20216992/">Паттерны проектирования (Эрик Фримен)</a></li>
-  <li><a href="https://docs.google.com/file/d/0B6GuCegBf3X3Tm1rZl9BUTduQm8/edit">Банды Четырех «Паттерны проектирования» (Э. Гамма)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/2457392/">Приемы объектно-ориентированного проектирования. Паттерны проектирования (Э. Гамма)</a></li>
-    <li><a href="https://www.ozon.ru/context/detail/id/1829406/">Patterns of Enterprise Application Architecture (Мартин Фаулер)</a></li>
 </ul>
 
 <h2>Философия, мотивация, самоорганизация</h2>
