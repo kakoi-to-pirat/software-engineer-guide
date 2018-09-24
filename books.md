@@ -22,12 +22,6 @@
     <li><a href="http://is.ifmo.ru/books/_book.pdf">Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)</a></li>
 </ul>
 
-<h2>Архитектура</h2>
-<ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
-</ul>
-
 <h2>Про код</h2>
 <ul>
   <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>  
@@ -39,6 +33,12 @@
 <ul>
     <li><a href="https://www.ozon.ru/context/detail/id/140489225/">TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)</a>
     </li>
+</ul>
+
+<h2>Архитектура</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
 </ul>
 
 <h2>Docker</h2>
