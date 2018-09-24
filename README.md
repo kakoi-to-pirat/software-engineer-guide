@@ -65,19 +65,17 @@
       </p>
       <p><strong>4. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></strong>
       </p>
-      </p>
-      <p><strong>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></strong>
-      </p>
       <h2 id="HTTP">HTTP</h2>
       <p>1.
         <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a>
       </p>
       <p>2.
-        <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">http протокол - Иван Бибилов</a>
+        <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол - Иван Бибилов</a>
       </p>
-      <h2 id="Linux">Linux</h2>
-      <p>1.
-        <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы основ</a>
+      <h2 id="Linux">Операционные системы: Linux</h2>
+      <p>1.<strong>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></strong></p>
+      <p>2.
+        <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы Linux</a>
       </p>
       <p>1.1
         <a href="https://stepik.org/course/73" target="_blank">Практика</a>
