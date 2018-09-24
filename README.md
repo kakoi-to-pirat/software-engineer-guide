@@ -387,12 +387,6 @@
         <a href="https://www.youtube.com/watch?v=zWtJoWGHsiI" target="_blank">Теория от Елисеева</a>
       </p>
       <p>
-        <strong>6. </strong>
-        <a href="https://www.youtube.com/playlist?list=PLwwk4BHih2fgR-ZP74p7R_AOph3tvgoHd" target="_blank">
-          <strong>Архитектура БД </strong>
-        </a>
-      </p>
-      <p>
         <strong>7. php + mysql</strong>
       </p>
       <p>7.0
