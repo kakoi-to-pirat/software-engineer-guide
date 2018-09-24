@@ -22,11 +22,11 @@
 
 ## Основы программирования
 
-1\. [Код. Тайный язык информатики](http://padaread.com/?book=2430)
-2\. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
-3\. [Структура и интерпретация компьютерных программ](https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
-4\. [Алгоритмы и структуры данных](https://ru.hexlet.io/courses/introduction_to_algorithms)
-5\. [Допольнительно: code-basics.ru](http://code-basics.ru/)
+1. [Код. Тайный язык информатики](http://padaread.com/?book=2430)
+2. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
+3. [Структура и интерпретация компьютерных программ](https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
+4. [Алгоритмы и структуры данных](https://ru.hexlet.io/courses/introduction_to_algorithms)
+5. [Допольнительно: code-basics.ru](http://code-basics.ru/)
 
 ## Операционные системы: Linux
 
