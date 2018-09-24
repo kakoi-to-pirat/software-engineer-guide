@@ -68,32 +68,22 @@
       <p>4. <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a></p>
       <h2 id="GIT">GIT</h2>
       <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий (GIT) на Hexlet</a></p>
-      <p>2. <a href="https://githowto.com/ru" target="_blank">Учебник</a></p>
+      <p>2. <a href="https://githowto.com/ru" target="_blank">Git How To</a></p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
+      <p>0. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку </a></p>
       <p><strong>1. HTML</strong></p>
-      <p>1.0
-        <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы</a>
-      </p>
-      <p>1.0.1
-        <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a>
-      </p>
-      <p>1.1
-        <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a>
-      </p>
-      <p>1.2
-        <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a>
-      </p>
-      <p>1.3
-        <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a>
-      </p>
-      <p>1.4
-        <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a>
-      </p>
+      <p>1.1. <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и веб-дизайна</a></p>
+      <p>1.2. <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
+      <p>1.3. <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a></p>
+      <p>1.3. <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
+      <p>1.4. <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a></p>
+      <p>1.5. <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a></p>
+      <p>1.4. <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a></p>
       <p>
         <strong>2. CSS </strong>
       </p>
       <p>2.0
-        <a href="https://www.youtube.com/playlist?list=PL026CCEB5125879C2" target="_blank">Основы</a>
+        <a href="https://www.youtube.com/playlist?list=PL026CCEB5125879C2" target="_blank">Основы CSS/CSS3</a>
       </p>
       <p>2.1
         <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM" target="_blank">Flexbox</a>
