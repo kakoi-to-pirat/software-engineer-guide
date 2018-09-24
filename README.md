@@ -301,7 +301,7 @@
       <p>
         <strong>8. Рабочее окружение php и виртуализация</strong>.</p>
       <p>8.0
-        <a href="https://ru.hexlet.io/courses/php-setup-environment" target="_blank">Курс</a>
+        <a href="https://ru.hexlet.io/courses/php-setup-environment" target="_blank">PHP: Настройка окружения</a>
       </p>
       <p>8.1
         <a href="https://m.habrahabr.ru/post/145946/" target="_blank">Composer</a>
@@ -334,7 +334,7 @@
         <strong>10. Автоматическое тестирование</strong>
       </p>
       <p>10.1
-        <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">Курс от Хекслет</a>
+        <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">PHP: Автоматическое тестирование</a>
       </p>
       <h2 id="Базы-данных">Базы данных</h2>
       <p>
