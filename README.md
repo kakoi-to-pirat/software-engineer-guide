@@ -75,10 +75,10 @@
       <p>1.1 <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и веб-дизайна</a></p>
       <p>1.2 <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
       <p>1.3 <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a></p>
-      <p>1.3 <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
-      <p>1.4 <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a></p>
-      <p>1.5 <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a></p>
-      <p>1.4 <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a></p>
+      <p>1.4 <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
+      <p>1.5 <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a></p>
+      <p>1.6 <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a></p>
+      <p>1.7 <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a></p>
       <p>
         <strong>2. CSS </strong>
       </p>
@@ -95,21 +95,21 @@
       <p>2.3
         <a href="https://www.youtube.com/watch?v=xiBCOmjnXKo" target="_blank">CSS-препроцессоры</a>
       </p>
-      <p>2.5 Об этом нужно знать:</p>
-      <p>2.5.1 
+      <p>2.4 Об этом нужно знать:</p>
+      <p>2.4.1 
         <a href="https://www.youtube.com/watch?v=CaDnbOjXjRg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=37" target="_blank">Про ванильный CSS</a>
       </p>
-      <p>2.5.2
+      <p>2.4.2
         <a href="https://www.youtube.com/watch?v=f4uXBpP_xxY" target="_blank">Про технологии</a>
       </p>
-      <p>2.6 CSS Grid.</p>
-      <p>2.6.1
+      <p>2.5 CSS Grid.</p>
+      <p>2.5.1
         <a href="https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21" target="_blank">Курс</a>
       </p>
-      <p>2.6.2
+      <p>2.5.2
         <a href="https://www.youtube.com/watch?v=hAFcdRrhwQM" target="_blank">Доклад</a>
       </p>
-      <p>2.7
+      <p>2.6
         <a href="https://www.youtube.com/watch?v=VoA-aQu75Xk" target="_blank">Вы все еще не знаете CSS</a>
       </p>
       <p>
@@ -136,7 +136,7 @@
       <p>4.3
         <a href="https://www.youtube.com/watch?v=soWgVoOgQ_s" target="_blank">Про подходы в верстке</a>
       </p>
-      <p>4.
+      <p>4.4
         <a href="https://habrahabr.ru/post/319664/" target="_blank">Что поправить в верстке?</a>
       </p>
       <p>
@@ -149,22 +149,22 @@
       <p>
         <strong>1. JavaScript</strong>
       </p>
-      <p>1.0.
+      <p>1.1
         <a href="https://www.youtube.com/watch?v=uI-hjpmNeYI&amp;list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP" target="_blank">You don't know js</a>
       </p>
       <p>1.2.
         <a href="https://www.youtube.com/watch?v=DPfaa66OZj8&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=1"
           target="_blank">Функции высшего порядка в JS</a>
       </p>
-      <p>1.3.
+      <p>1.3
         <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q" target="_blank">Основы ES6</a>
       </p>
-      <p>1.4.
+      <p>1.4
         <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Фреймворки: Где мой JavaScript</a>?</p>
-      <p>1.5.
+      <p>1.5
         <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">Фреймворки: jQuery vs Angular vs Vue</a>
       </p>
-      <p>1.6. React.js</p>
+      <p>1.6 React.js</p>
        <p>1.6.1
         <a href="http://gitbook.com/@maxfarseer" target="_blank">Учебник — gitbook.com/@maxfarseer</a>
       </p>
@@ -187,14 +187,14 @@
       <p>1.7.3
         <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
       </p>
-      <p>1.8.
+      <p>1.8
         <a href="https://www.youtube.com/watch?v=xPFRUM_oDKA" target="_blank">ANTY HYPE</a>
       </p>
-      <p>1.9.
+      <p>1.9
         <a href="https://getinstance.info/articles/javascript/introduction-to-service-workers/"
           target="_blank">Service Worker</a>
       </p>
-      <p>1.10.
+      <p>1.10
         <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
           target="_blank">Функциональное программирование: цикл статей</a>
       </p>
@@ -204,48 +204,48 @@
       <p>
         <strong>2. Автоматизация/сборка фронтенда</strong>
       </p>
-      <p>2.1. Обзор
+      <p>2.1 Обзор
         <a href="https://www.youtube.com/watch?v=j77g2GLTW2U" target="_blank">инструментов</a>
       </p>
-      <p>2.2. Обзор
+      <p>2.2 Обзор
         <a href="https://www.youtube.com/watch?v=xSlxXbiB7dg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=69" target="_blank">npm, bower, git</a>... </p>
-      <p>2.3.
+      <p>2.3
         <a href="https://www.youtube.com/watch?v=OZ0D3irUT20" target="_blank">npm</a>
       </p>
-      <p>2.4.
+      <p>2.4
         <a href="https://www.youtube.com/watch?v=86TvKUX3hMI" target="_blank">gulp</a>
       </p>
-      <p>2.5.
+      <p>2.5
         <a href="https://www.youtube.com/watch?v=uEtnY7i-rmg" target="_blank">browsersync</a>
       </p>
-      <p>2.6.
+      <p>2.6
         <a href="https://www.youtube.com/watch?v=JK6AjIMYEZw" target="_blank">webpack</a>
       </p>
-      <p>2.7. Практика: собери свой стартовый шаблон.</p>
+      <p>2.7 Практика: собери свой стартовый шаблон.</p>
       <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 1: node JS</h2>
-      <p>1.
+      <p>1
         <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
       </p>
-      <p>2.
+      <p>2
         <a href="https://www.youtube.com/watch?v=_EhqwOY4Ei0" target="_blank">CodeDojo</a>
       </p>
-      <p>x.
+      <p>Полноценный курс:
         <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
       </p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
       <p>
-        <strong>1. </strong>
+        <strong>1 </strong>
         <a href="https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ" target="_blank">
           <strong>PhpStorm</strong>
         </a>
       </p>
       <p>
-        <strong>2. Основы php</strong>:
+        <strong>2 Основы php</strong>:
         <a href="https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8" target="_blank">Раз</a>,
         <a href="https://coursehunters.net/course/hexlet-php-base" target="_blank">Два</a>
       </p>
       <p>
-        <strong>3. ООП:</strong>
+        <strong>3 ООП:</strong>
       </p>
       <p>3.0
         <a href="https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu" target="_blank">В общих чертах</a>
