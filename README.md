@@ -226,10 +226,10 @@
       </p>
       <p>2.7 Практика: собери свой стартовый шаблон.</p>
       <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 1: node JS</h2>
-      <p>1
+      <p>1.
         <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
       </p>
-      <p>2
+      <p>2.
         <a href="https://www.youtube.com/watch?v=_EhqwOY4Ei0" target="_blank">CodeDojo</a>
       </p>
       <p>Полноценный курс:
