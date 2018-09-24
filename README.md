@@ -51,7 +51,7 @@
         </div>
         <span class="cursor_wrapper" contenteditable="true"></span>
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
-      </figure>      
+      </figure>
       <h2 id="Основы-программирования">Основы программирования</h2>
       <p>0. <a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики.</a></p>
       <p>1. <a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></></p>
