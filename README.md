@@ -18,7 +18,7 @@
 
 Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть [онлайн-тренажер](https://htmlacademy.ru/courses/4/run/1). Может быть полезным пройти бесплатную часть.
 
-В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube ([злой путь](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-3-злой-путь-5a4ec66fd457) _с перспективой перейти на_ [хороший путь](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18)). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.
+В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube и некоторых других источников, доступных в интернете. Если не придерживаться тактики, это может быть [злой путь](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-3-злой-путь-5a4ec66fd457), но таже будет перспектива перейти на [хороший путь](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18).
 
 ## Основы программирования
 
@@ -124,9 +124,17 @@
 4. [Основы Haskell](https://www.youtube.com/watch?v=jNQVa5INdDk&list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
 5. [Clojure. Полный стэк на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
 
-## 10 Алгоритмы и структуры данных
+## Автоматное программирование
+1. [Управление состоянием приложения с помощью конечного автомата](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
+2. [Автоматное программирование](http://is.ifmo.ru/books/_book.pdf)
+
+## Алгоритмы и структуры данных
 1. [Что такое алгоритмы и структуры данных, и зачем они нужны](https://www.youtube.com/watch?v=ijwbVxLMp58&t=0s&index=11&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
 2. [Классические приёмы программирования во фронтенде](https://www.youtube.com/watch?v=mc7EMdyawBk)
+3. [Quicksort на JavaScript за пять минут](https://www.youtube.com/watch?v=o0fe6OlUROg&t=0s&index=4&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
+4. [Списки](http://kvodo.ru/data-structures/lists) 
+5. [Графы](http://kvodo.ru/data-structures/tree)
+6. [Деревья](http://kvodo.ru/data-structures/tree) 
 
 ## Базы данных
 **1. Что такое базы данных**
@@ -137,13 +145,18 @@
 
 **2. Основы SQL** 
 1. [Синтаксис SQL](https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html) 
-2. [Изучение SQL](https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
-2. [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
-2. [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
+3. [Изучение SQL](https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
+4. [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
+5. [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
+6. [Нормализацию баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
+7. [Денормализацию баз данных](https://ruhighload.com/Денормализация+данных)
+8. [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
+9. [Как использовать индексы в JOIN запросах Mysql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
 
 **3. ORM**
 1. [Что такое ORM](https://ru.wikipedia.org/wiki/ORM)?
-2. [В глубь ORM (29.04.2018)](https://github.com/Hexlet/hexlet-slack-archive/wiki/%D0%92-%D0%B3%D0%BB%D1%83%D0%B1%D1%8C-ORM-(29.04.2018))
+2. [В глубь ORM (29.04.2018)](https://github.com/Hexlet/hexlet-slack-archive/wiki/В-глубь-ORM-(29.04.2018))
+3. [Зачем мне знать SQL и Базы Данных, ведь у меня есть ORM?](https://www.youtube.com/watch?v=ITUcXwT72DU)
 
 **4. NoSQL**
 1. [Обзор NoSQL решений для работы с высоконагруженными системами | Технострим](https://www.youtube.com/watch?v=RYJS-jroFRk)
@@ -151,6 +164,10 @@
 **5. Redis**
 1. [Что такое Redis?](https://www.youtube.com/watch?v=whp7wmaxmyU)
 2. [The little redis book](https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
+
+**5. Elasticsearch**
+1. [Основы Elasticsearch](https://habr.com/post/280488/)
+2. [Текстовые уроки по Elasticsearch](https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/)
 
 ## Бэкенд. Часть 1: node JS
 1. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
