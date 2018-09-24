@@ -63,62 +63,57 @@
 7. [Доступность](https://www.youtube.com/watch?v=ssJsjGZE2sc)
 
 **2. CSS**
-2.0 [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
-2.1 [Flexbox](https://www.youtube.com/playlist?list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM)
-2.2 [БЭМ: урок](https://www.youtube.com/watch?v=5Gp_2kN5Bv4&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=62) + [документация](https://ru.bem.info/methodology/quick-start/)
-2.3 [CSS-препроцессоры](https://www.youtube.com/watch?v=xiBCOmjnXKo)
-
-2.4 Об этом нужно знать:
-2.4.1 [Про ванильный CSS](https://www.youtube.com/watch?v=CaDnbOjXjRg&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=37)
-2.4.2 [Про технологии](https://www.youtube.com/watch?v=f4uXBpP_xxY)
-
-2.5 CSS Grid.
-2.5.1 [Курс: CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
-2.5.2 [Можно вообще все. Раскладка по гриду](https://www.youtube.com/watch?v=hAFcdRrhwQM)
-
-2.6 [Вы все еще не знаете CSS](https://www.youtube.com/watch?v=VoA-aQu75Xk)
+1. [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
+2. [Flexbox](https://www.youtube.com/playlist?list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM)
+3. [БЭМ: урок](https://www.youtube.com/watch?v=5Gp_2kN5Bv4&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=62) + [документация](https://ru.bem.info/methodology/quick-start/)
+4. [CSS-препроцессоры](https://www.youtube.com/watch?v=xiBCOmjnXKo)
+5. [Про ванильный CSS](https://www.youtube.com/watch?v=CaDnbOjXjRg&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=37)
+6. [Про технологии](https://www.youtube.com/watch?v=f4uXBpP_xxY)
+7. [CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
+8. [Можно вообще все. Раскладка по гриду](https://www.youtube.com/watch?v=hAFcdRrhwQM)
+9. [Вы все еще не знаете CSS](https://www.youtube.com/watch?v=VoA-aQu75Xk)
 
 **3. Графический редактор**
-3.0 [Photoshop](https://www.youtube.com/watch?v=BjtVlWN9A10)
-3.1 [Adobe Assets](https://www.youtube.com/watch?v=fKGPxiRGEh8)
-3.2 [Figma](https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv)
+1. [Photoshop](https://www.youtube.com/watch?v=BjtVlWN9A10)
+2. [Adobe Assets](https://www.youtube.com/watch?v=fKGPxiRGEh8)
+3. [Figma](https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv)
 
 **4. Практика верстки**
-4.1 [Пример хорошей верстки](https://www.youtube.com/watch?v=7gjxE_VEA_4&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=68)
-4.2 [Стримы по верстке](https://www.youtube.com/watch?v=QGMygnzlifk&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv)
-4.3 [Про подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
-4.4 [Что поправить в верстке?](https://habrahabr.ru/post/319664/)
+1. [Пример хорошей верстки](https://www.youtube.com/watch?v=7gjxE_VEA_4&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=68)
+2. [Стримы по верстке](https://www.youtube.com/watch?v=QGMygnzlifk&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv)
+3. [Про подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
+4. [Что поправить в верстке?](https://habrahabr.ru/post/319664/)
 
 **5. JavaScript**
-5.1 [Основы ES5](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
-5.2 [Простая функция](https://www.youtube.com/watch?v=UHhQ74uwCns)
-5.3 [jQuery: примеры типичных задач](https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa)
+1. [Основы ES5](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+2. [Простая функция](https://www.youtube.com/watch?v=UHhQ74uwCns)
+3. [jQuery: примеры типичных задач](https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa)
 
 ## Фронтенд. Часть 2: JS + автоматизация
 
 **1. JavaScript**
-1.1 [You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP)
-1.2 [Функции высшего порядка в JS](https://www.youtube.com/watch?v=DPfaa66OZj8&list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&index=1)
-1.3 [Основы ES6](https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
-1.4 [Фреймворки: Где мой JavaScript](https://www.youtube.com/watch?v=T1Gljgey19Y)?
-1.5 [Фреймворки: jQuery vs Angular vs Vue](https://www.youtube.com/watch?v=e6R8Mc015Is)
+1. [You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP)
+2. [Функции высшего порядка в JS](https://www.youtube.com/watch?v=DPfaa66OZj8&list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&index=1)
+3. [Основы ES6](https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
+4. [Фреймворки: Где мой JavaScript](https://www.youtube.com/watch?v=T1Gljgey19Y)?
+5. [Фреймворки: jQuery vs Angular vs Vue](https://www.youtube.com/watch?v=e6R8Mc015Is)
 
-1.6 React.js
-1.6.1 [The Road to learn React](https://leanpub.com/the-road-to-learn-react-russian)
-1.6.2 [от learn.javascript.ru](https://www.youtube.com/watch?time_continue=1&v=ol4OVMJZC1w)
-1.6.3 [от CodeDojo](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
-1.6.4 [от CSSSR](http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz)
+6. React.js
+6.1 [The Road to learn React](https://leanpub.com/the-road-to-learn-react-russian)
+6.2 [от learn.javascript.ru](https://www.youtube.com/watch?time_continue=1&v=ol4OVMJZC1w)
+6.3 [от CodeDojo](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
+6.4 [от CSSSR](http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz)
 
-1.7\. Vue.js
-1.7.1 [Оф. документация по Vue.js](https://ru.vuejs.org/v2/guide/)
-1.7.2 [Vue.js с нуля от Точка.dev](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
-1.7.3 [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
+7. Vue.js
+7.1 [Оф. документация по Vue.js](https://ru.vuejs.org/v2/guide/)
+7.2 [Vue.js с нуля от Точка.dev](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
+7.3 [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
 
-1.8 [ANTY HYPE](https://www.youtube.com/watch?v=xPFRUM_oDKA)
-1.9 [Service Worker](https://getinstance.info/articles/javascript/introduction-to-service-workers/)
-1.10 [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
+8. [ANTY HYPE](https://www.youtube.com/watch?v=xPFRUM_oDKA)
+9. [Service Worker](https://getinstance.info/articles/javascript/introduction-to-service-workers/)
+10. [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
 
-Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
+11. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
 
 **2. Автоматизация/сборка фронтенда**
 2.0 [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
