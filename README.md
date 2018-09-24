@@ -284,6 +284,9 @@
       <p>3.2
         <a href="https://www.youtube.com/watch?v=spF2lRj5JLk" target="_blank">Идея</a>
       </p>
+      <p>3.2
+        <a href="https://habr.com/company/hexlet/blog/303754/" target="_blank">Алан Кей</a>
+      </p>
       <p>
         <strong>4. ооп (class programming) в php</strong>
       </p>
