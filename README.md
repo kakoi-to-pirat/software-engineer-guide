@@ -53,14 +53,14 @@
 2. [HTTP протокол (Иван Бибилов)](https://www.youtube.com/watch?v=yUHlrabtEaU)
 
 ## Фронтенд. Часть 1: верстка и основы JS
-1. **HTML**
-1.1. [Основы HTML, CSS и Веб-дизайна](https://ru.hexlet.io/courses/html)
-1.2. [Основы HTML5](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
-1.3 [HTML Шорты](https://htmlacademy.ru/shorts)
-1.4 [Семантика](https://www.youtube.com/watch?v=_nEspOK2rp4)
-1.5 [Шаблонизатор jade (pug)](https://www.youtube.com/watch?v=QCsFDi1cQIk)
-1.6 [Шрифты](https://web-standards.ru/articles/web-font-loading-patterns/)
-1.7 [Доступность](https://www.youtube.com/watch?v=ssJsjGZE2sc)
+**1. HTML**
+1. [Основы HTML, CSS и Веб-дизайна](https://ru.hexlet.io/courses/html)
+2. [Основы HTML5](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
+3. [HTML Шорты](https://htmlacademy.ru/shorts)
+4. [Семантика](https://www.youtube.com/watch?v=_nEspOK2rp4)
+5. [Шаблонизатор jade (pug)](https://www.youtube.com/watch?v=QCsFDi1cQIk)
+6. [Шрифты](https://web-standards.ru/articles/web-font-loading-patterns/)
+7. [Доступность](https://www.youtube.com/watch?v=ssJsjGZE2sc)
 
 **2. CSS**
 2.0 [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
