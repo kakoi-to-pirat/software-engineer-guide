@@ -53,10 +53,9 @@
 2. [HTTP протокол (Иван Бибилов)](https://www.youtube.com/watch?v=yUHlrabtEaU)
 
 ## Фронтенд. Часть 1: верстка и основы JS
-
-**1. HTML**
-1.1 [Основы HTML, CSS и Веб-дизайна](https://ru.hexlet.io/courses/html)
-1.2 [Основы HTML5](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
+1. **HTML**
+1.1. [Основы HTML, CSS и Веб-дизайна](https://ru.hexlet.io/courses/html)
+1.2. [Основы HTML5](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
 1.3 [HTML Шорты](https://htmlacademy.ru/shorts)
 1.4 [Семантика](https://www.youtube.com/watch?v=_nEspOK2rp4)
 1.5 [Шаблонизатор jade (pug)](https://www.youtube.com/watch?v=QCsFDi1cQIk)
