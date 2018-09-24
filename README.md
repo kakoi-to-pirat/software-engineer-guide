@@ -415,7 +415,7 @@
         <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
       <p>2.
         <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны на самом деле?</a></p>
-      <h2>Архитектура</h2>
+      <h2>Архитектурные практики</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
           Dependency Injection | Внедрение зависимостей
@@ -462,7 +462,7 @@
         <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Автоматическое тестирование и TDD</a>
       </p>
       <p>
-        11. Состояния:>
+        11. Состояния:
         <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
           target="_blank">Stateful vs. Stateless</a>
       </p>
