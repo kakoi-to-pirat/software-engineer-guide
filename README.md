@@ -223,12 +223,12 @@
 2. [Какие бывают фреймворки](https://www.youtube.com/watch?v=Ejea5YYjPv0)?
 3. [Что такое MVC Framework](https://www.youtube.com/watch?v=OfNvLy2solE)?
 
-**7. Рабочее окружение php и виртуализация**.
-0. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
-1. [Composer](https://m.habrahabr.ru/post/145946/)
-2. [Vagrant](http://kmarenov.github.io/2016/01/04/vagrant.html)
-3. [Docker](http://guides.hexlet.io/docker)
-4. [Отличия Vagrant и Docker](https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant)
+**7. Рабочее окружение php и виртуализация**
+1. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
+2. [Composer](https://m.habrahabr.ru/post/145946/)
+3. [Vagrant](http://kmarenov.github.io/2016/01/04/vagrant.html)
+4. [Docker](http://guides.hexlet.io/docker)
+5. [Отличия Vagrant и Docker](https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant)
 
 **8. PSR**
 1. [Обзор стандартов PSR](https://myrusakov.ru/php-psr-standards.html)
@@ -330,14 +330,7 @@
 ### Книги
 1.  [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)
 2.  [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
-3.  [Секреты CSS. Идеальные решения ежедневных задач (Леа Веру)](https://www.ozon.ru/context/detail/id/137213400/)
-4.  [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-5.  [Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)](https://www.ozon.ru/context/detail/id/135695718/)
-6.  [Семь языков за семь недель (Брюс Тейт)](https://www.ozon.ru/context/detail/id/26893656/)
-7.  [Семь баз данных за семь недель (Эрик Редмонд)](https://www.ozon.ru/context/detail/id/19383907/)
-8.  [Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)](https://leanpub.com/first-php-docker-application-ru)
-9.  [Путь к изучению React (Робин Вирух)](https://leanpub.com/the-road-to-learn-react-russian)
-10. [Другие](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md)
+3.  [You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru/blob/master/up%20%26%20going/ch1.md)
 
 ### Ресурсы (Паблики, сайты, каналы)
 1. [MDN Web Docs](https://developer.mozilla.org/)
