@@ -408,20 +408,13 @@
       <p>10.3
         <a href="https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md" target="_blank">Книга о Redis</a>
       </p>
-      <h2 id="Паттерны-и-алгоритмы">Паттерны и алгоритмы</h2>
+      <h2 id="Паттерны-и-алгоритмы">Паттерны</h2>
       <p>
-        <strong>1. Алгоритмы</strong>
-      </p>
-      <p>5.1 Книга 
-        "<a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-155"
-          target="_blank">Грокаем Алгоритмы</a>"
-      </p>
-      <p>
-        <strong>2. SOLID в PHP:</strong>
+        <strong>1. SOLID в PHP:</strong>
         <a href="https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg" target="_blank">Раз</a>.
         <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
-      <p>4.
-        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны?</a></p>     
+      <p>2.
+        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны на самом деле?</a></p>
       <h2>Внешнее взаимодействие</h2>
       <p>
         <strong>0. Веб-сервисы</strong>
