@@ -294,9 +294,9 @@
       <p>5. <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a></p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
       <p>
-        <strong>1 </strong>
+        1 
         <a href="https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ" target="_blank">
-          <strong>PhpStorm</strong>
+          PhpStorm
         </a>
       </p>
       <p>
