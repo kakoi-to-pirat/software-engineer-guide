@@ -1,651 +1,342 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-</head>
-<body>
-<main class="tl_article">
-  <header class="tl_article_header">
-    <h1 dir="auto">Как стать веб-разработчиком с помощью YouTube. Мой опыт.</h1>
-    <address dir="auto">
-      <a rel="author" href="https://t.me/piratestories" target="_blank">Пиратские истории</a>, 
-      <time datetime="2018-02-09T05:58:47+0000">February 09, 2018</time><br>
-    </address><br>
-    <p>|
-      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Книги</a> 
-       | 
-      <a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md">Статьи, доклады, ресурсы</a>
-       | 
-    </p>
-  </header>
-  <article id="_tl_editor" class="tl_article_content ql-container ql-disabled">
-    <div class="ql-editor" contenteditable="false" dir="auto">
-      <p>Есть отличные гайды по построению стратегии изучения веб-технологий.</p>
-      <ol>
-        <li>По программированию в целом — цикл статей 
-          <em>Три пути программиста: <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18"
-            target="_blank">хороший</a>, <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-aa99f3ce376" target="_blank">плохой</a>, <a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457" target="_blank">злой</em></a>.</li>
-        <li>По верстке есть — текстовый гайд 
-          <a href="http://webmasters.teamdev.com/"
-            target="_blank"><em>Вёрстка — это не тупо!</em></a></li>
-        <li>По фронтенду — серия статей
-          <em>От нуля до героя фронтенда: <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328"
-            target="_blank">часть 1</a>, <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-25f19e56eb29" target="_blank">часть 2</a></em>.</li>
-      </ol>
-      <p>Где можно недорого и правильно учиться программированию? Здесь:</p>
-      <ul>
-        <li>
-          <a href="https://ru.hexlet.io/" target="_blank">
-            <em>Hexlet</em>
-          </a>
-        </li>
-      </ul>
-      <p>Допольнительно можно посмотреть <a href="http://www.elisdn.ru/" target="_blank"><em>Дмитрия Елисеева</em></a> и пройти пару курсов на <a href="https://stepik.org/" target="_blank"><em>Stepik</em></a></p>
-      <p>Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть <a href="https://htmlacademy.ru/courses/4/run/1" target="_blank">онлайн-тренажер</a>. Может быть полезным пройти бесплатную часть.</p>      
-      <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube (<a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457" target="_blank"><em>злой путь</em></a><em> с перспективой перейти на </em><a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18" target="_blank"><em>хороший путь</em></a>). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.</p>
-      <figure contenteditable="false">
-        <div class="figure_wrapper">
-          <img src="http://telegra.ph/file/861c890067c9f44529c12.png">
-        </div>
-        <span class="cursor_wrapper" contenteditable="true"></span>
-        <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
-      </figure>
-      <h2 id="Основы-программирования">Основы программирования</h2>
-      <p>0. <a href="http://padaread.com/?book=2430">Код. Тайный язык информатики</a></p>
-      <p>1. <a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></></p>
-      <p>2. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></p>
-      <p>3. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></p>
-      <p>4. <a href="http://code-basics.ru/">Допольнительно: code-basics.ru</a></p>     
-      <h2 id="Linux">Операционные системы: Linux</h2>
-      <p>1. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></p>
-      <p>2. <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы Linux</a></p>
-      <p>3. <a href="https://ru.hexlet.io/courses/cli-basics" target="_blank">Командная строка</a></p>
-      <p>4. <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a></p>
-      <h2 id="GIT"> Системы контроля версий: GIT</h2>
-      <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий</a></p>
-      <p>2. <a href="https://githowto.com/ru" target="_blank">GitHowTo</a></p>
-      <h2 id="HTTP">Введение в веб-разработку</h2>
-      <p>1. <a href="https://developer.mozilla.org/ru/docs/Learn/How_the_Internet_works" target="_blank">Как работает интернет</a></p>
-      <p>2. <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works" target="_blank">Как работает Веб</a></p>
-      <p>3. <a href="https://developer.mozilla.org/ru/docs/Learn/Understanding_domain_names" target="_blank"> Что такое доменные имена</a></p> 
-      <p>4. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку</a></p>
-      <h2 id="HTTP">HTTP</h2>
-      <p>1. <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a></p>
-      <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол (Иван Бибилов)</a></p>
-      <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
-      <p><strong>1. HTML</strong></p>
-      <p>1.1 <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и Веб-дизайна</a></p>
-      <p>1.2 <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
-      <p>1.3 <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a></p>
-      <p>1.4 <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
-      <p>1.5 <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a></p>
-      <p>1.6 <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a></p>
-      <p>1.7 <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a></p>
-      <p>
-        <strong>2. CSS </strong>
-      </p>
-      <p>2.0
-        <a href="https://www.youtube.com/playlist?list=PL026CCEB5125879C2" target="_blank">Основы CSS/CSS3</a>
-      </p>
-      <p>2.1
-        <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM" target="_blank">Flexbox</a>
-      </p>
-      <p>2.2
-        <a href="https://www.youtube.com/watch?v=5Gp_2kN5Bv4&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=62" target="_blank">БЭМ: урок</a> +
-        <a href="https://ru.bem.info/methodology/quick-start/" target="_blank">документация</a>
-      </p>
-      <p>2.3
-        <a href="https://www.youtube.com/watch?v=xiBCOmjnXKo" target="_blank">CSS-препроцессоры</a>
-      </p>
-      <p>2.4 Об этом нужно знать:</p>
-      <p>2.4.1 
-        <a href="https://www.youtube.com/watch?v=CaDnbOjXjRg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=37" target="_blank">Про ванильный CSS</a>
-      </p>
-      <p>2.4.2
-        <a href="https://www.youtube.com/watch?v=f4uXBpP_xxY" target="_blank">Про технологии</a>
-      </p>
-      <p>2.5 CSS Grid.</p>
-      <p>2.5.1
-        <a href="https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21" target="_blank">Курс: CSS Grid</a>
-      </p>
-      <p>2.5.2
-        <a href="https://www.youtube.com/watch?v=hAFcdRrhwQM" target="_blank">Можно вообще все. Раскладка по гриду</a>
-      </p>
-      <p>2.6
-        <a href="https://www.youtube.com/watch?v=VoA-aQu75Xk" target="_blank">Вы все еще не знаете CSS</a>
-      </p>
-      <p>
-        <strong>3. Графический редактор</strong>
-      </p>
-      <p>3.0
-        <a href="https://www.youtube.com/watch?v=BjtVlWN9A10">Photoshop</a>
-      </p>
-      <p>3.1
-        <a href="https://www.youtube.com/watch?v=fKGPxiRGEh8">Adobe Assets</a>
-      </p>
-      <p>3.2
-        <a href="https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv">Figma</a>
-      </p>
-      <p>
-        <strong>4. Практика верстки</strong>
-      </p>
-      <p>4.1
-        <a href="https://www.youtube.com/watch?v=7gjxE_VEA_4&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=68" target="_blank">Пример хорошей верстки</a>
-      </p>
-      <p>4.2
-        <a href="https://www.youtube.com/watch?v=QGMygnzlifk&amp;list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv" target="_blank">Стримы по верстке</a>
-      </p>
-      <p>4.3
-        <a href="https://www.youtube.com/watch?v=soWgVoOgQ_s" target="_blank">Про подходы в верстке</a>
-      </p>
-      <p>4.4
-        <a href="https://habrahabr.ru/post/319664/" target="_blank">Что поправить в верстке?</a>
-      </p>
-      <p>
-        <strong>5. JavaScript</strong>
-      </p>
-      <p>5.1 <a href="https://www.youtube.com/watch?v=H6G63NKRSi8&amp;list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem" target="_blank">Основы ES5: Sorax</a></p>
-      <p>5.2 <a href="https://www.youtube.com/watch?v=UHhQ74uwCns" target="_blank">Простая функция</a></p>
-      <p>5.3 <a href="https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa" target="_blank">jQuery: примеры типичных задач</a></p>
-      <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
-      <p>
-        <strong>1. JavaScript</strong>
-      </p>
-      <p>1.1
-        <a href="https://www.youtube.com/watch?v=uI-hjpmNeYI&amp;list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP" target="_blank">You don't know js</a>
-      </p>
-      <p>1.2
-        <a href="https://www.youtube.com/watch?v=DPfaa66OZj8&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=1"
-          target="_blank">Функции высшего порядка в JS</a>
-      </p>
-      <p>1.3
-        <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q" target="_blank">Основы ES6</a>
-      </p>
-      <p>1.4
-        <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Фреймворки: Где мой JavaScript</a>?</p>
-      <p>1.5
-        <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">Фреймворки: jQuery vs Angular vs Vue</a>
-      </p>
-      <p>1.6 React.js</p>
-       <p>1.6.1
-        <a href="http://gitbook.com/@maxfarseer" target="_blank">Учебник — gitbook.com/@maxfarseer</a>
-      </p>
-      <p>1.6.2
-        <a href="https://www.youtube.com/watch?time_continue=1&amp;v=ol4OVMJZC1w" target="_blank">от learn.javascript.ru</a>
-      </p>
-      <p>1.6.3
-        <a href="https://www.youtube.com/watch?v=fQAKKXc6BCM&amp;list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl" target="_blank">от CodeDojo</a>
-      </p>
-      <p>1.6.4
-        <a href="http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz" target="_blank">от CSSSR</a>
-      </p>
-      <p>1.7. Vue.js</p>
-      <p>1.7.1
-        <a href="https://ru.vuejs.org/v2/guide/" target="_blank"> Оф. документация по Vue.js</a>
-      </p>
-      <p>1.7.2
-        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
-      </p>
-      <p>1.7.3
-        <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
-      </p>
-      <p>1.8
-        <a href="https://www.youtube.com/watch?v=xPFRUM_oDKA" target="_blank">ANTY HYPE</a>
-      </p>
-      <p>1.9
-        <a href="https://getinstance.info/articles/javascript/introduction-to-service-workers/"
-          target="_blank">Service Worker</a>
-      </p>
-      <p>1.10
-        <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
-          target="_blank">Функциональное программирование: цикл статей</a>
-      </p>
-      <p>Полноценный курс:
-        <a href="https://ru.hexlet.io/professions/frontend" target="_blank">Фронтенд JS-программист</a>
-      </p>
-      <p>
-        <strong>2. Автоматизация/сборка фронтенда</strong>
-      </p>
-      <p>2.0
-        <a href="https://ru.hexlet.io/courses/js-setup-environment" target="_blank">JS: Настройка окружения </a>
-      </p>
-      <p>2.1 Обзор
-        <a href="https://www.youtube.com/watch?v=j77g2GLTW2U" target="_blank">инструментов</a>
-      </p>
-      <p>2.2 Обзор
-        <a href="https://www.youtube.com/watch?v=xSlxXbiB7dg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=69" target="_blank">npm, bower, git</a>... </p>
-      <p>2.3
-        <a href="https://www.youtube.com/watch?v=OZ0D3irUT20" target="_blank">npm</a>
-      </p>
-      <p>2.4
-        <a href="https://www.youtube.com/watch?v=86TvKUX3hMI" target="_blank">gulp</a>
-      </p>
-      <p>2.5
-        <a href="https://www.youtube.com/watch?v=uEtnY7i-rmg" target="_blank">browsersync</a>
-      </p>
-      <p>2.6
-        <a href="https://www.youtube.com/watch?v=JK6AjIMYEZw" target="_blank">webpack</a>
-      </p>
-      <h2 id="Базы-данных">Базы данных</h2>
-      <p>
-        <strong>1. Что такое базы данных, основные понятия, СУБД и язык SQL </strong>
-      </p>
-      <p>1.1
-        <a href="https://www.youtube.com/watch?v=GbogxIMRy-o" target="_blank">Кратко</a>
-      </p>
-      <p>1.2 Статьи:
-        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm" target="_blank">Раз</a>.
-        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm" target="_blank">Два</a>.
-        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm" target="_blank">Три</a>.</p>
-      <p>
-        <strong>2. Основы SQL</strong>
-        <a href="https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html" target="_blank">тут</a> и на
-        <a href="https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf" target="_blank">YouTube</a>
-      </p>
-      <p>3.
-        <a href="https://www.youtube.com/watch?v=SfYaAQ9-RnE&amp;list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj" target="_blank">Технострим маил.ру</a>
-      </p>
-      <p>5.
-        <a href="https://www.youtube.com/watch?v=zWtJoWGHsiI" target="_blank">Теория от Елисеева</a>
-      </p>
-      <p>
-        <strong>8. ORM</strong>
-      </p>
-      <p>8.1
-        <a href="https://ru.wikipedia.org/wiki/ORM" target="_blank">Что такое ORM</a>? </p>
-      <p>8.2
-        <a href="https://github.com/Hexlet/hexlet-slack-archive/wiki/%D0%92-%D0%B3%D0%BB%D1%83%D0%B1%D1%8C-ORM-(29.04.2018)" target="_blank">В глубь ORM (29.04.2018)</a>
-      </p>
-      <p>
-        <strong>9. NoSQL </strong>
-      </p>
-      <p>9.2
-        <a href="https://www.youtube.com/watch?v=RYJS-jroFRk" target="_blank">Обзор NoSQL решений</a>
-      </p>
-      <p>
-        <strong>10. Redis </strong>
-      </p>
-      <p>10.1
-        <a href="https://www.youtube.com/watch?v=whp7wmaxmyU" target="_blank">Что такое Redis?</a>
-      </p>
-      <p>10.3
-        <a href="https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md" target="_blank">Книга о Redis</a>
-      </p>
-      <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 1: node JS</h2>
-      <p>1.
-        <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
-      </p>
-      <p>2.
-        <a href="https://www.youtube.com/watch?v=_EhqwOY4Ei0" target="_blank">CodeDojo</a>
-      </p>
-      <p>Полноценный курс:
-        <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
-      </p>
-      <h2>Внешнее взаимодействие</h2>
-      <p>1. Что это Веб-сервисы?
-        <a href="https://www.youtube.com/watch?v=yaz3PRC6bUI" target="_blank">Раз</a>.
-        <a href="http://php.net/manual/ru/refs.webservice.php" target="_blank">Два</a>.
-      </p>
-      <p>
-        2. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.
-      </p>
-      <p>
-        3. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.
-      </p>
-      <p>4. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a></p>
-      <p>5. <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a></p>
-      <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
-      <p>
-        1 
-        <a href="https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ" target="_blank">
-          PhpStorm
-        </a>
-      </p>
-      <p>
-        <strong>2 Основы php</strong>:
-        <a href="https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8" target="_blank">Раз</a>,
-        <a href="https://coursehunters.net/course/hexlet-php-base" target="_blank">Два</a>
-      </p>
-      <p>
-        <strong>3 ООП:</strong>
-      </p>
-      <p>3.0
-        <a href="https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu" target="_blank">В общих чертах</a>
-      </p>
-      <p>3.2
-        <a href="https://www.youtube.com/watch?v=spF2lRj5JLk" target="_blank">Идея</a>
-      </p>
-      <p>3.2
-        <a href="https://habr.com/company/hexlet/blog/303754/" target="_blank">Алан Кей</a>
-      </p>
-      <p>
-        <strong>4. ооп (class programming) в php</strong>
-      </p>
-      <p>4.0
-        <a href="https://coursehunters.net/course/hexlet-php-oop" target="_blank">Курс</a>
-      </p>
-      <p>4.1
-        "<a href="http://www.elisdn.ru/blog/93/oop-week-review" target="_blank">Неделя ООП</a>"</p>
-      <p>
-        <strong>5. Декларативный подход в php</strong>
-      </p>
-      <p>5.0
-        <a href="https://www.youtube.com/watch?v=2Wmd4L9oErg" target="_blank">Отличие декларативного от императивного стиля</a>
-      </p>
-      <p>5.1
-        <a href="https://coursehunters.net/course/hexlet-php-sicp" target="_blank">Построение абстракций в php</a>
-      </p>
-      <p>5.2 Пишем свою функцию:
-        <a href="https://www.youtube.com/watch?v=EaCR8ADzDow" target="_blank">Раз</a>.
-        <a href="https://www.youtube.com/watch?v=RxN_Oh7c5nM" target="_blank">Два</a>
-      </p>
-      <p>
-        <strong>6. PHP + MySql</strong>
-      </p>
-      <p>6.1
-        <a href="http://phpfaq.ru/safemysql" target="_blank">Класс для работы с MySQL</a>
-      </p>
-      <p>6.2
-        <a href="http://phpfaq.ru/safemysql/crud" target="_blank">CRUD</a>
-      </p>
-      <p>6.3
-        <a href="http://phpfaq.ru/pdo" target="_blank">PDO</a>
-      </p>
-      <p>6.3
-        <a href="http://phpfaq.ru/mysql/slashes" target="_blank">Защита от SQL-инъекций</a>
-      </p>
-      <p>
-        <strong>6. Функциональное программирование в php</strong>
-      </p>
-      <p>8.0
-        <a href="https://coursehunters.net/course/hexlet-php-func" target="_blank">Курс</a>
-      </p>
-      <p>8.1
-        <a href="https://www.youtube.com/watch?v=b4V5ZMX7QCc" target="_blank">Функциональный PHP 1/2: Подсчёт стоимости товаров</a>&nbsp;</p>
-      </p>
-      <p>
-        <strong>7. Фреймворки php</strong>
-      </p>
-      <p>8.0
-        <a href="https://www.youtube.com/watch?v=JEsLKK8PoaY" target="_blank">Что это такое</a>?</p>
-      <p>8.1
-        <a href="https://www.youtube.com/watch?v=Ejea5YYjPv0" target="_blank">Какие бывают</a>?</p>
-      <p>8.1
-        <a href="https://www.youtube.com/watch?v=OfNvLy2solE" target="_blank">Что такое MVC Framework</a>?</p>
-      <p>
-        <strong>8. Рабочее окружение php и виртуализация</strong>.</p>
-      <p>8.0
-        <a href="https://ru.hexlet.io/courses/php-setup-environment" target="_blank">PHP: Настройка окружения</a>
-      </p>
-      <p>9.1
-        <a href="https://m.habrahabr.ru/post/145946/" target="_blank">Composer</a>
-      </p>
-      <p>9.2
-        <a href="http://kmarenov.github.io/2016/01/04/vagrant.html" target="_blank">Vagrant</a>
-      </p>
-      <p>9.3
-        <a href="http://guides.hexlet.io/docker" target="_blank">Docker</a>
-      </p>  
-      <p>9.4
-        <a href="https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant" target="_blank">Отличия Vagrant и Docker</a>
-      </p>
-        <strong>9. PSR</strong>
-      </p>
-      <p>10.0
-        <a href="https://myrusakov.ru/php-psr-standards.html" target="_blank">Обзор стандартов PSR</a>
-      </p>
-      <p>10.1
-        <a href="https://github.com/php-fig/fig-standards/tree/master/accepted" target="_blank">Оригинал</a>
-      </p>
-      <p>10.2
-        <a href="https://github.com/getjump/fig-standards/tree/master/accepted" target="_blank">Перевод PSR 0-4</a>
-      </p>
-      <p>10.3 "<a href="https://habrahabr.ru/post/250343/" target="_blank">PSR-7 в примерах</a>"</p>
-      <p>10.4 "<a href="https://habrahabr.ru/post/337692/" target="_blank">Опыт внедрения PSR стандартов в одном легаси проекте</a>" (PSR-7, PSR-11)</p>
-      <p>10.5 Пишем 
-        "<a href="https://www.youtube.com/watch?v=w4iqxN0nfTs" target="_blank">PSR-7 фреймворк 1/6</a>"</p>
-      <p>
-        <strong>11. Автоматическое тестирование</strong>
-      </p>
-      <p>11.1
-        <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">PHP: Автоматическое тестирование</a>
-      </p>
-      <h2 id="Паттерны-и-алгоритмы">Паттерны</h2>
-      <p>
-        <strong>1. SOLID в PHP:</strong>
-        <a href="https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg" target="_blank">Раз</a>.
-        <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
-      <p>2.
-        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны на самом деле?</a></p>
-      <h2>Архитектурные практики</h2>
-      <p>1.
-        <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
-          Dependency Injection | Внедрение зависимостей
-        </a>
-      </p>
-      <p>2.
-        <a href="http://designpatternsphp.readthedocs.io/ru/latest/More/ServiceLocator/README.html" target="_blank">
-          Service Locator | Локатор Служб</a>
-      </p>
-      <p>3.
-        <a href="https://www.youtube.com/watch?v=5WdKLW3vCQ4" target="_blank">
-          Dependency Injection и Service Locator в Yii2
-        </a>
-      </p>
-      <p>4.
-        <a href="https://www.youtube.com/watch?v=uj6inHmDmAY" target="_blank">
-          Структура проекта
-        </a>
-      </p>
-      <p>5.
-        <a href="https://slimframework.ru/cookbook/action-domain-responder" target="_blank">
-          Action-Domain-Responder с Slim
-        </a>
-      </p>
-      <p>6.
-        <a href="https://slimframework.ru/concepts/middleware" target="_blank">
-          Middleware в Slim
-        </a>
-      </p>
-      <p>7.
-        <a href="http://www.elisdn.ru/blog/105/services-and-controllers" target="_blank">
-          Сервисный слой и контроллеры
-        </a>
-      </p>
-      <p>
-        8. DDD. 
-        <a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Domain Driven Design</a>
-      </p>
-      <p>
-        9. ADR.
-        "<a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
-      <p>
-        10. TDD. 
-        <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Автоматическое тестирование и TDD</a>
-      </p>
-      <p>
-        11. Состояния:
-        <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
-          target="_blank">Stateful vs. Stateless</a>
-      </p>
-      <p>
-        12. CQRS и Event Sourcing: 
-        <a href="https://www.youtube.com/watch?v=V24L4a9FFps"
-          target="_blank">Command/Query Responsibility Segregation — отделяем мух от котлет</a>
-      </p>
-      <p>
-        13. Микросервисная архитектура: 
-        <a href="https://www.youtube.com/watch?v=ly77wvz2Bjo"
-          target="_blank">PHP и микросервисы</a>
-      </p>
-      <p>
-        14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): 
-        <a href="https://www.youtube.com/watch?v=XBsXLxd5_v4"
-          target="_blank">Доклад на PHP fwdays'17</a> и <a href="https://www.youtube.com/watch?v=4NOVYddMN-k"
-          target="_blank">Забацали Lambda-Функцию на AWS</a>
-      </p>
-      <h2 id="Практика-PHP">Практика PHP </h2>
-      <p>
-        <strong>1. </strong>
-        <a href="https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6" target="_blank">
-          <strong>Блог на Yii2</strong>
-        </a>
-      </p>
-      <p>1.1
-        <a href="http://www.elisdn.ru/blog/107/yii2-shop-master-class" target="_blank">Интернет-магазин на Yii2 от Дмитрия Елисеева</a> (есть на coursehunters.net)</p>
-      <p>1.2
-        <a href="https://nix-tips.ru/yii2-api-guides/" target="_blank">Документация</a>
-      </p>
-      <p>
-        <strong>2. </strong>
-        <a href="https://coursehunters.net/course/laravel-kak-instrument-na-primere-sozdaniya-bloga" target="_blank">
-          <strong>Блог на Laravel</strong>
-        </a>
-      </p>
-      <p>2.1
-        <a href="http://www.elisdn.ru/blog/117/laravel-master-class" target="_blank">Мастер-класс по Laravel от Дмитрия Елисеева</a> (есть на coursehunters.net)
-      </p>
-      <p>2.2
-        <a href="https://laravel.ru/" target="_blank">Документация</a>
-      </p>
-      <p>2.3
-        <a href="https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd" target="_blank">Уроки по Laravel 5 с laracasts.com в переводе на русский язык</a>
-      </p>
-      <p>
-        <strong>3. </strong>
-        <a href="https://symfony.com/doc" target="_blank">
-          <strong>Документация по Symfony 4</strong>
-        </a>
-      </p>
-      <p>3.1
-        <a href="https://www.youtube.com/watch?v=HrFYaEtwjBM&list=PLAjzt9qQ4n5YqwzlC4g3tqIY6N2HKNF4x" target="_blank">Обзор основных моментов Symfony 3</a>
-      </p>
-      <h2 id="DevOps">DevOps</h2>       
-      <h3><strong>0. Практики и инструменты</strong></h3>
-      <p>0.1. <a href="http://youtube.com/watch?v=YxSYMRLmwDk&list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9">Практики и инструменты DevOps</a></p>
-      <h3><strong>1. Ansible</strong></h3>
-      <p>1.1. <a href="https://www.youtube.com/watch?v=IWxPJrelh5w/" target="_blank">Что такое Ansible?</a></p>
-      <p>1.2. <a href="https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N" target="_blank">Курс по Ansible.</a></p>
-      <h3><strong>2. Nginx и Php-Fpm</strong></h3>
-      <p>2.1. <a href="https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/" target="_blank">Nginx, Php-Fpm и что это вообще?</a></p>
-      <h3><strong>3. Виртуализация: Vagrant и Docker</strong></h3>
-      <p>3.1.
-        <a href="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" target="_blank">Установка Docker</a>
-      </p>
-      <p>3.2.
-        <a href="https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/" target="_blank">Установка Vagrant</a>
-      </p>
-      <p>4.
-        <a href="https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru" target="_blank">Как установить LAMP</a>
-      </p>
-      <p>5.
-        <a href="https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru" target="_blank">Как настроить виртуальные хосты в Apache</a>
-      </p>
-      <p>6.
-        <a href="https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru" target="_blank">Как установить и настроить phpMyAdmin</a>
-      </p>
-      <p>7.
-        <a href="https://losst.ru/ustanovka-composer-ubuntu-16-04" target="_blank">Установка Composer</a>
-      </p>
-      <h2 id="Дизайн">Дизайн</h2>
-      <p><a href="https://www.youtube.com/watch?v=MSnt9cznhTc/" target="_blank">UI/UX. Что это такое?</a></p>
-      <h3>Настройка ФШ 2018</h3>
-      <p>1.
-        <a href="https://www.youtube.com/watch?v=fgQeE5jORjc&list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4&index=2" target="_blank">Солдаткин</a>
-      </p>
-      <p>2.
-        <a href="https://www.youtube.com/watch?v=XWeMeBQj0OM&list=PLpywlLTCVgaQonZNh74F1Duyhs3EpvIyR" target="_blank">Менчуковский</a>
-      </p>
-      <h3>Практика по ФШ 2018</h3>
-       <p>1.
-        <a href="https://www.youtube.com/watch?v=9Nehj8kD3R8" target="_blank">Home #2</a>
-      </p>
-      <p>2.
-        <a href="https://www.youtube.com/watch?v=bN8b_o7Ymsk" target="_blank">Home #2</a></p>
-      <h3>Sketch, Figma, Adobe Хd</h3>
-      <p>1. <a href="https://www.youtube.com/watch?v=5opycxQD41E" target="_blank">Обзор</a></p>
-      <p>2. <a href="https://www.youtube.com/watch?v=5i-ebNTjad8&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23" target="_blank">Официальный видео-туториал по основам Figma</a></p>
-      <p>3. <a href="https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv" target="_blank">Вебинары по Figma на русском (см. на x1.25) </a></p>
-      <h3>youtube-каналы</h3>
-      <p>1.
-        <a href="https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw/" target="_blank">DesignProsmotr</a>
-      </p>
-      <p>2.
-        <a href="https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtg/" target="_blank">Академия Яндекс. Дизайн</a>
-      </p>
-      <p>3.
-        <a href="https://www.youtube.com/playlist?list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4/" target="_blank">Максим Солдаткин</a>
-      </p>
-      <p>4.
-       <a href="https://www.youtube.com/channel/UCSLMlkPTunVwMXDoNkLPplg/" target="_blank">Виталий Менчуковский</a>
-      </p>
-      <h3>Полезные статьи</h3>
-      <p>1.
-        <a href="https://habrahabr.ru/company/logomachine/blog/332186/" target="_blank">Про визитки</a>
-      </p>
-      <p>2.
-        <a href="https://habrahabr.ru/company/logomachine/blog/323574/" target="_blank">Про логотипы</a>
-      </p>
-      <p>3.
-        <a href="https://habrahabr.ru/company/iloveip/blog/337060/" target="_blank">Про интерфейсы</a>
-      </p>
-      <p>4.
-        <a href="https://www.artlebedev.ru/kovodstvo/sections/171/" target="_blank">Про ссылки</a>
-      </p>
-      <p>5.
-        <a href="https://meduza.io/feature/2017/01/29/kak-vybrat-shrift" target="_blank">Про шрифты</a>
-      </p>
-      <p>6. Про цвета:
-        <a href="https://habrahabr.ru/post/105250/" target="_blank">Раз</a>.
-        <a href="https://habrahabr.ru/company/tmru/blog/187604/" target="_blank">Два</a>.</p>
-      <p>7. <a href="https://www.artlebedev.ru/kovodstvo/sections/187/" target="_blank">Границы возможного</a>
-      </p>      
-      <h2>Дополнительные материалы</h2>
-      <h3 id="Книги">Книги</h3>
-        <ol>
-          <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
-            target="_blank">Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
-          <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555" arget="_blank">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>          
-          <li><a href="https://www.ozon.ru/context/detail/id/137213400/">Секреты CSS. Идеальные решения ежедневных задач (Леа Веру)</a></li>
-          <li><a href="https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/">Выразительный Javascript (Marijn Haverbeke)</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/135695718/">Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
-          <li><a href="https://leanpub.com/first-php-docker-application-ru">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
-          <li><a href="https://leanpub.com/the-road-to-learn-react-russian">Путь к изучению React (Робин Вирух)</a></li>
-          <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Другие</a></li>
-        </ol>
-        <h3 id="Ресурсы-(Паблики,-сайты,-каналы)">Ресурсы (Паблики, сайты, каналы)</h3>
-        <ol>
-          <li><a href="https://developer.mozilla.org/" target="_blank">MDN Web Docs</a></li>
-          <li><a href="https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg" target="_blank">Веб-стандарты</a></li>
-          <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md" target="_blank">Другие</a></li>
-        </ol>
-        <h3 id="Практические-задачи">Практические задачи </h3>
-        <ol>
-          <li><a href="https://www.youtube.com/redirect?event=comments&amp;q=http%3A%2F%2Fcodewars.com%2F&amp;redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx" target="_blank">codewars.com</a> </li>
-          <li><a href="https://www.youtube.com/redirect?event=comments&amp;q=http%3A%2F%2Fkaggle.com%2F&amp;redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx" target="_blank">kaggle.com</a></li>
-          <li><a href="https://proghub.ru/" target="_blank">proghub.ru</a></li>
-          <li><a href="https://tproger.ru/digest/competitive-programming-practice/" target="_blank">Другие</a></li>
-        </ol>
-        <h3 id="Философия-и-мотивация">Философия и мотивация</h3>
-        <ol>
-          <li><a href="https://www.youtube.com/watch?v=xPPCzryZK44" target="_blank">36</a></li>
-          <li><a href="https://habrahabr.ru/company/alconost/blog/346020/" target="_blank">90 лет жизни в годах</a></li>
-          <li><a href="https://habrahabr.ru/post/322674/" target="_blank">Фронтэнд-усталость</a></li>
-          <li><a href="https://www.youtube.com/watch?v=qnRoVySmyrg" target="_blank">Про выгорания</a></li>
-        </ol>  
-      <aside>
-        <br>
-      </aside>
-      <p>Главное - это практика.</p>
-      <aside>
-        <br>
-      </aside>
-    </div>
-  </article>
-</main>
-</body>
-</html>
+# Как стать веб-разработчиком с помощью YouTube. Мой опыт.
+
+[Пиратские истории](https://t.me/piratestories)
+
+| [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
+
+Есть отличные гайды по построению стратегии изучения веб-технологий.
+
+1.  По программированию в целом — цикл статей _Три пути программиста: [хороший](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18), [плохой](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-2-плохой-путь-aa99f3ce376), [злой](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-3-злой-путь-5a4ec66fd457)_.
+2.  По верстке есть — текстовый гайд [_Вёрстка — это не тупо!_](http://webmasters.teamdev.com/)
+3.  По фронтенду — серия статей _От нуля до героя фронтенда: [часть 1](https://medium.com/russian/от-нуля-до-героя-front-enda-часть-1-f524d668f328), [часть 2](https://medium.com/russian/от-нуля-до-героя-фронтенда-часть-2-25f19e56eb29)_.
+
+Где можно недорого и правильно учиться программированию? Здесь:
+
+*   [_Hexlet_](https://ru.hexlet.io/)
+
+Допольнительно можно посмотреть [_Дмитрия Елисеева_](http://www.elisdn.ru/) и пройти пару курсов на [_Stepik_](https://stepik.org/).
+
+Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть [онлайн-тренажер](https://htmlacademy.ru/courses/4/run/1). Может быть полезным пройти бесплатную часть.
+
+В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube ([_злой путь_](https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457) _с перспективой перейти на_ [_хороший путь_](https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18)). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.
+
+## Основы программирования
+
+1\. [Код. Тайный язык информатики](http://padaread.com/?book=2430)
+2\. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
+3\. [Структура и интерпретация компьютерных программ](https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
+4\. [Алгоритмы и структуры данных](https://ru.hexlet.io/courses/introduction_to_algorithms)
+5\. [Допольнительно: code-basics.ru](http://code-basics.ru/)
+
+## Операционные системы: Linux
+
+1\. [Операционные системы](https://ru.hexlet.io/courses/operating_systems)
+2\. [Основы Linux](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV)
+3\. [Командная строка](https://ru.hexlet.io/courses/cli-basics)
+4\. [Ubuntu/Mint](https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6)
+
+## Системы контроля версий: GIT
+
+1\. [Системы контроля версий](https://ru.hexlet.io/courses/intro_to_git)
+2\. [GitHowTo](https://githowto.com/ru)
+
+## Введение в веб-разработку
+
+1\. [Как работает интернет](https://developer.mozilla.org/ru/docs/Learn/How_the_Internet_works)
+2\. [Как работает Веб](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+3\. [Что такое доменные имена](https://developer.mozilla.org/ru/docs/Learn/Understanding_domain_names)
+4\. [Введение в веб-разработку](https://ru.hexlet.io/courses/intro_to_web_development)
+
+## HTTP
+
+1\. [HTTP | MDN](https://developer.mozilla.org/ru/docs/Web/HTTP)
+2\. [HTTP протокол (Иван Бибилов)](https://www.youtube.com/watch?v=yUHlrabtEaU)
+
+## Фронтенд. Часть 1: верстка и основы JS
+
+**1\. HTML**
+1.1 [Основы HTML, CSS и Веб-дизайна](https://ru.hexlet.io/courses/html)
+1.2 [Основы HTML5](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
+1.3 [HTML Шорты](https://htmlacademy.ru/shorts)
+1.4 [Семантика](https://www.youtube.com/watch?v=_nEspOK2rp4)
+1.5 [Шаблонизатор jade (pug)](https://www.youtube.com/watch?v=QCsFDi1cQIk)
+1.6 [Шрифты](https://web-standards.ru/articles/web-font-loading-patterns/)
+1.7 [Доступность](https://www.youtube.com/watch?v=ssJsjGZE2sc)
+
+**2\. CSS**
+2.0 [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
+2.1 [Flexbox](https://www.youtube.com/playlist?list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM)
+2.2 [БЭМ: урок](https://www.youtube.com/watch?v=5Gp_2kN5Bv4&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=62) + [документация](https://ru.bem.info/methodology/quick-start/)
+2.3 [CSS-препроцессоры](https://www.youtube.com/watch?v=xiBCOmjnXKo)
+
+2.4 Об этом нужно знать:
+2.4.1 [Про ванильный CSS](https://www.youtube.com/watch?v=CaDnbOjXjRg&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=37)
+2.4.2 [Про технологии](https://www.youtube.com/watch?v=f4uXBpP_xxY)
+
+2.5 CSS Grid.
+2.5.1 [Курс: CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
+2.5.2 [Можно вообще все. Раскладка по гриду](https://www.youtube.com/watch?v=hAFcdRrhwQM)
+
+2.6 [Вы все еще не знаете CSS](https://www.youtube.com/watch?v=VoA-aQu75Xk)
+
+**3\. Графический редактор**
+3.0 [Photoshop](https://www.youtube.com/watch?v=BjtVlWN9A10)
+3.1 [Adobe Assets](https://www.youtube.com/watch?v=fKGPxiRGEh8)
+3.2 [Figma](https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv)
+
+**4\. Практика верстки**
+4.1 [Пример хорошей верстки](https://www.youtube.com/watch?v=7gjxE_VEA_4&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=68)
+4.2 [Стримы по верстке](https://www.youtube.com/watch?v=QGMygnzlifk&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv)
+4.3 [Про подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
+4.4 [Что поправить в верстке?](https://habrahabr.ru/post/319664/)
+
+**5\. JavaScript**
+5.1 [Основы ES5](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+5.2 [Простая функция](https://www.youtube.com/watch?v=UHhQ74uwCns)
+5.3 [jQuery: примеры типичных задач](https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa)
+
+## Фронтенд. Часть 2: JS + автоматизация
+
+**1\. JavaScript**
+1.1 [You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP)
+1.2 [Функции высшего порядка в JS](https://www.youtube.com/watch?v=DPfaa66OZj8&list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&index=1)
+1.3 [Основы ES6](https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
+1.4 [Фреймворки: Где мой JavaScript](https://www.youtube.com/watch?v=T1Gljgey19Y)?
+1.5 [Фреймворки: jQuery vs Angular vs Vue](https://www.youtube.com/watch?v=e6R8Mc015Is)
+
+1.6 React.js
+1.6.1 [The Road to learn React](https://leanpub.com/the-road-to-learn-react-russian)
+1.6.2 [от learn.javascript.ru](https://www.youtube.com/watch?time_continue=1&v=ol4OVMJZC1w)
+1.6.3 [от CodeDojo](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
+1.6.4 [от CSSSR](http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz)
+
+1.7\. Vue.js
+1.7.1 [Оф. документация по Vue.js](https://ru.vuejs.org/v2/guide/)
+1.7.2 [Vue.js с нуля от Точка.dev](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
+1.7.3 [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
+
+1.8 [ANTY HYPE](https://www.youtube.com/watch?v=xPFRUM_oDKA)
+1.9 [Service Worker](https://getinstance.info/articles/javascript/introduction-to-service-workers/)
+1.10 [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
+
+Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
+
+**2\. Автоматизация/сборка фронтенда**
+2.0 [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
+2.1 Обзор [инструментов](https://www.youtube.com/watch?v=j77g2GLTW2U)
+2.2 Обзор [npm, bower, git](https://www.youtube.com/watch?v=xSlxXbiB7dg&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=69)...
+2.3 [Npm](https://www.youtube.com/watch?v=OZ0D3irUT20)
+2.4 [Gulp](https://www.youtube.com/watch?v=86TvKUX3hMI)
+2.5 [WebPack](https://www.youtube.com/watch?v=JK6AjIMYEZw)
+2.6 [Browsersync](https://www.youtube.com/watch?v=uEtnY7i-rmg)
+
+## Базы данных
+
+**1\. Что такое базы данных**
+1.1 [Что такое базы данных, СУБД и язык SQL](https://www.youtube.com/watch?v=GbogxIMRy-o)
+1.2 [Основные понятия баз данных](http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm). 
+1.3 [Объекты базы данных](http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm). 
+1.4 [Операции с базами данных](http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm).
+
+**2\. Основы SQL** 
+2.1 [Синтаксис SQL](https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html) 
+2.2 [Изучение SQL](https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
+2.2 [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
+2.2 [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
+
+**8\. ORM**
+8.1 [Что такое ORM](https://ru.wikipedia.org/wiki/ORM)?
+8.2 [В глубь ORM (29.04.2018)](https://github.com/Hexlet/hexlet-slack-archive/wiki/%D0%92-%D0%B3%D0%BB%D1%83%D0%B1%D1%8C-ORM-(29.04.2018))
+
+**9\. NoSQL**
+9.1 [Обзор NoSQL решений для работы с высоконагруженными системами | Технострим](https://www.youtube.com/watch?v=RYJS-jroFRk)
+
+**10\. Redis**
+10.1 [Что такое Redis?](https://www.youtube.com/watch?v=whp7wmaxmyU)
+10.2 [The little redis book](https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
+
+## Бэкенд. Часть 1: node JS
+1\. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
+2\. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
+Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
+
+## Внешнее взаимодействие
+
+1\.[Web services. Введение](https://www.youtube.com/watch?v=yaz3PRC6bUI)
+2\.[Web services.PHP](http://php.net/manual/ru/refs.webservice.php)
+2\. [Что такое API](https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/)
+3\. [REST API](http://www.restapitutorial.ru/)
+4\. [Отличие “REST API” и “JSON API”](https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417)
+5\. [GraphQL](http://codenative.ru/article/chto_takoe_graphql)
+
+## Бекенд. Часть-2: ООП-парадигма и PHP
+
+1 [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
+**2 Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
+
+**3 ООП:**
+3.0 [В общих чертах](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
+3.2 [Идея](https://www.youtube.com/watch?v=spF2lRj5JLk)
+3.2 [Алан Кей](https://habr.com/company/hexlet/blog/303754/)
+
+**4\. ООП (class programming) в PHP**
+4.0 [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
+4.1 [Неделя ООП: SOLID, GRASP в PHP. (Дмитрий Елисеев)](http://www.elisdn.ru/blog/93/oop-week-review)
+
+**5\. Декларативный подход в PHP**
+5.0 [Отличие декларативного от императивного стиля](https://www.youtube.com/watch?v=2Wmd4L9oErg)
+5.1 [Построение абстракций в PHP](https://coursehunters.net/course/hexlet-php-sicp)
+5.2 Пишем свою функцию: [1 часть](https://www.youtube.com/watch?v=EaCR8ADzDow), [2 часть](https://www.youtube.com/watch?v=RxN_Oh7c5nM)
+
+**6\. PHP + MySql**
+6.1 [Класс для работы с MySQL](http://phpfaq.ru/safemysql)
+6.2 [CRUD](http://phpfaq.ru/safemysql/crud)
+6.3 [PDO](http://phpfaq.ru/pdo)
+6.3 [Защита от SQL-инъекций](http://phpfaq.ru/mysql/slashes)
+
+**6\. Функциональное программирование в php**
+8.0 [PHP: Функциональное программирование](https://coursehunters.net/course/hexlet-php-func)
+8.1 [Функциональный PHP 1/2: Подсчёт стоимости товаров](https://www.youtube.com/watch?v=b4V5ZMX7QCc) 
+
+**7\. Фреймворки php**
+8.0 [Что такое фреймворки](https://www.youtube.com/watch?v=JEsLKK8PoaY)?
+8.1 [Какие бывают фреймворки](https://www.youtube.com/watch?v=Ejea5YYjPv0)?
+8.1 [Что такое MVC Framework](https://www.youtube.com/watch?v=OfNvLy2solE)?
+
+**8\. Рабочее окружение php и виртуализация**.
+8.0 [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
+9.1 [Composer](https://m.habrahabr.ru/post/145946/)
+9.2 [Vagrant](http://kmarenov.github.io/2016/01/04/vagrant.html)
+9.3 [Docker](http://guides.hexlet.io/docker)
+9.4 [Отличия Vagrant и Docker](https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant)
+
+**9\. PSR**
+10.0 [Обзор стандартов PSR](https://myrusakov.ru/php-psr-standards.html)
+10.1 [Fig-standards](https://github.com/php-fig/fig-standards/tree/master/accepted)
+10.2 [Перевод PSR 0-4](https://github.com/getjump/fig-standards/tree/master/accepted)
+10.3 [PSR-7 в примерах](https://habrahabr.ru/post/250343/)
+10.4 [Опыт внедрения PSR стандартов в одном легаси проекте](https://habrahabr.ru/post/337692/) (PSR-7, PSR-11)
+10.5 Пишем [PSR-7 фреймворк 1/6](https://www.youtube.com/watch?v=w4iqxN0nfTs)
+
+**11\. Автоматическое тестирование**
+11.1 [PHP: Автоматическое тестирование](https://ru.hexlet.io/courses/php-testing)
+
+## Паттерны
+1\. [SOLID в PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg). 
+2\. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/).
+3\. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
+
+## Архитектурные практики
+1\. [Dependency Injection | Внедрение зависимостей](https://www.youtube.com/watch?v=ri7L-kbVKcU)
+2\. [Service Locator | Локатор Служб](http://designpatternsphp.readthedocs.io/ru/latest/More/ServiceLocator/README.html)
+3\. [Dependency Injection и Service Locator в Yii2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
+4\. [Структура проекта](https://www.youtube.com/watch?v=uj6inHmDmAY)
+5\. [Action-Domain-Responder с Slim](https://slimframework.ru/cookbook/action-domain-responder)
+6\. [Middleware в Slim](https://slimframework.ru/concepts/middleware)
+7\. [Сервисный слой и контроллеры](http://www.elisdn.ru/blog/105/services-and-controllers)
+8\. DDD. [Domain Driven Design](https://www.youtube.com/watch?v=7HXIrEsmlzM)
+9\. ADR. "[Goodbye controllers, hello request handlers](https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/)"
+10\. TDD. [Автоматическое тестирование и TDD](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
+11\. Состояния: [Stateful vs. Stateless](https://www.youtube.com/watch?v=WPCz_U7D8PI&index=16&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr)
+12\. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
+13\. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
+14\. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
+
+## Практика PHP
+
+**1\.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
+1.1 [Интернет-магазин на Yii2 от Дмитрия Елисеева](http://www.elisdn.ru/blog/107/yii2-shop-master-class) (есть на coursehunters.net)
+1.2 [Документация](https://nix-tips.ru/yii2-api-guides/)
+
+**2\.** [**Блог на Laravel**](https://coursehunters.net/course/laravel-kak-instrument-na-primere-sozdaniya-bloga)
+2.1 [Мастер-класс по Laravel от Дмитрия Елисеева](http://www.elisdn.ru/blog/117/laravel-master-class) (есть на coursehunters.net)
+2.2 [Документация](https://laravel.ru/)
+2.3 [Уроки по Laravel 5 с laracasts.com в переводе на русский язык](https://www.youtube.com/watch?v=4EWQ2ryfrbA&list=PLqDYTgpuS_-j6XrRlEoGFaHI-y1grDKWd)
+
+**3\.** [**Документация по Symfony 4**](https://symfony.com/doc)
+3.1 [Обзор основных моментов Symfony 3](https://www.youtube.com/watch?v=HrFYaEtwjBM&list=PLAjzt9qQ4n5YqwzlC4g3tqIY6N2HKNF4x)
+
+## DevOps
+### **0\. Практики и инструменты**
+0.1\. [Практики и инструменты DevOps](http://youtube.com/watch?v=YxSYMRLmwDk&list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9)
+
+### **1\. Ansible**
+1.1\. [Что такое Ansible?](https://www.youtube.com/watch?v=IWxPJrelh5w/)
+1.2\. [Курс по Ansible.](https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N)
+
+### **2\. Nginx и Php-Fpm**
+2.1\. [Nginx, Php-Fpm и что это вообще?](https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/)
+
+### **3\. Виртуализация: Vagrant и Docker**
+3.1\. [Установка Docker](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
+3.2\. [Установка Vagrant](https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/)
+3.3\. [Как установить LAMP](https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru)
+3.4\. [Как настроить виртуальные хосты в Apache](https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru)
+3.5\. [Как установить и настроить phpMyAdmin](https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru)
+3.6\. [Установка Composer](https://losst.ru/ustanovka-composer-ubuntu-16-04)
+
+## Дизайн
+[UI/UX. Что это такое?](https://www.youtube.com/watch?v=MSnt9cznhTc/)
+
+### Настройка ФШ 2018
+1\. [Солдаткин](https://www.youtube.com/watch?v=fgQeE5jORjc&list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4&index=2)
+2\. [Менчуковский](https://www.youtube.com/watch?v=XWeMeBQj0OM&list=PLpywlLTCVgaQonZNh74F1Duyhs3EpvIyR)
+
+### Практика по ФШ 2018
+1\. [Home #2](https://www.youtube.com/watch?v=9Nehj8kD3R8)
+2\. [Home #2](https://www.youtube.com/watch?v=bN8b_o7Ymsk)
+
+### Sketch, Figma, Adobe Хd
+1\. [Обзор](https://www.youtube.com/watch?v=5opycxQD41E)
+2\. [Официальный видео-туториал по основам Figma](https://www.youtube.com/watch?v=5i-ebNTjad8&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
+3\. [Вебинары по Figma на русском (см. на x1.25)](https://www.youtube.com/watch?v=4UQOdEUb-n4&list=PL2FpwnuYYhRA3NHOLU7g8PgSbgObQ0JGv)
+
+### YouTube-каналы
+1\. [DesignProsmotr](https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw/)
+2\. [Академия Яндекс. Дизайн](https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtg/)
+3\. [Максим Солдаткин](https://www.youtube.com/playlist?list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4/)
+4\. [Виталий Менчуковский](https://www.youtube.com/channel/UCSLMlkPTunVwMXDoNkLPplg/)
+
+### Полезные статьи
+1\. [Про визитки](https://habrahabr.ru/company/logomachine/blog/332186/)
+2\. [Про логотипы](https://habrahabr.ru/company/logomachine/blog/323574/)
+3\. [Про интерфейсы](https://habrahabr.ru/company/iloveip/blog/337060/)
+4\. [Про ссылки](https://www.artlebedev.ru/kovodstvo/sections/171/)
+5\. [Про шрифты](https://meduza.io/feature/2017/01/29/kak-vybrat-shrift)
+6\. Про цвета: 
+6.1\. [Цвета в web-дизайне: Выбор правильного сочетания для вашего сайта](https://habrahabr.ru/post/105250/). 
+6.2\. [Работа с цветом: полезные инструменты, книги, статьи для веб-дизайнеров](https://habrahabr.ru/company/tmru/blog/187604/).
+7\. [Границы возможного](https://www.artlebedev.ru/kovodstvo/sections/187/)
+
+## Дополнительные материалы
+
+### Книги
+1\.  [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)
+2\.  [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
+3\.  [Секреты CSS. Идеальные решения ежедневных задач (Леа Веру)](https://www.ozon.ru/context/detail/id/137213400/)
+4\.  [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+5\.  [Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)](https://www.ozon.ru/context/detail/id/135695718/)
+6\.  [Семь языков за семь недель (Брюс Тейт)](https://www.ozon.ru/context/detail/id/26893656/)
+7\.  [Семь баз данных за семь недель (Эрик Редмонд)](https://www.ozon.ru/context/detail/id/19383907/)
+8\.  [Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)](https://leanpub.com/first-php-docker-application-ru)
+9\.  [Путь к изучению React (Робин Вирух)](https://leanpub.com/the-road-to-learn-react-russian)
+10\. [Другие](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md)
+
+### Ресурсы (Паблики, сайты, каналы)
+1\. [MDN Web Docs](https://developer.mozilla.org/)
+2\. [Веб-стандарты](https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg)
+3\. [Другие](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md)
+
+### Практические задачи
+1\.  [codewars.com](https://www.youtube.com/redirect?event=comments&q=http%3A%2F%2Fcodewars.com%2F&redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx)
+2\.  [kaggle.com](https://www.youtube.com/redirect?event=comments&q=http%3A%2F%2Fkaggle.com%2F&redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx)
+3\.  [proghub.ru](https://proghub.ru/)
+4\.  [Другие](https://tproger.ru/digest/competitive-programming-practice/)
+
+### Философия и мотивация
+1\.  [36](https://www.youtube.com/watch?v=xPPCzryZK44)
+2\.  [90 лет жизни в годах](https://habrahabr.ru/company/alconost/blog/346020/)
+3\.  [Фронтэнд-усталость](https://habrahabr.ru/post/322674/)
+4\.  [Про выгорания](https://www.youtube.com/watch?v=qnRoVySmyrg)
+
+**Главное -- это практика.**
