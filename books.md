@@ -1,9 +1,60 @@
 <h1>Книги</h1>
 <p>Топ книг по программированию, верстке, дизайну, мотивации.</p>
 
-<h2>CSS</h2>
-<ul> 
-    <li><a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач. (Леа Веру)</a></li>
+<h2>Фундаментальное</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики (Чарльз Петцольд)</a></li>  
+  <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
+    target="_blank">SICP «Структура и интерпретация компьютерных программ» (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
+  <li><a href="http://newstar.rinet.ru/~goga/tapl/">TAPL «Типы в языках программирования» (Бенджамин Пирс)</a></li>
+  <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
+</ul>
+
+<h2>Операционные системы</h2>
+<ul>
+   <li><a href="https://www.ozon.ru/context/detail/id/31649356/"> Современные операционные системы (Эндрю Таненбаум, Х. Бос)</a></li>   
+  <li><a href="https://www.ozon.ru/context/detail/id/2419365/?partner=hexlet" target="_blank">Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/7607778/?partner=hexlet" target="_blank">Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)</a></li>
+</ul>
+
+<h2>Автоматное программирование</h2>
+<ul>
+    <li><a href="http://is.ifmo.ru/books/_book.pdf">Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)</a></li>
+</ul>
+
+<h2>Архитектура</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
+</ul>
+
+<h2>Про код</h2>
+<ul>
+  <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>  
+  <li><a href="https://www.ozon.ru/context/detail/id/142429922/">Чистый код. Создание, анализ и рефакторинг. Библиотека программиста (Роберт Мартин)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
+</ul>
+
+<h2>Тестирование</h2>
+<ul>
+    <li><a href="https://www.ozon.ru/context/detail/id/140489225/">TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)</a>
+    </li>
+</ul>
+
+<h2>Docker</h2>
+<ul>
+  <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
+</ul>
+
+<h2>GIT</h2>
+<ul>
+  <li><a href="https://git-scm.com/book/ru/v2" target="_blank">Pro Git (Scott Chacon & Ben Straub)</a></li>
+</ul>
+
+<h2>Базы данных</h2>
+<ul>   
+  <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
 </ul>
 
 <h2>JavaScript</h2>
@@ -28,21 +79,9 @@
   <li><a href="https://www.ozon.ru/context/detail/id/135695718/" target="_blank">Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)</a></li>
 </ul>
 
-<h2>Docker</h2>
+<h2>Паттерны</h2>
 <ul>
-  <li><a href="https://leanpub.com/first-php-docker-application-ru" target="_blank">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
-</ul>
-
-<h2>GIT</h2>
-<ul>
-  <li><a href="https://git-scm.com/book/ru/v2" target="_blank">Pro Git (Scott Chacon & Ben Straub)</a></li>
-</ul>
-
-<h2>Операционные системы</h2>
-<ul>
-   <li><a href="https://www.ozon.ru/context/detail/id/31649356/"> Современные операционные системы (Эндрю Таненбаум, Х. Бос)</a></li>   
-  <li><a href="https://www.ozon.ru/context/detail/id/2419365/?partner=hexlet" target="_blank">Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/7607778/?partner=hexlet" target="_blank">Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/20216992/">Паттерны проектирования (Эрик Фримен)</a></li>
 </ul>
 
 <h2>Дизайн</h2>
@@ -52,50 +91,9 @@
   <li><a href="https://www.ozon.ru/context/detail/id/141214330/" target="_blank">Не заставляйте меня думать (Стив Круг)</a></li>
 </ul>
 
-<h2>Фундаментальное</h2>
-<ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики (Чарльз Петцольд)</a></li>  
-  <li><a href="https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf"
-    target="_blank">SICP «Структура и интерпретация компьютерных программ» (Харольд Абельсон, Джеральд Джей Сассман)</a></li>
-  <li><a href="http://newstar.rinet.ru/~goga/tapl/">TAPL «Типы в языках программирования» (Бенджамин Пирс)</a></li>
-  <li><a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555">Грокаем Алгоритмы (Адитья Бхаргава)</a></li>
-  
-</ul>
-
-<h2>Про код</h2>
-<ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/138437220/">Совершенный код (Стив Макконнелл)</a></li>  
-  <li><a href="https://www.ozon.ru/context/detail/id/142429922/">Чистый код. Создание, анализ и рефакторинг. Библиотека программиста (Роберт Мартин)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
-</ul>
-
-<h2>Автоматное программирование</h2>
-<ul>
-    <li><a href="http://is.ifmo.ru/books/_book.pdf">Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)</a></li>
-</ul>
-
-<h2>Архитектура</h2>
-<ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709">Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/144499396/">Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)</a></li>
-    
-</ul>
-
-<h2>Тестирование</h2>
-<ul>
-    <li><a href="https://www.ozon.ru/context/detail/id/140489225/">TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)</a>
-    </li>
-</ul>
-
-<h2>Базы данных</h2>
-<ul>   
-  <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
-  <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
-</ul>
-
-<h2>Паттерны</h2>
-<ul>
-  <li><a href="https://www.ozon.ru/context/detail/id/20216992/">Паттерны проектирования (Эрик Фримен)</a></li>
+<h2>CSS</h2>
+<ul> 
+    <li><a href="https://www.ozon.ru/context/detail/id/137213400/" target="_blank">Секреты CSS. Идеальные решения ежедневных задач. (Леа Веру)</a></li>
 </ul>
 
 <h2>Философия, мотивация, самоорганизация</h2>
