@@ -288,25 +288,18 @@
         <a href="http://php.net/manual/ru/refs.webservice.php" target="_blank">Два</a>.
       </p>
       <p>
-        <strong>1. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.</strong>
+        1. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.
       </p>
       <p>
-        <strong>2. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.</strong>
+        2. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.
       </p>
       <p>2.1
         <a href="https://www.ibm.com/developerworks/ru/library/ws-restfu/" target="_blank">Раз</a>.
         <a href="https://api.mail.ru/docs/guides/restapi/" target="_blank">Два</a>.
         <a href="https://ru.wikipedia.org/wiki/REST" target="_blank">Три</a>.
       </p>
-      <p>
-        <strong>3. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a>.</strong>
-      </p>
-      <p>4.
-        <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
-      </p>
-      <p>5.
-        <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a>
-      </p>
+      <p>3. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a></p>
+      <p>4. <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a></p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
       <p>
         <strong>1 </strong>
