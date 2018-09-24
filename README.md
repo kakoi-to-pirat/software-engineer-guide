@@ -34,8 +34,8 @@
           <em>От нуля до героя фронтенда: <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328"
             target="_blank">часть 1</a>, <a href="https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-25f19e56eb29" target="_blank">часть 2</a></em>.</li>
       </ol>
-      <p>Где учиться программированию? Рекомендую три ресурса. Не только за качество, но и за наличие практических заданий.</p>
-      <ol>
+      <p>Где можно недорого и правильно учиться программированию? Здесь:</p>
+      <ul>
         <li>
           <a href="https://ru.hexlet.io/" target="_blank">
             <em>Hexlet</em>
@@ -46,13 +46,11 @@
             <em>Stepik</em>
           </a>
         </li>
-        <li>
-          <a href="http://www.elisdn.ru/" target="_blank">
-            <em>Дмитрий Елисеев</em>
-          </a>
-        </li>
-      </ol>      
-      <p>Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть <a href="https://htmlacademy.ru/courses/4/run/1" target="_blank">онлайн-тренажер</a>. Может быть полезным пройти бесплатную часть.</p>   
+      </ul>
+      <p>Допольнительно можно посмотреть <a href="http://www.elisdn.ru/" target="_blank"><em>Дмитрия Елисеева</em></a></p>
+      
+      <p>Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть <a href="https://htmlacademy.ru/courses/4/run/1" target="_blank">онлайн-тренажер</a>. Может быть полезным пройти бесплатную часть.</p>
+      
       <p>В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube (<a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457" target="_blank"><em>злой путь</em></a><em> с перспективой перейти на </em><a href="https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18" target="_blank"><em>хороший путь</em></a>). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.</p>
       <figure contenteditable="false">
         <div class="figure_wrapper">
