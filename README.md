@@ -152,7 +152,7 @@
       <p>1.1
         <a href="https://www.youtube.com/watch?v=uI-hjpmNeYI&amp;list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP" target="_blank">You don't know js</a>
       </p>
-      <p>1.2.
+      <p>1.2
         <a href="https://www.youtube.com/watch?v=DPfaa66OZj8&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=1"
           target="_blank">Функции высшего порядка в JS</a>
       </p>
@@ -203,6 +203,9 @@
       </p>
       <p>
         <strong>2. Автоматизация/сборка фронтенда</strong>
+      </p>
+      <p>2.0
+        <a href="https://ru.hexlet.io/courses/js-setup-environment" target="_blank">JS: Настройка окружения </a>
       </p>
       <p>2.1 Обзор
         <a href="https://www.youtube.com/watch?v=j77g2GLTW2U" target="_blank">инструментов</a>
