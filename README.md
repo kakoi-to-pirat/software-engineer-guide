@@ -254,9 +254,6 @@
       <p>8.2
         <a href="https://github.com/Hexlet/hexlet-slack-archive/wiki/%D0%92-%D0%B3%D0%BB%D1%83%D0%B1%D1%8C-ORM-(29.04.2018)" target="_blank">В глубь ORM (29.04.2018)</a>
       </p>
-      <p>8.3
-        <a href="http://tigor.com.ua/blog/2009/10/21/orm-in-the-php-world/" target="_blank">Список ORM</a>
-      </p>
       <p>
         <strong>9. NoSQL </strong>
       </p>
@@ -272,7 +269,6 @@
       <p>10.3
         <a href="https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md" target="_blank">Книга о Redis</a>
       </p>
-      <p>2.7 Практика: собери свой стартовый шаблон.</p>
       <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 1: node JS</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
