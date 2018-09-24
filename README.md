@@ -53,7 +53,7 @@
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
       </figure>
       <h2 id="Основы-программирования">Основы программирования</h2>
-      <p>0. <a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики.</a></p>
+      <p>0. <a href="http://padaread.com/?book=2430">Код. Тайный язык информатики</a></p>
       <p>1. <a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></></p>
       <p>2. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></p>
       <p>3. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></p>
@@ -64,15 +64,15 @@
       <h2 id="Linux">Операционные системы: Linux</h2>
       <p>1. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></p>
       <p>2. <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы Linux</a></p>
-      <p>3. <a href="https://ru.hexlet.io/courses/cli-basics" target="_blank">Основы командной строки на Hexlet</a></p>
+      <p>3. <a href="https://ru.hexlet.io/courses/cli-basics" target="_blank">Командная строка</a></p>
       <p>4. <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a></p>
       <h2 id="GIT">GIT</h2>
-      <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий (GIT) на Hexlet</a></p>
-      <p>2. <a href="https://githowto.com/ru" target="_blank">Git How To</a></p>
+      <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий (GIT)</a></p>
+      <p>2. <a href="https://githowto.com/ru" target="_blank">GitHowTo</a></p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>0. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку </a></p>
       <p><strong>1. HTML</strong></p>
-      <p>1.1 <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и веб-дизайна</a></p>
+      <p>1.1 <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и Веб-дизайна</a></p>
       <p>1.2 <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
       <p>1.3 <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a></p>
       <p>1.4 <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
