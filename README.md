@@ -176,6 +176,34 @@
       <p>6.2
         <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
+      <h2 id="Linux">Linux</h2>
+      <p>1.
+        <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы основ</a>
+      </p>
+      <p>1.1
+        <a href="https://stepik.org/course/73" target="_blank">Практика</a>
+      </p>
+      <p>2.
+        <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a>
+      </p>
+      <p>3.
+        <a href="https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru" target="_blank">Как установить LAMP</a>
+      </p>
+      <p>4.
+        <a href="https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru" target="_blank">Как настроить виртуальные хосты в Apache</a>
+      </p>
+      <p>5.
+        <a href="https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru" target="_blank">Как установить и настроить phpMyAdmin</a>
+      </p>
+      <p>6.
+        <a href="https://losst.ru/ustanovka-composer-ubuntu-16-04" target="_blank">Установка Composer</a>
+      </p>
+      <p>7.
+        <a href="http://gnu.su/news.php?extend.1845" target="_blank">Быстрые клавиши mc</a>
+      </p>
+      <p>8.
+        <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a>
+      </p>
       <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
       <p>
         <strong>1. JavaScript</strong>
@@ -576,34 +604,6 @@
       </p>
       <p>3.1
         <a href="https://www.youtube.com/watch?v=HrFYaEtwjBM&list=PLAjzt9qQ4n5YqwzlC4g3tqIY6N2HKNF4x" target="_blank">Обзор основных моментов Symfony 3</a>
-      </p>      
-      <h2 id="Linux">Linux</h2>
-      <p>1.
-        <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы основ</a>
-      </p>
-      <p>1.1
-        <a href="https://stepik.org/course/73" target="_blank">Практика</a>
-      </p>
-      <p>2.
-        <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a>
-      </p>
-      <p>3.
-        <a href="https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru" target="_blank">Как установить LAMP</a>
-      </p>
-      <p>4.
-        <a href="https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru" target="_blank">Как настроить виртуальные хосты в Apache</a>
-      </p>
-      <p>5.
-        <a href="https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru" target="_blank">Как установить и настроить phpMyAdmin</a>
-      </p>
-      <p>6.
-        <a href="https://losst.ru/ustanovka-composer-ubuntu-16-04" target="_blank">Установка Composer</a>
-      </p>
-      <p>7.
-        <a href="http://gnu.su/news.php?extend.1845" target="_blank">Быстрые клавиши mc</a>
-      </p>
-      <p>8.
-        <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a>
       </p>
       <h2 id="DevOps">DevOps</h2>       
       <h3><strong>0. Практики и инструменты</strong></h3>
