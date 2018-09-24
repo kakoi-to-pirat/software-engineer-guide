@@ -182,6 +182,100 @@
       <p>6.2
         <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
+  <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
+      <p>
+        <strong>1. JavaScript</strong>
+      </p>
+      <p>1.0.
+        <a href="https://www.youtube.com/watch?v=uI-hjpmNeYI&amp;list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP" target="_blank">You don't know js</a>
+      </p>
+      <p>1.1.
+        <a href="https://www.youtube.com/watch?v=Qve7g0LB7ao&amp;list=PLIcAMDxr6tppz0MDTAj7aj23_E6FwrRfO" target="_blank">ООП в JS</a>
+      </p>
+      <p>1.2.
+        <a href="https://www.youtube.com/watch?v=DPfaa66OZj8&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=1"
+          target="_blank">Функции высшего порядка в JS</a>
+      </p>
+      <p>1.3.
+        <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q" target="_blank">Основы ES6</a>
+      </p>
+      <p>1.4.
+        <a href="https://www.youtube.com/watch?v=mxhRdQd5VcA" target="_blank">Промисы</a>
+      </p>
+      <p>1.5.
+        <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Где мой JavaScript</a>?</p>
+      <p>1.6.
+        <a href="https://www.youtube.com/watch?v=jlBfRDU_3OY&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=51" target="_blank">Введение в ФП на JS</a>
+      </p>
+      <p>1.7. React.js</p>
+       <p>1.7.1
+        <a href="http://gitbook.com/@maxfarseer" target="_blank">Учебник — gitbook.com/@maxfarseer</a>
+      </p>
+      <p>1.7.2
+        <a href="https://www.youtube.com/watch?time_continue=1&amp;v=ol4OVMJZC1w" target="_blank">от learn.javascript.ru</a>
+      </p>
+      <p>1.7.3
+        <a href="https://www.youtube.com/watch?v=fQAKKXc6BCM&amp;list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl" target="_blank">от CodeDojo</a>
+      </p>
+      <p>1.7.4
+        <a href="http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz" target="_blank">от CSSSR</a>
+      </p>
+      <p>1.8. Vue.js</p>
+      <p>1.8.1
+        <a href="https://ru.vuejs.org/v2/guide/" target="_blank"> Оф. документация по Vue.js</a>
+      </p>
+      <p>1.8.2
+        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
+      </p>
+      <p>1.8.3
+        <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
+      </p>
+      <p>1.9.
+        <a href="https://www.youtube.com/watch?v=xPFRUM_oDKA" target="_blank">ANTY HYPE</a>
+      </p>
+      <p>1.10.
+        <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
+          target="_blank">Цикл статей про ФП</a>
+      </p>
+      <p>1.11.
+        <a href="https://getinstance.info/articles/javascript/introduction-to-service-workers/"
+          target="_blank">Service Worker</a>
+      </p>
+      <p>x.x.
+        <a href="https://ru.hexlet.io/professions/frontend" target="_blank">Фронтенд JS-программист</a>
+      </p>
+      <p>
+        <strong>2. Автоматизация/сборка фронтенда</strong>
+      </p>
+      <p>2.1. Обзор
+        <a href="https://www.youtube.com/watch?v=j77g2GLTW2U" target="_blank">инструментов</a>
+      </p>
+      <p>2.2. Обзор
+        <a href="https://www.youtube.com/watch?v=xSlxXbiB7dg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=69" target="_blank">npm, bower, git</a>... </p>
+      <p>2.3.
+        <a href="https://www.youtube.com/watch?v=OZ0D3irUT20" target="_blank">npm</a>
+      </p>
+      <p>2.4.
+        <a href="https://www.youtube.com/watch?v=86TvKUX3hMI" target="_blank">gulp</a>
+      </p>
+      <p>2.5.
+        <a href="https://www.youtube.com/watch?v=uEtnY7i-rmg" target="_blank">browsersync</a>
+      </p>
+      <p>2.6.
+        <a href="https://www.youtube.com/watch?v=JK6AjIMYEZw" target="_blank">webpack</a>
+      </p>
+      <p>2.7. Практика: собери свой стартовый шаблон.</p>
+      <p>2.8. Курс по всему сразу: [HTML Academy] Интенсивный онлайн-курс «Продвинутый HTML и CSS» 2016 </p>
+      <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 2: node JS</h2>
+      <p>1.
+        <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
+      </p>
+      <p>2.
+        <a href="https://www.youtube.com/watch?v=_EhqwOY4Ei0" target="_blank">CodeDojo</a>
+      </p>
+      <p>x.
+        <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
+      </p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: ООП-парадигма и PHP</h2>
       <p>
         <strong>1. </strong>
@@ -501,101 +595,7 @@
       </p>
       <p>3.1
         <a href="https://www.youtube.com/watch?v=HrFYaEtwjBM&list=PLAjzt9qQ4n5YqwzlC4g3tqIY6N2HKNF4x" target="_blank">Обзор основных моментов Symfony 3</a>
-      </p>
-      <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
-      <p>
-        <strong>1. JavaScript</strong>
-      </p>
-      <p>1.0.
-        <a href="https://www.youtube.com/watch?v=uI-hjpmNeYI&amp;list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP" target="_blank">You don't know js</a>
-      </p>
-      <p>1.1.
-        <a href="https://www.youtube.com/watch?v=Qve7g0LB7ao&amp;list=PLIcAMDxr6tppz0MDTAj7aj23_E6FwrRfO" target="_blank">ООП в JS</a>
-      </p>
-      <p>1.2.
-        <a href="https://www.youtube.com/watch?v=DPfaa66OZj8&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=1"
-          target="_blank">Функции высшего порядка в JS</a>
-      </p>
-      <p>1.3.
-        <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q" target="_blank">Основы ES6</a>
-      </p>
-      <p>1.4.
-        <a href="https://www.youtube.com/watch?v=mxhRdQd5VcA" target="_blank">Промисы</a>
-      </p>
-      <p>1.5.
-        <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Где мой JavaScript</a>?</p>
-      <p>1.6.
-        <a href="https://www.youtube.com/watch?v=jlBfRDU_3OY&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=51" target="_blank">Введение в ФП на JS</a>
-      </p>
-      <p>1.7. React.js</p>
-       <p>1.7.1
-        <a href="http://gitbook.com/@maxfarseer" target="_blank">Учебник — gitbook.com/@maxfarseer</a>
-      </p>
-      <p>1.7.2
-        <a href="https://www.youtube.com/watch?time_continue=1&amp;v=ol4OVMJZC1w" target="_blank">от learn.javascript.ru</a>
-      </p>
-      <p>1.7.3
-        <a href="https://www.youtube.com/watch?v=fQAKKXc6BCM&amp;list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl" target="_blank">от CodeDojo</a>
-      </p>
-      <p>1.7.4
-        <a href="http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz" target="_blank">от CSSSR</a>
-      </p>
-      <p>1.8. Vue.js</p>
-      <p>1.8.1
-        <a href="https://ru.vuejs.org/v2/guide/" target="_blank"> Оф. документация по Vue.js</a>
-      </p>
-      <p>1.8.2
-        <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
-      </p>
-      <p>1.8.3
-        <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
-      </p>
-      <p>1.9.
-        <a href="https://www.youtube.com/watch?v=xPFRUM_oDKA" target="_blank">ANTY HYPE</a>
-      </p>
-      <p>1.10.
-        <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
-          target="_blank">Цикл статей про ФП</a>
-      </p>
-      <p>1.11.
-        <a href="https://getinstance.info/articles/javascript/introduction-to-service-workers/"
-          target="_blank">Service Worker</a>
-      </p>
-      <p>x.x.
-        <a href="https://ru.hexlet.io/professions/frontend" target="_blank">Фронтенд JS-программист</a>
-      </p>
-      <p>
-        <strong>2. Автоматизация/сборка фронтенда</strong>
-      </p>
-      <p>2.1. Обзор
-        <a href="https://www.youtube.com/watch?v=j77g2GLTW2U" target="_blank">инструментов</a>
-      </p>
-      <p>2.2. Обзор
-        <a href="https://www.youtube.com/watch?v=xSlxXbiB7dg&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=69" target="_blank">npm, bower, git</a>... </p>
-      <p>2.3.
-        <a href="https://www.youtube.com/watch?v=OZ0D3irUT20" target="_blank">npm</a>
-      </p>
-      <p>2.4.
-        <a href="https://www.youtube.com/watch?v=86TvKUX3hMI" target="_blank">gulp</a>
-      </p>
-      <p>2.5.
-        <a href="https://www.youtube.com/watch?v=uEtnY7i-rmg" target="_blank">browsersync</a>
-      </p>
-      <p>2.6.
-        <a href="https://www.youtube.com/watch?v=JK6AjIMYEZw" target="_blank">webpack</a>
-      </p>
-      <p>2.7. Практика: собери свой стартовый шаблон.</p>
-      <p>2.8. Курс по всему сразу: [HTML Academy] Интенсивный онлайн-курс «Продвинутый HTML и CSS» 2016 </p>
-      <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 2: node JS</h2>
-      <p>1.
-        <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
-      </p>
-      <p>2.
-        <a href="https://www.youtube.com/watch?v=_EhqwOY4Ei0" target="_blank">CodeDojo</a>
-      </p>
-      <p>x.
-        <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
-      </p>
+      </p>      
       <h2 id="Linux">Linux</h2>
       <p>1.
         <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы основ</a>
@@ -704,7 +704,6 @@
           <li><a href="https://www.ozon.ru/context/detail/id/26893656/">Семь языков за семь недель (Брюс Тейт)</a></li>
           <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
           <li><a href="https://leanpub.com/first-php-docker-application-ru">Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)</a></li>
-          <li><a href="https://www.ozon.ru/context/detail/id/144499396/" arget="_blank">Рефакторинг. Улучшение проекта существующего кода (Мартин Фаулер)</a></li>
           <li><a href="https://leanpub.com/the-road-to-learn-react-russian">Путь к изучению React (Робин Вирух)</a></li>
           <li><a href="https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md">Другие</a></li>
         </ol>
