@@ -53,7 +53,7 @@
 
 <h2>Базы данных</h2>
 <ul>   
-  <li><a href="https://www.ozon.ru/context/detail/id/31124973/">Изучаем SQL (Алан Бьюли)</a></li>
+  <li><a href="https://www.ozon.ru/context/detail/id/3291513/">Изучаем SQL (Алан Бьюли)</a></li>
   <li><a href="https://www.ozon.ru/context/detail/id/19383907/">Семь баз данных за семь недель (Эрик Редмонд)</a></li>
 </ul>
 
