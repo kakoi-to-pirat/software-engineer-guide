@@ -53,18 +53,11 @@
         <figcaption class="editable_text" data-placeholder="Caption (optional)"></figcaption>
       </figure>      
       <h2 id="Основы-программирования">Основы программирования</h2>
-      <p>0. <a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики.</a>
-      </p>
-      <p><strong>1. Курсы и практика по основам:</strong></p>       
-         <p>1.2 <strong><a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></strong></p>
-         <p>1.3 <a href="http://code-basics.ru/">code-basics.ru</a></p>
-      </p>
-      <p>2. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Гарвардский курс "CS50"</a>
-      </p>
-      <p><strong>3. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></strong>
-      </p>
-      <p><strong>4. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></strong>
-      </p>
+      <p>0. <a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики.</a></p>
+      <p>1. <a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></></p>
+      <p>2. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></p>
+      <p>3. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></p>
+      <p>4. <a href="http://code-basics.ru/">Допольнительно: code-basics.ru</a></p>
       <h2 id="HTTP">HTTP</h2>
       <p>1.
         <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a>
@@ -77,30 +70,24 @@
       <p>2.
         <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы Linux</a>
       </p>
-      <p>1.1
-        <a href="https://stepik.org/course/73" target="_blank">Практика</a>
-      </p>
-      <p>1.2
+      <p>3.
         <a href="https://ru.hexlet.io/courses/cli-basics" target="_blank">Основы командной строки на Hexlet</a>
       </p>
-      <p>2.
+      <p>4.
         <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a>
       </p>
-      <p>3.
+      <p>5.
         <a href="http://gnu.su/news.php?extend.1845" target="_blank">Быстрые клавиши mc</a>
       </p>
-      <p>8.
+      <p>6.
         <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a>
       </p>
       <h2 id="GIT">GIT</h2>
-      <p>1
-        <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Курс</a>
+      <p>1.
+        <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий (GIT) на Hexlet</a>
       </p>
-      <p>2
+      <p>2.
         <a href="https://githowto.com/ru" target="_blank">Учебник</a>
-      </p>
-      <p>3
-        <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>
