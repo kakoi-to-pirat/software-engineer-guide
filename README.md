@@ -72,13 +72,13 @@
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>0. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку </a></p>
       <p><strong>1. HTML</strong></p>
-      <p>1.1. <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и веб-дизайна</a></p>
-      <p>1.2. <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
-      <p>1.3. <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a></p>
-      <p>1.3. <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
-      <p>1.4. <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a></p>
-      <p>1.5. <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a></p>
-      <p>1.4. <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a></p>
+      <p>1.1 <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и веб-дизайна</a></p>
+      <p>1.2 <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
+      <p>1.3 <a href="https://htmlacademy.ru/shorts" target="_blank">HTML Шорты</a></p>
+      <p>1.3 <a href="https://www.youtube.com/watch?v=_nEspOK2rp4" target="_blank">Семантика</a></p>
+      <p>1.4 <a href="https://www.youtube.com/watch?v=QCsFDi1cQIk" target="_blank">Шаблонизатор jade (pug)</a></p>
+      <p>1.5 <a href="https://web-standards.ru/articles/web-font-loading-patterns/" target="_blank">Шрифты</a></p>
+      <p>1.4 <a href="https://www.youtube.com/watch?v=ssJsjGZE2sc" target="_blank">Доступность</a></p>
       <p>
         <strong>2. CSS </strong>
       </p>
@@ -136,7 +136,7 @@
       <p>4.3
         <a href="https://www.youtube.com/watch?v=soWgVoOgQ_s" target="_blank">Про подходы в верстке</a>
       </p>
-      <p>4.4
+      <p>4.
         <a href="https://habrahabr.ru/post/319664/" target="_blank">Что поправить в верстке?</a>
       </p>
       <p>
@@ -159,46 +159,46 @@
       <p>1.3.
         <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q" target="_blank">Основы ES6</a>
       </p>
-      <p>1.5.
+      <p>1.4.
         <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Фреймворки: Где мой JavaScript</a>?</p>
-      <p>5.2.2
+      <p>1.5.
         <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">Фреймворки: jQuery vs Angular vs Vue</a>
       </p>
-      <p>1.7. React.js</p>
-       <p>1.7.1
+      <p>1.6. React.js</p>
+       <p>1.6.1
         <a href="http://gitbook.com/@maxfarseer" target="_blank">Учебник — gitbook.com/@maxfarseer</a>
       </p>
-      <p>1.7.2
+      <p>1.6.2
         <a href="https://www.youtube.com/watch?time_continue=1&amp;v=ol4OVMJZC1w" target="_blank">от learn.javascript.ru</a>
       </p>
-      <p>1.7.3
+      <p>1.6.3
         <a href="https://www.youtube.com/watch?v=fQAKKXc6BCM&amp;list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl" target="_blank">от CodeDojo</a>
       </p>
-      <p>1.7.4
+      <p>1.6.4
         <a href="http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz" target="_blank">от CSSSR</a>
       </p>
-      <p>1.8. Vue.js</p>
-      <p>1.8.1
+      <p>1.7. Vue.js</p>
+      <p>1.7.1
         <a href="https://ru.vuejs.org/v2/guide/" target="_blank"> Оф. документация по Vue.js</a>
       </p>
-      <p>1.8.2
+      <p>1.7.2
         <a href="https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7" target="_blank"> Vue.js с нуля от Точка.dev</a>
       </p>
-      <p>1.8.3
+      <p>1.7.3
         <a href="https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB" target="_blank"> Vue.js 2 от Yauhen Kavalchuk</a>
       </p>
-      <p>1.9.
+      <p>1.8.
         <a href="https://www.youtube.com/watch?v=xPFRUM_oDKA" target="_blank">ANTY HYPE</a>
       </p>
-      <p>1.10.
-        <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
-          target="_blank">Цикл статей про ФП</a>
-      </p>
-      <p>1.11.
+      <p>1.9.
         <a href="https://getinstance.info/articles/javascript/introduction-to-service-workers/"
           target="_blank">Service Worker</a>
       </p>
-      <p>x.x.
+      <p>1.10.
+        <a href="https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d"
+          target="_blank">Функциональное программирование: цикл статей</a>
+      </p>
+      <p>Полноценный курс:
         <a href="https://ru.hexlet.io/professions/frontend" target="_blank">Фронтенд JS-программист</a>
       </p>
       <p>
