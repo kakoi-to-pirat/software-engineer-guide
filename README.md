@@ -57,10 +57,7 @@
       <p>1. <a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></></p>
       <p>2. <a href="https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT">Структура и интерпретация компьютерных программ</a></p>
       <p>3. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></p>
-      <p>4. <a href="http://code-basics.ru/">Допольнительно: code-basics.ru</a></p>
-      <h2 id="HTTP">HTTP</h2>
-      <p>1. <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a></p>
-      <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол - Иван Бибилов</a></p>
+      <p>4. <a href="http://code-basics.ru/">Допольнительно: code-basics.ru</a></p>     
       <h2 id="Linux">Операционные системы: Linux</h2>
       <p>1. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></p>
       <p>2. <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы Linux</a></p>
@@ -69,6 +66,9 @@
       <h2 id="GIT">GIT</h2>
       <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий (GIT)</a></p>
       <p>2. <a href="https://githowto.com/ru" target="_blank">GitHowTo</a></p>
+      <h2 id="HTTP">HTTP</h2>
+      <p>1. <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a></p>
+      <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол - Иван Бибилов</a></p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>0. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку </a></p>
       <p><strong>1. HTML</strong></p>
