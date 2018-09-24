@@ -346,74 +346,74 @@
         <a href="https://www.youtube.com/watch?v=RxN_Oh7c5nM" target="_blank">Два</a>
       </p>
       <p>
-        <strong>7. php + mysql</strong>
+        <strong>6. php + mysql</strong>
       </p>
-      <p>7.1
+      <p>6.1
         <a href="http://phpfaq.ru/safemysql" target="_blank">Класс для работы с MySQL</a>
       </p>
-      <p>7.2
+      <p>6.2
         <a href="http://phpfaq.ru/safemysql/crud" target="_blank">CRUD</a>
       </p>
-      <p>7.3
+      <p>6.3
         <a href="http://phpfaq.ru/pdo" target="_blank">PDO</a>
       </p>
-      <p>7.3
+      <p>6.3
         <a href="http://phpfaq.ru/mysql/slashes" target="_blank">Защита от SQL-инъекций</a>
       </p>
       <p>
         <strong>6. Функциональное программирование в php</strong>
       </p>
-      <p>6.0
+      <p>8.0
         <a href="https://coursehunters.net/course/hexlet-php-func" target="_blank">Курс</a>
       </p>
-      <p>6.1
+      <p>8.1
         <a href="https://www.youtube.com/watch?v=b4V5ZMX7QCc" target="_blank">Функциональный PHP 1/2: Подсчёт стоимости товаров</a>&nbsp;</p>
       </p>
       <p>
         <strong>7. Фреймворки php</strong>
       </p>
-      <p>7.0
+      <p>8.0
         <a href="https://www.youtube.com/watch?v=JEsLKK8PoaY" target="_blank">Что это такое</a>?</p>
-      <p>7.1
+      <p>8.1
         <a href="https://www.youtube.com/watch?v=Ejea5YYjPv0" target="_blank">Какие бывают</a>?</p>
-      <p>7.1
+      <p>8.1
         <a href="https://www.youtube.com/watch?v=OfNvLy2solE" target="_blank">Что такое MVC Framework</a>?</p>
       <p>
         <strong>8. Рабочее окружение php и виртуализация</strong>.</p>
       <p>8.0
         <a href="https://ru.hexlet.io/courses/php-setup-environment" target="_blank">PHP: Настройка окружения</a>
       </p>
-      <p>8.1
+      <p>9.1
         <a href="https://m.habrahabr.ru/post/145946/" target="_blank">Composer</a>
       </p>
-      <p>8.2
+      <p>9.2
         <a href="http://kmarenov.github.io/2016/01/04/vagrant.html" target="_blank">Vagrant</a>
       </p>
-      <p>8.3
+      <p>9.3
         <a href="http://guides.hexlet.io/docker" target="_blank">Docker</a>
       </p>  
-      <p>8.4
+      <p>9.4
         <a href="https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant" target="_blank">Отличия Vagrant и Docker</a>
       </p>
         <strong>9. PSR</strong>
       </p>
-      <p>9.0
+      <p>10.0
         <a href="https://myrusakov.ru/php-psr-standards.html" target="_blank">Обзор стандартов PSR</a>
       </p>
-      <p>9.1
+      <p>10.1
         <a href="https://github.com/php-fig/fig-standards/tree/master/accepted" target="_blank">Оригинал</a>
       </p>
-      <p>9.2
+      <p>10.2
         <a href="https://github.com/getjump/fig-standards/tree/master/accepted" target="_blank">Перевод PSR 0-4</a>
       </p>
-      <p>9.3 "<a href="https://habrahabr.ru/post/250343/" target="_blank">PSR-7 в примерах</a>"</p>
-      <p>9.4 "<a href="https://habrahabr.ru/post/337692/" target="_blank">Опыт внедрения PSR стандартов в одном легаси проекте</a>" (PSR-7, PSR-11)</p>
-      <p>9.5 Пишем 
+      <p>10.3 "<a href="https://habrahabr.ru/post/250343/" target="_blank">PSR-7 в примерах</a>"</p>
+      <p>10.4 "<a href="https://habrahabr.ru/post/337692/" target="_blank">Опыт внедрения PSR стандартов в одном легаси проекте</a>" (PSR-7, PSR-11)</p>
+      <p>10.5 Пишем 
         "<a href="https://www.youtube.com/watch?v=w4iqxN0nfTs" target="_blank">PSR-7 фреймворк 1/6</a>"</p>
       <p>
         <strong>10. Автоматическое тестирование</strong>
       </p>
-      <p>10.1
+      <p>11.1
         <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">PHP: Автоматическое тестирование</a>
       </p>
       <h2 id="Паттерны-и-алгоритмы">Паттерны</h2>
