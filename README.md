@@ -328,9 +328,10 @@
 ## Дополнительные материалы
 
 ### Книги
-1.  [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)
-2.  [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
-3.  [You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru/blob/master/up%20%26%20going/ch1.md)
+1. [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)
+2. [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
+3. [You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru/blob/master/up%20%26%20going/ch1.md)
+4. [Другие](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md)
 
 ### Ресурсы (Паблики, сайты, каналы)
 1. [MDN Web Docs](https://developer.mozilla.org/)
@@ -338,15 +339,15 @@
 3. [Другие](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md)
 
 ### Практические задачи
-1.  [codewars.com](https://www.youtube.com/redirect?event=comments&q=http%3A%2F%2Fcodewars.com%2F&redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx)
-2.  [kaggle.com](https://www.youtube.com/redirect?event=comments&q=http%3A%2F%2Fkaggle.com%2F&redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx)
-3.  [proghub.ru](https://proghub.ru/)
-4.  [Другие](https://tproger.ru/digest/competitive-programming-practice/)
+1. [codewars.com](https://www.youtube.com/redirect?event=comments&q=http%3A%2F%2Fcodewars.com%2F&redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx)
+2. [kaggle.com](https://www.youtube.com/redirect?event=comments&q=http%3A%2F%2Fkaggle.com%2F&redir_token=kIV_HlzN421SLNvkN4U5-EPKGJZ8MTUxODYzMTA1MUAxNTE4NTQ0NjUx)
+3. [proghub.ru](https://proghub.ru/)
+4. [Другие](https://tproger.ru/digest/competitive-programming-practice/)
 
 ### Философия и мотивация
-1.  [36](https://www.youtube.com/watch?v=xPPCzryZK44)
-2.  [90 лет жизни в годах](https://habrahabr.ru/company/alconost/blog/346020/)
-3.  [Фронтэнд-усталость](https://habrahabr.ru/post/322674/)
-4.  [Про выгорания](https://www.youtube.com/watch?v=qnRoVySmyrg)
+1. [36](https://www.youtube.com/watch?v=xPPCzryZK44)
+2. [90 лет жизни в годах](https://habrahabr.ru/company/alconost/blog/346020/)
+3. [Фронтэнд-усталость](https://habrahabr.ru/post/322674/)
+4. [Про выгорания](https://www.youtube.com/watch?v=qnRoVySmyrg)
 
 **Главное -- это практика.**
