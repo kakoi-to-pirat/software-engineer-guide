@@ -128,6 +128,11 @@
 1. [Управление состоянием приложения с помощью конечного автомата](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
 2. [Автоматное программирование](http://is.ifmo.ru/books/_book.pdf)
 
+## Автоматическое тестирование
+1. [Что такое тестирование и почему мы должны его делать?](https://medium.com/devschacht/what-is-testing-and-why-should-we-do-it-acf06723816b)
+2. [TDD. Автоматическое тестирование и TDD](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
+3. [Процесс разработки через тестирование по шагам с примерами кода](https://bespoyasov.ru/ttt-tdd/)
+
 ## Алгоритмы и структуры данных
 1. [Что такое алгоритмы и структуры данных, и зачем они нужны](https://www.youtube.com/watch?v=ijwbVxLMp58&t=0s&index=11&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
 2. [Классические приёмы программирования во фронтенде](https://www.youtube.com/watch?v=mc7EMdyawBk)
@@ -139,9 +144,9 @@
 ## Базы данных
 **1. Что такое базы данных**
 1. [Что такое базы данных, СУБД и язык SQL](https://www.youtube.com/watch?v=GbogxIMRy-o)
-2. [Основные понятия баз данных](http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm). 
-3. [Объекты базы данных](http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm). 
-4. [Операции с базами данных](http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm).
+2. [Основные понятия баз данных](http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm)
+3. [Объекты базы данных](http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm)
+4. [Операции с базами данных](http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm)
 
 **2. Основы SQL** 
 1. [Синтаксис SQL](https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html) 
@@ -176,7 +181,7 @@
 
 ## Внешнее взаимодействие
 1. [Web services. Введение](https://www.youtube.com/watch?v=yaz3PRC6bUI)
-2. [Web services.PHP](http://php.net/manual/ru/refs.webservice.php)
+2. [Web services. PHP](http://php.net/manual/ru/refs.webservice.php)
 2. [Что такое API](https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/)
 3. [REST API](http://www.restapitutorial.ru/)
 4. [Отличие “REST API” и “JSON API”](https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417)
@@ -187,10 +192,12 @@
 1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
 2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
 
- **1. ООП (class programming) в PHP**
-1. [ООП общих чертах](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
+ **1. ООП**
+1. [ООП в общих чертах](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
 2. [Идея ООП](https://www.youtube.com/watch?v=spF2lRj5JLk)
 3. [Алан Кей](https://habr.com/company/hexlet/blog/303754/)
+4. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
+5. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
 
 **2. ООП (class programming) в PHP**
 1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
@@ -231,7 +238,7 @@
 5. [Опыт внедрения PSR стандартов в одном легаси проекте](https://habrahabr.ru/post/337692/) (PSR-7, PSR-11)
 6. Пишем [PSR-7 фреймворк 1/6](https://www.youtube.com/watch?v=w4iqxN0nfTs)
 
-**9. Автоматическое тестирование**
+**9. Тестирование в PHP**
 1. [PHP: Автоматическое тестирование](https://ru.hexlet.io/courses/php-testing)
 
 ## Паттерны
@@ -249,11 +256,10 @@
 7. [Сервисный слой и контроллеры](http://www.elisdn.ru/blog/105/services-and-controllers)
 8. DDD. [Domain Driven Design](https://www.youtube.com/watch?v=7HXIrEsmlzM)
 9. ADR. "[Goodbye controllers, hello request handlers](https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/)"
-10. TDD. [Автоматическое тестирование и TDD](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
-11. Состояния: [Stateful vs. Stateless](https://www.youtube.com/watch?v=WPCz_U7D8PI&index=16&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr)
-12. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
-13. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
-14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
+10. Состояния: [Stateful vs. Stateless](https://www.youtube.com/watch?v=WPCz_U7D8PI&index=16&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr)
+11. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
+12. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
+13. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
 
 ## Практика PHP
 **1.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
