@@ -56,9 +56,8 @@
       <p>0. <a href="https://www.ozon.ru/context/detail/id/125884/">Код. Тайный язык информатики.</a>
       </p>
       <p><strong>1. Курсы и практика по основам:</strong></p>       
-         <p>1.1 <a href="https://ru.hexlet.io/courses/programming-basics">Основы от Кирилла Мокевнина + упражнения</a></p>
-         <p>1.2 <strong><a href="https://ru.hexlet.io/courses/introduction_to_programming">Основы от Рахима Давлеткалиева + упражнения</a></strong></p>
-         <p>1.3 <a href="http://code-basics.ru/">code-basics.ru (пока только php)</a></p>
+         <p>1.2 <strong><a href="https://ru.hexlet.io/courses/introduction_to_programming">Введение в программирование</a></strong></p>
+         <p>1.3 <a href="http://code-basics.ru/">code-basics.ru</a></p>
       </p>
       <p>2. <a href="https://www.youtube.com/watch?v=Sy_wba7l1UU&amp;list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5">Гарвардский курс "CS50"</a>
       </p>
@@ -66,7 +65,6 @@
       </p>
       <p><strong>4. <a href="https://ru.hexlet.io/courses/introduction_to_algorithms">Алгоритмы и структуры данных</a></strong>
       </p>
-       <p>4.1 <a href="https://stepik.org/course/217">Алгоритмы: теория и практика. Методы – Stepik</a>
       </p>
       <p><strong>5. <a href="https://ru.hexlet.io/courses/operating_systems">Операционные системы</a></strong>
       </p>
@@ -162,24 +160,15 @@
       <p>5.0.2
         <a href="https://www.youtube.com/watch?v=H6G63NKRSi8&amp;list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem" target="_blank">Вторая часть</a>
       </p>
-      <p>5.0.3
-        <a href="http://learn.javascript.ru/" target="_blank">Учебник</a>
-      </p>
-      <p>5.0.4
-        <a href="https://stepik.org/course/2223" target="_blank">Практика</a>
-      </p>
       <p>5.1
         <a href="https://www.youtube.com/watch?v=UHhQ74uwCns" target="_blank">Простая функция</a>
       </p>
       <p>5.2 jQuery.</p>
       <p>5.2.1
-        <a href="https://www.youtube.com/watch?v=QrOo8yUiLCM" target="_blank">Основы</a>
-      </p>
-      <p>5.2.2
         <a href="https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa" target="_blank">Примеры типичных задач</a>
       </p>
-      <p>5.2.3
-        <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">jQuery, Angular, Vue</a>
+      <p>5.2.2
+        <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">jQuery vs Angular vs Vue</a>
       </p>
       <p>
         <strong>6. GIT</strong>
@@ -193,7 +182,7 @@
       <p>6.2
         <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
-      <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: основы ООП и PHP</h2>
+      <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: ООП-парадигма и PHP</h2>
       <p>
         <strong>1. </strong>
         <a href="https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ" target="_blank">
@@ -221,13 +210,7 @@
         <a href="https://coursehunters.net/course/hexlet-php-oop" target="_blank">Курс</a>
       </p>
       <p>4.1
-        <a href="https://www.youtube.com/playlist?list=PL5QUj3iB7EoJGDMxuzlV58uh0ybgAHlcN" target="_blank">Разван::веселый_парень</a>
-      </p>
-      <p>4.1
         "<a href="http://www.elisdn.ru/blog/93/oop-week-review" target="_blank">Неделя ООП</a>"</p>
-      <p>4.2
-        <a href="https://www.ozon.ru/context/detail/id/33506422/" target="_blank">Объекты, шаблоны и методики программирования</a>
-      </p>
       <p>
         <strong>5. Декларативный подход в php</strong>
       </p>
@@ -252,8 +235,6 @@
       </p>
       <p>6.2
         <a href="https://www.youtube.com/watch?v=b4V5ZMX7QCc" target="_blank">Функциональный PHP 1/2: Подсчёт стоимости товаров</a>&nbsp;</p>
-      <p>6.3
-        <a href="https://www.youtube.com/watch?v=izLOoyRr260" target="_blank">Функциональный PHP 2/2: Многопоточный парсер</a>
       </p>
       <p>
         <strong>7. Фреймворки php</strong>
@@ -281,10 +262,6 @@
       <p>8.4
         <a href="https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant" target="_blank">Отличия Vagrant и Docker</a>
       </p>
-      <p>В целом, судя по названиям уроков,
-        <a href="https://www.youtube.com/watch?v=B1Q44OKh5YA&amp;list=PLSdH7dYnlGYht0eGi9-14X87hrSl9plCc"
-          target="_blank">неплохой курс по окружению.</a> Но, я его не смотрел, поэтому ничего не гарантирую. </p>
-      <p>
         <strong>9. PSR</strong>
       </p>
       <p>9.0
@@ -386,32 +363,18 @@
       </p>
       <h2 id="Паттерны-и-алгоритмы">Паттерны и алгоритмы</h2>
       <p>
-        <strong>1. Шаблоны проектирования в PHP: </strong>
-        <a href="http://devacademy.ru/posts/shablony-proiektirovaniia-v-php/"
-          target="_blank">Раз</a>.
-        <a href="http://designpatternsphp.readthedocs.io/ru/latest/" target="_blank">Два</a>.</p>
-      <p>
-        <strong>2.</strong>
-        <a href="https://www.youtube.com/watch?v=S-RjiMAxHio&list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4" target="_blank">
-          <strong> GRASP и GOF</strong>
-        </a>
+        <strong>1. Алгоритмы</strong>
       </p>
-      <p>
-        <strong>3. SOLID в PHP:</strong>
-        <a href="https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg" target="_blank">Раз</a>.
-        <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
-      <p>4.
-        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны?</a></p>
-      <p>
-        <strong>5. Алгоритмы</strong>
-      </p>
-      <p>5.1 Курс на
-        <a href="https://stepik.org/course/217" target="_blank">Степике</a>
-      </p>
-      <p>5.2 Книга 
+      <p>5.1 Книга 
         "<a href="http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-155"
           target="_blank">Грокаем Алгоритмы</a>"
       </p>
+      <p>
+        <strong>2. SOLID в PHP:</strong>
+        <a href="https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg" target="_blank">Раз</a>.
+        <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
+      <p>4.
+        <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны?</a></p>     
       <h2>Внешнее взаимодействие</h2>
       <p>
         <strong>0. Веб-сервисы</strong>
