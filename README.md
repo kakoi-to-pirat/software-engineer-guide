@@ -18,14 +18,14 @@
 
 Как учиться верстке? Исключительно на практике. Еще у HTML Academy есть [онлайн-тренажер](https://htmlacademy.ru/courses/4/run/1). Может быть полезным пройти бесплатную часть.
 
-В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube ([_злой путь_](https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%B7%D0%BB%D0%BE%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-5a4ec66fd457) _с перспективой перейти на_ [_хороший путь_](https://medium.com/russian/frontend-dev-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%B7%D0%BB%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-865b640d5d18)). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.
+В этой статье я описал стратегию изучения веб-технологий по урокам с YouTube ([злой путь](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-3-злой-путь-5a4ec66fd457) _с перспективой перейти на_ [хороший путь](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18)). Самые объективные и качественные, на мой взгляд, не отнимающие слишком много времени, курсы и ролики, логически упорядочены и собраны в последовательную схему обучения. Для полноты картины, я добавил статьи и курсы из источников выше.
 
 ## Основы программирования
 
 1. [Код. Тайный язык информатики](http://padaread.com/?book=2430)
 2. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
 3. [Структура и интерпретация компьютерных программ](https://www.youtube.com/watch?v=bFMbqKRjU84&list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
-4. [Алгоритмы и структуры данных](https://ru.hexlet.io/courses/introduction_to_algorithms)
+4. [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
 5. [Допольнительно: code-basics.ru](http://code-basics.ru/)
 
 ## Операционные системы: Linux
@@ -106,8 +106,7 @@
 12. [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
 13. [ANTY HYPE](https://www.youtube.com/watch?v=xPFRUM_oDKA)
 14. [Service Worker](https://getinstance.info/articles/javascript/introduction-to-service-workers/)
-15. [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
-16. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
+15. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
 
 **2. Автоматизация/сборка фронтенда**
 1. [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
@@ -117,6 +116,17 @@
 5. [Gulp](https://www.youtube.com/watch?v=86TvKUX3hMI)
 6. [WebPack](https://www.youtube.com/watch?v=JK6AjIMYEZw)
 7. [Browsersync](https://www.youtube.com/watch?v=uEtnY7i-rmg)
+
+## Функциональное программирование
+1. [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
+2. [Лямбда исчисление](https://www.youtube.com/watch?v=dowYB_dPkmU)
+3. [Функторы и монады](https://www.youtube.com/watch?v=t2SaSHQhkdE)
+4. [Основы Haskell](https://www.youtube.com/watch?v=jNQVa5INdDk&list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
+5. [Clojure. Полный стэк на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
+
+## 10 Алгоритмы и структуры данных
+1. [Что такое алгоритмы и структуры данных, и зачем они нужны](https://www.youtube.com/watch?v=ijwbVxLMp58&t=0s&index=11&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
+2. [Классические приёмы программирования во фронтенде](https://www.youtube.com/watch?v=mc7EMdyawBk)
 
 ## Базы данных
 **1. Что такое базы данных**
@@ -131,14 +141,14 @@
 2. [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
 2. [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
 
-**8. ORM**
+**3. ORM**
 1. [Что такое ORM](https://ru.wikipedia.org/wiki/ORM)?
 2. [В глубь ORM (29.04.2018)](https://github.com/Hexlet/hexlet-slack-archive/wiki/%D0%92-%D0%B3%D0%BB%D1%83%D0%B1%D1%8C-ORM-(29.04.2018))
 
-**9. NoSQL**
+**4. NoSQL**
 1. [Обзор NoSQL решений для работы с высоконагруженными системами | Технострим](https://www.youtube.com/watch?v=RYJS-jroFRk)
 
-**10. Redis**
+**5. Redis**
 1. [Что такое Redis?](https://www.youtube.com/watch?v=whp7wmaxmyU)
 2. [The little redis book](https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
 
@@ -229,7 +239,6 @@
 14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
 
 ## Практика PHP
-
 **1.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
 1. [Интернет-магазин на Yii2 от Дмитрия Елисеева](http://www.elisdn.ru/blog/107/yii2-shop-master-class) (есть на coursehunters.net)
 2. [Документация](https://nix-tips.ru/yii2-api-guides/)
@@ -250,10 +259,10 @@
 1. [Что такое Ansible?](https://www.youtube.com/watch?v=IWxPJrelh5w/)
 2. [Курс по Ansible.](https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N)
 
-### **2. Nginx и Php-Fpm**
+### **3. Nginx и Php-Fpm**
 1. [Nginx, Php-Fpm и что это вообще?](https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/)
 
-### **3. Виртуализация: Vagrant и Docker**
+### **4. Виртуализация: Vagrant и Docker**
 1. [Установка Docker](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
 2. [Установка Vagrant](https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/)
 3. [Как установить LAMP](https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru)
