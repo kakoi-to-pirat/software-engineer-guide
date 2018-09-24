@@ -66,8 +66,6 @@
       <p>2. <a href="https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV" target="_blank">Основы Linux</a></p>
       <p>3. <a href="https://ru.hexlet.io/courses/cli-basics" target="_blank">Основы командной строки на Hexlet</a></p>
       <p>4. <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a></p>
-      <p>5. <a href="http://gnu.su/news.php?extend.1845" target="_blank">Быстрые клавиши mc</a></p>
-      <p>6. <a href="http://badembed.ru/sublime-text-redaktor-po-umolchaniyu-v-mc/" target="_blank">Сделать sublime text редактором по умолчанию в mc</a></p>
       <h2 id="GIT">GIT</h2>
       <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий (GIT) на Hexlet</a></p>
       <p>2. <a href="https://githowto.com/ru" target="_blank">Учебник</a></p>
