@@ -69,7 +69,7 @@
       <h2 id="HTTP">WEB и Интернет</h2>
       <p>1. <a href="https://developer.mozilla.org/ru/docs/Learn/How_the_Internet_works" target="_blank">Как работает интернет</a></p>
       <p>2. <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works" target="_blank">Как работает Веб</a></p>
-      <p>3/ <a href="https://developer.mozilla.org/ru/docs/Learn/Understanding_domain_names" target="_blank"> Что такое доменные именаб</a></p> 
+      <p>3. <a href="https://developer.mozilla.org/ru/docs/Learn/Understanding_domain_names" target="_blank"> Что такое доменные имена</a></p> 
       <h2 id="HTTP">HTTP</h2>
       <p>1. <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a></p>
       <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол (Иван Бибилов)</a></p>
