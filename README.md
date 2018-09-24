@@ -183,22 +183,13 @@
       <p>1.1
         <a href="https://stepik.org/course/73" target="_blank">Практика</a>
       </p>
+      <p>1.2
+        <a href="https://ru.hexlet.io/courses/cli-basics" target="_blank">Основы командной строки на Hexlet</a>
+      </p>
       <p>2.
         <a href="https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6" target="_blank">Ubuntu/Mint</a>
       </p>
       <p>3.
-        <a href="https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru" target="_blank">Как установить LAMP</a>
-      </p>
-      <p>4.
-        <a href="https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru" target="_blank">Как настроить виртуальные хосты в Apache</a>
-      </p>
-      <p>5.
-        <a href="https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru" target="_blank">Как установить и настроить phpMyAdmin</a>
-      </p>
-      <p>6.
-        <a href="https://losst.ru/ustanovka-composer-ubuntu-16-04" target="_blank">Установка Composer</a>
-      </p>
-      <p>7.
         <a href="http://gnu.su/news.php?extend.1845" target="_blank">Быстрые клавиши mc</a>
       </p>
       <p>8.
@@ -619,6 +610,18 @@
       </p>
       <p>3.2.
         <a href="https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/" target="_blank">Установка Vagrant</a>
+      </p>
+      <p>4.
+        <a href="https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru" target="_blank">Как установить LAMP</a>
+      </p>
+      <p>5.
+        <a href="https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru" target="_blank">Как настроить виртуальные хосты в Apache</a>
+      </p>
+      <p>6.
+        <a href="https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru" target="_blank">Как установить и настроить phpMyAdmin</a>
+      </p>
+      <p>7.
+        <a href="https://losst.ru/ustanovka-composer-ubuntu-16-04" target="_blank">Установка Composer</a>
       </p>
       <h2 id="Дизайн">Дизайн</h2>
       <p><a href="https://www.youtube.com/watch?v=MSnt9cznhTc/" target="_blank">UI/UX. Что это такое?</a></p>
