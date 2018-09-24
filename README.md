@@ -68,7 +68,7 @@
       <p>2. <a href="https://githowto.com/ru" target="_blank">GitHowTo</a></p>
       <h2 id="HTTP">HTTP</h2>
       <p>1. <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a></p>
-      <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол - Иван Бибилов</a></p>
+      <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол (Иван Бибилов)</a></p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
       <p>0. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку </a></p>
       <p><strong>1. HTML</strong></p>
@@ -104,10 +104,10 @@
       </p>
       <p>2.5 CSS Grid.</p>
       <p>2.5.1
-        <a href="https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21" target="_blank">Курс</a>
+        <a href="https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21" target="_blank">Курс: CSS Grid</a>
       </p>
       <p>2.5.2
-        <a href="https://www.youtube.com/watch?v=hAFcdRrhwQM" target="_blank">Доклад</a>
+        <a href="https://www.youtube.com/watch?v=hAFcdRrhwQM" target="_blank">Можно вообще все. Раскладка по гриду</a>
       </p>
       <p>2.6
         <a href="https://www.youtube.com/watch?v=VoA-aQu75Xk" target="_blank">Вы все еще не знаете CSS</a>
