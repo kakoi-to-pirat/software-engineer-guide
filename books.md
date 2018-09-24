@@ -23,6 +23,11 @@
      <li><a href="https://leanpub.com/the-road-to-learn-react">The Road to learn React (Robin Wieruch)</a></li>
 </ul>
 
+<h2>Haskel</h2>
+<ul> 
+    <li><a href="https://www.ozon.ru/context/detail/id/8696277/">Изучай Haskell во имя добра! (Миран Липовача)</a></li>
+</ul>
+
 <h2>PHP</h2>
 <ul>
   <li><a href="http://phptherightway.ru/" target="_blank">PHP: Правильный Путь (Josh Lockhart)</a></li>
