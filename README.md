@@ -411,7 +411,7 @@
       <p>10.5 Пишем 
         "<a href="https://www.youtube.com/watch?v=w4iqxN0nfTs" target="_blank">PSR-7 фреймворк 1/6</a>"</p>
       <p>
-        <strong>10. Автоматическое тестирование</strong>
+        <strong>11. Автоматическое тестирование</strong>
       </p>
       <p>11.1
         <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">PHP: Автоматическое тестирование</a>
