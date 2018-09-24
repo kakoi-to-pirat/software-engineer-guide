@@ -235,6 +235,103 @@
       <p>Полноценный курс:
         <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
       </p>
+      <h2>Внешнее взаимодействие</h2>
+      <p>
+        <strong>0. Веб-сервисы</strong>
+      </p>
+      <p>0.1 Что это такое?
+        <a href="https://www.youtube.com/watch?v=yaz3PRC6bUI" target="_blank">Раз</a>.
+        <a href="http://php.net/manual/ru/refs.webservice.php" target="_blank">Два</a>.
+      </p>
+      <p>
+        <strong>1. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.</strong>
+      </p>
+      <p>
+        <strong>2. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.</strong>
+      </p>
+      <p>2.1
+        <a href="https://www.ibm.com/developerworks/ru/library/ws-restfu/" target="_blank">Раз</a>.
+        <a href="https://api.mail.ru/docs/guides/restapi/" target="_blank">Два</a>.
+        <a href="https://ru.wikipedia.org/wiki/REST" target="_blank">Три</a>.
+      </p>
+      <p>
+        <strong>3. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a>.</strong>
+      </p>
+      <p>4.
+        <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
+      </p>
+      <p>5.
+        <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a>
+      </p>
+      <h2 id="Базы-данных">Базы данных</h2>
+      <p>
+        <strong>1. Что такое базы данных, основные понятия, СУБД и язык SQL </strong>
+      </p>
+      <p>1.1
+        <a href="https://www.youtube.com/watch?v=GbogxIMRy-o" target="_blank">Кратко</a>
+      </p>
+      <p>1.2 Статьи:
+        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm" target="_blank">Раз</a>.
+        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm" target="_blank">Два</a>.
+        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm" target="_blank">Три</a>.</p>
+      <p>
+        <strong>2. Основы SQL</strong>
+        <a href="https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html" target="_blank">тут</a> и на
+        <a href="https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf" target="_blank">YouTube</a>
+      </p>
+      <p>3.
+        <a href="https://www.youtube.com/watch?v=SfYaAQ9-RnE&amp;list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj" target="_blank">Технострим маил.ру</a>
+      </p>
+      <p>5.
+        <a href="https://www.youtube.com/watch?v=zWtJoWGHsiI" target="_blank">Теория от Елисеева</a>
+      </p>
+      <p>
+        <strong>7. php + mysql</strong>
+      </p>
+      <p>7.1
+        <a href="http://phpfaq.ru/safemysql" target="_blank">Класс для работы с MySQL</a>
+      </p>
+      <p>7.2
+        <a href="http://phpfaq.ru/safemysql/crud" target="_blank">CRUD</a>
+      </p>
+      <p>7.3
+        <a href="http://phpfaq.ru/pdo" target="_blank">PDO</a>
+      </p>
+      <p>7.3
+        <a href="http://phpfaq.ru/mysql/slashes" target="_blank">Защита от SQL-инъекций</a>
+      </p>
+      <p>
+        <strong>8. ORM</strong>
+      </p>
+      <p>8.1
+        <a href="https://ru.wikipedia.org/wiki/ORM" target="_blank">Что такое ORM</a>? </p>
+      <p>8.2
+        <a href="https://github.com/Hexlet/hexlet-slack-archive/wiki/%D0%92-%D0%B3%D0%BB%D1%83%D0%B1%D1%8C-ORM-(29.04.2018)" target="_blank">В глубь ORM (29.04.2018)</a>
+      </p>
+      <p>8.3
+        <a href="http://tigor.com.ua/blog/2009/10/21/orm-in-the-php-world/" target="_blank">Список ORM</a>
+      </p>
+      <p>
+        <strong>9. NoSQL </strong>
+      </p>
+      <p>9.1
+        <a href="https://habr.com/post/214647/" target="_blank">PHP и различные виды NoSQL</a>
+      </p>
+      <p>9.2
+        <a href="https://www.youtube.com/watch?v=RYJS-jroFRk" target="_blank">Обзор NoSQL решений</a>
+      </p>
+      <p>
+        <strong>10. Redis </strong>
+      </p>
+      <p>10.1
+        <a href="https://www.youtube.com/watch?v=whp7wmaxmyU" target="_blank">Что такое Redis?</a>
+      </p>
+      <p>10.2
+        <a href="https://www.youtube.com/watch?v=0T3Uf6s85Vw" target="_blank">Пример практического применение Redis с Laravel</a>
+      </p>
+      <p>10.3
+        <a href="https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md" target="_blank">Книга о Redis</a>
+      </p>
       <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
       <p>
         <strong>1 </strong>
@@ -336,78 +433,6 @@
       <p>10.1
         <a href="https://ru.hexlet.io/courses/php-testing" target="_blank">PHP: Автоматическое тестирование</a>
       </p>
-      <h2 id="Базы-данных">Базы данных</h2>
-      <p>
-        <strong>1. Что такое базы данных, основные понятия, СУБД и язык SQL </strong>
-      </p>
-      <p>1.1
-        <a href="https://www.youtube.com/watch?v=GbogxIMRy-o" target="_blank">Кратко</a>
-      </p>
-      <p>1.2 Статьи:
-        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm" target="_blank">Раз</a>.
-        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm" target="_blank">Два</a>.
-        <a href="http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm" target="_blank">Три</a>.</p>
-      <p>
-        <strong>2. Основы SQL</strong>
-        <a href="https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html" target="_blank">тут</a> и на
-        <a href="https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf" target="_blank">YouTube</a>
-      </p>
-      <p>3.
-        <a href="https://www.youtube.com/watch?v=SfYaAQ9-RnE&amp;list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj" target="_blank">Технострим маил.ру</a>
-      </p>
-      <p>5.
-        <a href="https://www.youtube.com/watch?v=zWtJoWGHsiI" target="_blank">Теория от Елисеева</a>
-      </p>
-      <p>
-        <strong>7. php + mysql</strong>
-      </p>
-      <p>7.0
-        <a href="https://www.youtube.com/playlist?list=PLVfMKQXDAhGV6OnuUM5QTfmAQqRDCskmT" target="_blank">Нулевой уровень</a>
-      </p>
-      <p>7.1
-        <a href="http://phpfaq.ru/safemysql" target="_blank">Класс для работы с MySQL</a>
-      </p>
-      <p>7.2
-        <a href="http://phpfaq.ru/safemysql/crud" target="_blank">CRUD</a>
-      </p>
-      <p>7.3
-        <a href="http://phpfaq.ru/pdo" target="_blank">PDO</a>
-      </p>
-      <p>7.3
-        <a href="http://phpfaq.ru/mysql/slashes" target="_blank">Защита от SQL-инъекций</a>
-      </p>
-      <p>
-        <strong>8. ORM</strong>
-      </p>
-      <p>8.1
-        <a href="https://ru.wikipedia.org/wiki/ORM" target="_blank">Что такое ORM</a>? </p>
-      <p>8.2
-        <a href="https://www.youtube.com/watch?v=p1NucoC_ZLo" target="_blank">Про ORM на примере RedbeanPHP</a>
-      </p>
-      <p>8.3
-        <a href="http://tigor.com.ua/blog/2009/10/21/orm-in-the-php-world/" target="_blank">Список ORM</a>
-      </p>
-      <p>
-        <strong>9. NoSQL </strong>
-      </p>
-      <p>9.1
-        <a href="https://habr.com/post/214647/" target="_blank">PHP и различные виды NoSQL</a>
-      </p>
-      <p>9.2
-        <a href="https://www.youtube.com/watch?v=RYJS-jroFRk" target="_blank">Обзор NoSQL решений</a>
-      </p>
-      <p>
-        <strong>10. Redis </strong>
-      </p>
-      <p>10.1
-        <a href="https://www.youtube.com/watch?v=whp7wmaxmyU" target="_blank">Что такое Redis?</a>
-      </p>
-      <p>10.2
-        <a href="https://www.youtube.com/watch?v=0T3Uf6s85Vw" target="_blank">Пример практического применение Redis с Laravel</a>
-      </p>
-      <p>10.3
-        <a href="https://www.github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md" target="_blank">Книга о Redis</a>
-      </p>
       <h2 id="Паттерны-и-алгоритмы">Паттерны</h2>
       <p>
         <strong>1. SOLID в PHP:</strong>
@@ -415,34 +440,6 @@
         <a href="https://habrahabr.ru/post/273843/">Два</a>.</p>
       <p>2.
         <a href="https://www.youtube.com/watch?v=wX6BBaQZpzE" target="_blank">Что такое паттерны на самом деле?</a></p>
-      <h2>Внешнее взаимодействие</h2>
-      <p>
-        <strong>0. Веб-сервисы</strong>
-      </p>
-      <p>0.1 Что это такое?
-        <a href="https://www.youtube.com/watch?v=yaz3PRC6bUI" target="_blank">Раз</a>.
-        <a href="http://php.net/manual/ru/refs.webservice.php" target="_blank">Два</a>.
-      </p>
-      <p>
-        <strong>1. <a href="https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/" target="_blank">Что такое API</a>.</strong>
-      </p>
-      <p>
-        <strong>2. <a href="http://www.restapitutorial.ru/" target="_blank">REST API</a>.</strong>
-      </p>
-      <p>2.1
-        <a href="https://www.ibm.com/developerworks/ru/library/ws-restfu/" target="_blank">Раз</a>.
-        <a href="https://api.mail.ru/docs/guides/restapi/" target="_blank">Два</a>.
-        <a href="https://ru.wikipedia.org/wiki/REST" target="_blank">Три</a>.
-      </p>
-      <p>
-        <strong>3. <a href="https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417" target="_blank">Отличие “REST API” и “JSON API”</a>.</strong>
-      </p>
-      <p>4.
-        <a href="https://www.youtube.com/watch?v=jDj_JggZXsU" target="_blank">REST API в Yii2</a>
-      </p>
-      <p>5.
-        <a href="http://codenative.ru/article/chto_takoe_graphql" target="_blank">GraphQL</a>
-      </p>
       <h2>Архитектура</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ri7L-kbVKcU" target="_blank">
