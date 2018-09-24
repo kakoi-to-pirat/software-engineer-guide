@@ -436,43 +436,48 @@
         </a>
       </p>
       <p>5.
-        <a href="https://www.youtube.com/watch?v=WL0-bd2Afho" target="_blank">
-          Рецепты для Yii2
+        <a href="https://slimframework.ru/cookbook/action-domain-responder" target="_blank">
+          Action-Domain-Responder с Slim
         </a>
       </p>
       <p>6.
+        <a href="https://slimframework.ru/concepts/middleware" target="_blank">
+          Middleware в Slim
+        </a>
+      </p>
+      <p>7.
         <a href="http://www.elisdn.ru/blog/105/services-and-controllers" target="_blank">
           Сервисный слой и контроллеры
         </a>
       </p>
       <p>
-        5. DDD. 
+        8. DDD. 
         <a href="https://www.youtube.com/watch?v=7HXIrEsmlzM" target="_blank">Domain Driven Design</a>
       </p>
       <p>
-        6. ADR.
+        9. ADR.
         "<a href="https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/" target="_blank">Goodbye controllers, hello request handlers</a>"</p>
       <p>
-        7. TDD. 
+        10. TDD. 
         <a href="https://www.youtube.com/watch?v=DqOnfQ4Ad5s" target="_blank">Автоматическое тестирование и TDD</a>
       </p>
       <p>
-        8. Состояния:>
+        11. Состояния:>
         <a href="https://www.youtube.com/watch?v=WPCz_U7D8PI&amp;index=16&amp;list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr"
           target="_blank">Stateful vs. Stateless</a>
       </p>
       <p>
-        9. CQRS и Event Sourcing: 
+        12. CQRS и Event Sourcing: 
         <a href="https://www.youtube.com/watch?v=V24L4a9FFps"
           target="_blank">Command/Query Responsibility Segregation — отделяем мух от котлет</a>
       </p>
       <p>
-        10. Микросервисная архитектура: 
+        13. Микросервисная архитектура: 
         <a href="https://www.youtube.com/watch?v=ly77wvz2Bjo"
           target="_blank">PHP и микросервисы</a>
       </p>
       <p>
-        11. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): 
+        14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): 
         <a href="https://www.youtube.com/watch?v=XBsXLxd5_v4"
           target="_blank">Доклад на PHP fwdays'17</a> и <a href="https://www.youtube.com/watch?v=4NOVYddMN-k"
           target="_blank">Забацали Lambda-Функцию на AWS</a>
