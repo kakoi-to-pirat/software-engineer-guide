@@ -66,15 +66,15 @@
       <h2 id="GIT"> Системы контроля версий: GIT</h2>
       <p>1. <a href="https://ru.hexlet.io/courses/intro_to_git" target="_blank">Системы контроля версий</a></p>
       <p>2. <a href="https://githowto.com/ru" target="_blank">GitHowTo</a></p>
-      <h2 id="HTTP">WEB и Интернет</h2>
+      <h2 id="HTTP">Введение в веб-разработку</h2>
       <p>1. <a href="https://developer.mozilla.org/ru/docs/Learn/How_the_Internet_works" target="_blank">Как работает интернет</a></p>
       <p>2. <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works" target="_blank">Как работает Веб</a></p>
       <p>3. <a href="https://developer.mozilla.org/ru/docs/Learn/Understanding_domain_names" target="_blank"> Что такое доменные имена</a></p> 
+      <p>4. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку</a></p>
       <h2 id="HTTP">HTTP</h2>
       <p>1. <a href="https://developer.mozilla.org/ru/docs/Web/HTTP" target="_blank">Учебные материалы на MDN</a></p>
       <p>2. <a href="https://www.youtube.com/watch?v=yUHlrabtEaU" target="_blank">HTTP протокол (Иван Бибилов)</a></p>
       <h2 id="Фронтенд.-Часть-1:-верстка-и-основы-JS">Фронтенд. Часть 1: верстка и основы JS</h2>
-      <p>0. <a href="https://ru.hexlet.io/courses/intro_to_web_development" target="_blank">Введение в веб-разработку </a></p>
       <p><strong>1. HTML</strong></p>
       <p>1.1 <a href="https://ru.hexlet.io/courses/html" target="_blank">Основы HTML, CSS и Веб-дизайна</a></p>
       <p>1.2 <a href="https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-" target="_blank">Основы HTML5</a></p>
