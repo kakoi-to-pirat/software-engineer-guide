@@ -155,10 +155,7 @@
       </p>
       <p>5.0 Основы:</p>
       <p>5.0.1
-        <a href="https://monsterlessons.com/project/series/javascript-dlya-nachinayushih" target="_blank">Первая часть</a>
-      </p>
-      <p>5.0.2
-        <a href="https://www.youtube.com/watch?v=H6G63NKRSi8&amp;list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem" target="_blank">Вторая часть</a>
+        <a href="https://www.youtube.com/watch?v=H6G63NKRSi8&amp;list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem" target="_blank">Sorax (ES5)</a>
       </p>
       <p>5.1
         <a href="https://www.youtube.com/watch?v=UHhQ74uwCns" target="_blank">Простая функция</a>
@@ -166,9 +163,6 @@
       <p>5.2 jQuery.</p>
       <p>5.2.1
         <a href="https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa" target="_blank">Примеры типичных задач</a>
-      </p>
-      <p>5.2.2
-        <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">jQuery vs Angular vs Vue</a>
       </p>
       <p>
         <strong>6. GIT</strong>
@@ -182,15 +176,12 @@
       <p>6.2
         <a href="https://stepik.org/course/3145" target="_blank">Практика</a>
       </p>
-  <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
+      <h2 id="Фронтенд.-Часть-2:-JS-+-автоматизация">Фронтенд. Часть 2: JS + автоматизация</h2>
       <p>
         <strong>1. JavaScript</strong>
       </p>
       <p>1.0.
         <a href="https://www.youtube.com/watch?v=uI-hjpmNeYI&amp;list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP" target="_blank">You don't know js</a>
-      </p>
-      <p>1.1.
-        <a href="https://www.youtube.com/watch?v=Qve7g0LB7ao&amp;list=PLIcAMDxr6tppz0MDTAj7aj23_E6FwrRfO" target="_blank">ООП в JS</a>
       </p>
       <p>1.2.
         <a href="https://www.youtube.com/watch?v=DPfaa66OZj8&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=1"
@@ -199,13 +190,10 @@
       <p>1.3.
         <a href="https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q" target="_blank">Основы ES6</a>
       </p>
-      <p>1.4.
-        <a href="https://www.youtube.com/watch?v=mxhRdQd5VcA" target="_blank">Промисы</a>
-      </p>
       <p>1.5.
-        <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Где мой JavaScript</a>?</p>
-      <p>1.6.
-        <a href="https://www.youtube.com/watch?v=jlBfRDU_3OY&amp;list=FLvPdIxe9ZhDJyXEWsNVgBcw&amp;index=51" target="_blank">Введение в ФП на JS</a>
+        <a href="https://www.youtube.com/watch?v=T1Gljgey19Y" target="_blank">Фреймворки: Где мой JavaScript</a>?</p>
+      <p>5.2.2
+        <a href="https://www.youtube.com/watch?v=e6R8Mc015Is" target="_blank">Фреймворки: jQuery vs Angular vs Vue</a>
       </p>
       <p>1.7. React.js</p>
        <p>1.7.1
@@ -265,8 +253,7 @@
         <a href="https://www.youtube.com/watch?v=JK6AjIMYEZw" target="_blank">webpack</a>
       </p>
       <p>2.7. Практика: собери свой стартовый шаблон.</p>
-      <p>2.8. Курс по всему сразу: [HTML Academy] Интенсивный онлайн-курс «Продвинутый HTML и CSS» 2016 </p>
-      <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 2: node JS</h2>
+      <h2 id="Бэкенд.-Часть-2:-node-JS">Бэкенд. Часть 1: node JS</h2>
       <p>1.
         <a href="https://www.youtube.com/watch?v=ILpS4Fq3lmw&amp;list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx" target="_blank">Подкаст от JavaScript.ru</a>
       </p>
@@ -276,7 +263,7 @@
       <p>x.
         <a href="https://ru.hexlet.io/professions/backend" target="_blank">Бэкенд JS-программист</a>
       </p>
-      <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-1: ООП-парадигма и PHP</h2>
+      <h2 id="Бекенд.-Часть-1:-основы-ООП-и-PHP">Бекенд. Часть-2: ООП-парадигма и PHP</h2>
       <p>
         <strong>1. </strong>
         <a href="https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ" target="_blank">
@@ -292,13 +279,13 @@
         <strong>3. ООП:</strong>
       </p>
       <p>3.0
-        <a href="https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu" target="_blank">БАЗА</a>
+        <a href="https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu" target="_blank">В общих чертах</a>
       </p>
       <p>3.2
-        <a href="https://www.youtube.com/watch?v=spF2lRj5JLk" target="_blank">Мышление ООП программиста</a>
+        <a href="https://www.youtube.com/watch?v=spF2lRj5JLk" target="_blank">Идея</a>
       </p>
       <p>
-        <strong>4. ооп в php</strong>
+        <strong>4. ооп (class programming) в php</strong>
       </p>
       <p>4.0
         <a href="https://coursehunters.net/course/hexlet-php-oop" target="_blank">Курс</a>
@@ -314,7 +301,7 @@
       <p>5.1
         <a href="https://coursehunters.net/course/hexlet-php-sicp" target="_blank">Построение абстракций в php</a>
       </p>
-      <p>5.2 Практика:
+      <p>5.2 Пишем свою функцию:
         <a href="https://www.youtube.com/watch?v=EaCR8ADzDow" target="_blank">Раз</a>.
         <a href="https://www.youtube.com/watch?v=RxN_Oh7c5nM" target="_blank">Два</a>
       </p>
@@ -325,9 +312,6 @@
         <a href="https://coursehunters.net/course/hexlet-php-func" target="_blank">Курс</a>
       </p>
       <p>6.1
-        <a href="http://www.elisdn.ru/blog/95/functional-vs-oop" target="_blank">ФП vs ООП</a>
-      </p>
-      <p>6.2
         <a href="https://www.youtube.com/watch?v=b4V5ZMX7QCc" target="_blank">Функциональный PHP 1/2: Подсчёт стоимости товаров</a>&nbsp;</p>
       </p>
       <p>
@@ -359,7 +343,7 @@
         <strong>9. PSR</strong>
       </p>
       <p>9.0
-        <a href="https://myrusakov.ru/php-psr-standards.html" target="_blank">Обзор стандартов</a>
+        <a href="https://myrusakov.ru/php-psr-standards.html" target="_blank">Обзор стандартов PSR</a>
       </p>
       <p>9.1
         <a href="https://github.com/php-fig/fig-standards/tree/master/accepted" target="_blank">Оригинал</a>
