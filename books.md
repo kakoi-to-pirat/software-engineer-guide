@@ -73,6 +73,11 @@
     <li><a href="https://www.ozon.ru/context/detail/id/8696277/">Изучай Haskell во имя добра! (Миран Липовача)</a></li>
 </ul>
 
+<h2>Elixir</h2>
+<ul> 
+    <li><a href="https://www.ozon.ru/context/detail/id/140439544/">Введение в Elixir (Симон Сенлорен, Дэвид Эйзенберг)</a></li>
+</ul>
+
 <h2>PHP</h2>
 <ul>
   <li><a href="http://phptherightway.ru/" target="_blank">PHP: Правильный Путь (Josh Lockhart)</a></li>
