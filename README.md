@@ -156,7 +156,7 @@
 6. [Нормализацию баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
 7. [Денормализацию баз данных](https://ruhighload.com/Денормализация+данных)
 8. [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
-9. [Как использовать индексы в JOIN запросах Mysql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
+9. [Как использовать индексы в JOIN запросах MySql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
 
 **3. ORM**
 1. [Что такое ORM](https://ru.wikipedia.org/wiki/ORM)?
@@ -242,9 +242,10 @@
 1. [PHP: Автоматическое тестирование](https://ru.hexlet.io/courses/php-testing)
 
 ## Паттерны
-1. [SOLID в PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg). 
-2. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/).
-3. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
+1. [SOLID в PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg)
+2. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/)
+4. [Говорим про SOLID](https://github.com/Hexlet/hexlet-slack-archive/wiki/%5B2018-04-20%5D-Говорим-про-SOLID)
+5. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 
 ## Архитектурные практики
 1. [Dependency Injection | Внедрение зависимостей](https://www.youtube.com/watch?v=ri7L-kbVKcU)
