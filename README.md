@@ -191,6 +191,7 @@
 
 1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
 2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
+3. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
 
  **1. ООП**
 1. [ООП в общих чертах](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
@@ -241,6 +242,9 @@
 **9. Тестирование в PHP**
 1. [PHP: Автоматическое тестирование](https://ru.hexlet.io/courses/php-testing)
 
+**10. Профессия PHP-программист**
+1. Полноценный курс: [PHP-программист](https://ru.hexlet.io/professions#php)
+
 ## Паттерны
 1. [SOLID в PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg)
 2. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/)
@@ -261,6 +265,7 @@
 11. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
 12. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
 13. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
+14.[RabbitMQ и Pipeline](https://www.youtube.com/watch?v=jMZviSKf3QU)
 
 ## Практика PHP
 **1.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
@@ -285,14 +290,14 @@
 
 ### **3. Nginx и Php-Fpm**
 1. [Nginx, Php-Fpm и что это вообще?](https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/)
+2. [Документация по NGINX](https://nginx.org/ru/docs/)
 
 ### **4. Виртуализация: Vagrant и Docker**
 1. [Установка Docker](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
 2. [Установка Vagrant](https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/)
 3. [Как установить LAMP](https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru)
 4. [Как настроить виртуальные хосты в Apache](https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru)
-5. [Как установить и настроить phpMyAdmin](https://www.digitalocean.com/community/tutorials/phpmyadmin-ubuntu-16-04-ru)
-6. [Установка Composer](https://losst.ru/ustanovka-composer-ubuntu-16-04)
+5. [Настройка виртуальных хостов в Nginx](https://www.8host.com/blog/nastrojka-virtualnyx-xostov-nginx-v-ubuntu-16-04/)
 
 ## Дизайн
 1. [UI/UX. Что это такое?](https://www.youtube.com/watch?v=MSnt9cznhTc/)
