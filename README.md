@@ -147,6 +147,8 @@
 2. [Основные понятия баз данных](http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm)
 3. [Объекты базы данных](http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm)
 4. [Операции с базами данных](http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm)
+5. [Базы данных: SQL (DDL/DML)](https://ru.hexlet.io/courses/postgresql-ddl)
+6. [Базы данных: SQL (DQL)](https://ru.hexlet.io/courses/sql-dql)
 
 **2. Основы SQL** 
 1. [Синтаксис SQL](https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html) 
@@ -165,6 +167,7 @@
 
 **4. NoSQL**
 1. [Обзор NoSQL решений для работы с высоконагруженными системами | Технострим](https://www.youtube.com/watch?v=RYJS-jroFRk)
+2. [Решения на NoSQL базах](https://ruhighload.com/Решения+на+nosql+базах)
 
 **5. Redis**
 1. [Что такое Redis?](https://www.youtube.com/watch?v=whp7wmaxmyU)
