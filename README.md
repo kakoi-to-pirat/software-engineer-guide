@@ -123,6 +123,7 @@
 3. [Функторы и монады](https://www.youtube.com/watch?v=t2SaSHQhkdE)
 4. [Основы Haskell](https://www.youtube.com/watch?v=jNQVa5INdDk&list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
 5. [Clojure. Полный стэк на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
+6. [Elixir. Уроки на elixirschool.com](https://elixirschool.com/ru/)
 
 ## Автоматное программирование
 1. [Управление состоянием приложения с помощью конечного автомата](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
