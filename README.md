@@ -268,7 +268,7 @@
 11. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
 12. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
 13. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
-14.[RabbitMQ и Pipeline](https://www.youtube.com/watch?v=jMZviSKf3QU)
+14. [RabbitMQ и Pipeline](https://www.youtube.com/watch?v=jMZviSKf3QU)
 
 ## Практика PHP
 **1.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
