@@ -98,6 +98,7 @@
 *   [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
 *   [Вольный перевод цикла статей "Programming guidelines", который написал Matthias Noback](http://haru-atari.com/ru/blog/9/programming-guidelines-part-1-reducing-complexity)
 *   [Как и зачем управлять состоянием приложения с помощью конечного автомата и асинхронных функций — генераторов](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
+*   [Что такое объект? И почему Геттеры и Сеттеры — зло.](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
 
 ## Доклады
 *   [Семантическое программирование: куда поместить код. YiiConf 2017](https://www.youtube.com/watch?v=58BpEJAplsM)
