@@ -203,7 +203,7 @@
 3. [Алан Кей](https://habr.com/company/hexlet/blog/303754/)
 4. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
 5. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
-6. [Что такое объект? И почему Геттеры и Сеттеры — зло.](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
+6. [Что такое объект? И почему Геттеры и Сеттеры — зло](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
 
 **2. ООП (class programming) в PHP**
 1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
