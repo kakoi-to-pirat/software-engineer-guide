@@ -95,7 +95,7 @@
 1. [You don't know js](https://www.youtube.com/watch?v=uI-hjpmNeYI&list=PLX2w39aiY5NJFkTMw0XaJ5yW_95lkjVNP)
 2. [Функции высшего порядка в JS](https://www.youtube.com/watch?v=DPfaa66OZj8&list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&index=1)
 3. [Основы ES6](https://www.youtube.com/playlist?list=PLqHlAwsJRxAOpWPtj2T6HhSzX-lKmKV2q)
-4. [Фреймворки: Где мой JavaScript](https://www.youtube.com/watch?v=T1Gljgey19Y)?
+4. [Фреймворки: Где мой JavaScript?](https://www.youtube.com/watch?v=T1Gljgey19Y)
 5. [Фреймворки: jQuery vs Angular vs Vue](https://www.youtube.com/watch?v=e6R8Mc015Is)
 6. [The Road to learn React](https://leanpub.com/the-road-to-learn-react-russian)
 7. [React.js от learn.javascript.ru](https://www.youtube.com/watch?time_continue=1&v=ol4OVMJZC1w)
@@ -130,7 +130,7 @@
 
 ## Автоматическое тестирование
 1. [Что такое тестирование и почему мы должны его делать?](https://medium.com/devschacht/what-is-testing-and-why-should-we-do-it-acf06723816b)
-2. [TDD. Автоматическое тестирование и TDD](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
+2. [TDD и автоматическое тестирование](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
 3. [Процесс разработки через тестирование по шагам с примерами кода](https://bespoyasov.ru/ttt-tdd/)
 
 ## Алгоритмы и структуры данных
