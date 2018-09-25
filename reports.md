@@ -67,7 +67,6 @@
     [Часть 1\. Кто и как хочет нас атаковать](https://habrahabr.ru/company/mailru/blog/310726/)  
     [Часть 2\. Атаки с внедрением кода](https://habrahabr.ru/company/mailru/blog/352440/)  
     [Часть 3\. Межсайтовый скриптинг (XSS)](https://habrahabr.ru/company/mailru/blog/352442/)  
-
 *   [DDD. Проектирование сущностей предметной области](http://www.elisdn.ru/blog/104/domain-entities-modelling)
 *   Анатомия JavaScript-ошибок: [Часть 1](https://blog.bugsnag.com/source-maps/), [Часть 2](https://blog.bugsnag.com/anatomy-of-a-javascript-error)
 *   [ADR и микрофреймворк Slim](https://slimframework.ru/cookbook/action-domain-responder)
@@ -99,7 +98,7 @@
 *   [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
 *   [Вольный перевод цикла статей "Programming guidelines", который написал Matthias Noback](http://haru-atari.com/ru/blog/9/programming-guidelines-part-1-reducing-complexity)
 *   [Как и зачем управлять состоянием приложения с помощью конечного автомата и асинхронных функций — генераторов](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
-*   
+
 ## Доклады
 *   [Семантическое программирование: куда поместить код. YiiConf 2017](https://www.youtube.com/watch?v=58BpEJAplsM)
 *   [Максим Дорофеев — Воспитай свою обезьяну](https://www.youtube.com/watch?v=DukfcM24tgk&index=20&list=LLvPdIxe9ZhDJyXEWsNVgBcw&t=0s)
