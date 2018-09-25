@@ -28,9 +28,9 @@ declare(strict_types=1);
 
 В PHP 7.0 появился новый класс для внутренних ошибок Error и интерфейс исключений Throwable. Теперь Error и старый класс Excetion реализуют Throwable (пользовательские классы не могут реализовывать данный интерфейс). Exception можно использовать для отлова исключений, которые будут обработаны и выполнение программы продолжится. Класс Error служит для необратимых исключений и выбрасывается в случае ошибки PHP или на уровне ошибок разработчиков. 
 
-[Подробнее про PHP 7](habrahabr.ru/post/280071/) 
-[Подробнее про PHP 7.1](habrahabr.ru/post/309858/) 
-[Подробнее про PHP 7.2](habrahabr.ru/company/avito/blog/335584/) 
+* [Подробнее про PHP 7](habrahabr.ru/post/280071/) 
+* [Подробнее про PHP 7.1](habrahabr.ru/post/309858/) 
+* [Подробнее про PHP 7.2](habrahabr.ru/company/avito/blog/335584/) 
 
-Источник — [denisyuk.by](denisyuk.by/all/putevoditel-po-novovvedeniyam-php7) 
+Источник — [denisyuk.by](denisyuk.by/all/putevoditel-po-novovvedeniyam-php7)  
 Первоисточник — [github.com/php/php-src/blob/php-7.0.0RC1/UPGRADING](github.com/php/php-src/blob/php-7.0.0RC1/UPGRADING)
