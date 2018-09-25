@@ -197,7 +197,8 @@
 
 1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
 2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
-3. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
+3. [Ключевые аспекты веб-разработки на PHP](https://ru.hexlet.io/courses/php-overview-of-web-development)
+4. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
 
  **1. ООП**
 1. [ООП в общих чертах](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
