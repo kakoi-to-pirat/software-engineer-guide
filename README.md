@@ -155,8 +155,8 @@
 3. [Изучение SQL](https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
 4. [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
 5. [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
-6. [Нормализацию баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
-7. [Денормализацию баз данных](https://ruhighload.com/Денормализация+данных)
+6. [Нормализация баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
+7. [Денормализация баз данных](https://ruhighload.com/Денормализация+данных)
 8. [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
 9. [Как использовать индексы в JOIN запросах MySql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
 
