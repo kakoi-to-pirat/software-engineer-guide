@@ -202,7 +202,7 @@
  **1. ООП**
 1. [ООП в общих чертах](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu)
 2. [Идея ООП](https://www.youtube.com/watch?v=spF2lRj5JLk)
-3. [Алан Кей](https://habr.com/company/hexlet/blog/303754/)
+3. [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
 4. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
 5. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
 6. [Что такое объект? И почему Геттеры и Сеттеры — зло](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
