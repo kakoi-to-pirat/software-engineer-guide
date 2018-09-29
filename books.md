@@ -28,6 +28,7 @@
 ## Архитектура
 *   [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)](https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709)
 *   [Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)](https://www.ozon.ru/context/detail/id/144499396/)
+*   [Семь моделей конкуренции и параллелизма за семь недель. Раскрываем тайны потоков. (Пол Батчер)](hhttps://www.ozon.ru/context/detail/id/31083491/)
 
 ## GIT
 *   [Pro Git (Scott Chacon & Ben Straub)](https://git-scm.com/book/ru/v2)
