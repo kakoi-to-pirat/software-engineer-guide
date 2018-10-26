@@ -75,3 +75,5 @@
 *   [Джедайские техники (Максим Дорофеев)](https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&utm_medium=partner&utm_campaign=955860)
 *   [Антихрупкость. Как извлечь выгоду из хаоса (Нассим Николас Талеб)](https://www.ozon.ru/context/detail/id/24310355/)
 *   [Джоэл о программировании (Джоэл Спольски)](https://www.ozon.ru/context/detail/id/2820575/)
+*   [Идеальный программист. Как стать профессионалом разработки ПО (Роберт Мартин)](https://www.ozon.ru/context/detail/id/144954705/)
+
