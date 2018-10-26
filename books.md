@@ -6,6 +6,7 @@
 *   [SICP «Структура и интерпретация компьютерных программ» (Харольд Абельсон, Джеральд Джей Сассман)](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)
 *   [TAPL «Типы в языках программирования» (Бенджамин Пирс)](http://newstar.rinet.ru/~goga/tapl/)
 *   [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
+*   [How to Design Programs(Matthias Felleisen)](https://htdp.org)
 
 ## Операционные системы
 *   [Современные операционные системы (Эндрю Таненбаум, Х. Бос)](https://www.ozon.ru/context/detail/id/31649356/)
