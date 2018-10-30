@@ -194,7 +194,7 @@
 4. [Отличие “REST API” и “JSON API”](https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417)
 5. [GraphQL](http://codenative.ru/article/chto_takoe_graphql)
 
-## Бекенд. Часть-2: Абстракия, ооп и основы PHP
+## Бекенд. Часть-2: PHP
 
 1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
 2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
