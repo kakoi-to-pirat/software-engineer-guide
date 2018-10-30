@@ -230,6 +230,7 @@
 1. [Что такое фреймворки](https://www.youtube.com/watch?v=JEsLKK8PoaY)?
 2. [Какие бывают фреймворки](https://www.youtube.com/watch?v=Ejea5YYjPv0)?
 3. [Что такое MVC Framework](https://www.youtube.com/watch?v=OfNvLy2solE)?
+4. [Slim](https://slimframework.ru/)
 
 **7. Рабочее окружение php и виртуализация**
 1. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
