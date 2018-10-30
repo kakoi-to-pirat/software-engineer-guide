@@ -24,7 +24,7 @@
 
 ## Основы программирования
 
-1. [Код. Тайный язык информатики](http://padaread.com/?book=2430)
+1. [Код. Тайный язык информатики](https://www.ozon.ru/context/detail/id/125884/)
 2. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
 3. [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 4. [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
