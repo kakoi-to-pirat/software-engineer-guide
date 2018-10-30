@@ -181,9 +181,10 @@
 2. [Текстовые уроки по Elasticsearch](https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/)
 
 ## Бэкенд. Часть 1: node JS
-1. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
-2. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
-3. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
+1. [Зчем появилась Node.js и что такое неблокиружщий I/O (devSchacht)](https://www.youtube.com/watch?v=MXqKatH5Lw4)
+2. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
+3. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
+4. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
 
 ## Внешнее взаимодействие
 1. [Web services. Введение](https://www.youtube.com/watch?v=yaz3PRC6bUI)
