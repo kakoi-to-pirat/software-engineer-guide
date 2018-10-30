@@ -141,7 +141,7 @@
 2. [Классические приёмы программирования во фронтенде](https://www.youtube.com/watch?v=mc7EMdyawBk)
 3. [Quicksort на JavaScript за пять минут](https://www.youtube.com/watch?v=o0fe6OlUROg&t=0s&index=4&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
 4. [Списки](http://kvodo.ru/data-structures/lists) 
-5. [Графы](http://kvodo.ru/data-structures/tree)
+5. [Графы](http://kvodo.ru/data-structures/graph-data-structure)
 6. [Деревья](http://kvodo.ru/data-structures/tree) 
 
 ## Базы данных
