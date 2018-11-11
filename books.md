@@ -53,6 +53,9 @@
 ## Elixir
 *   [Введение в Elixir (Симон Сенлорен, Дэвид Эйзенберг)](https://www.ozon.ru/context/detail/id/140439544/)
 
+## Python
+*   [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
+
 ## PHP
 *   [PHP: Правильный Путь (Josh Lockhart)](http://phptherightway.ru/)
 *   [Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)](https://www.ozon.ru/context/detail/id/135695718/)
