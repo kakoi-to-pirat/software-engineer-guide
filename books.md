@@ -1,17 +1,22 @@
 # Книги
 Топ книг по программированию, верстке, дизайну, мотивации.
 
-## Фундаментальное
+## Архитектура компьютера
 *   [Код. Тайный язык информатики (Чарльз Петцольд)](https://www.ozon.ru/context/detail/id/125884/)
+
+## Программирование
 *   [SICP «Структура и интерпретация компьютерных программ» (Харольд Абельсон, Джеральд Джей Сассман)](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)
 *   [TAPL «Типы в языках программирования» (Бенджамин Пирс)](http://newstar.rinet.ru/~goga/tapl/)
-*   [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
 *   [How to Design Programs (Matthias Felleisen)](https://htdp.org)
 
 ## Операционные системы
 *   [Современные операционные системы (Эндрю Таненбаум, Х. Бос)](https://www.ozon.ru/context/detail/id/31649356/)
 *   [Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](https://www.ozon.ru/context/detail/id/2419365/?partner=hexlet)
 *   [Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/?partner=hexlet)
+
+## Computer Science
+*   [Теоретический минимум по Computer Science. (Владстон Феррейра Филос)](https://www.ozon.ru/context/detail/id/144946027/)
+*   [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
 
 ## Автоматное программирование
 *   [Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)](http://is.ifmo.ru/books/_book.pdf)
