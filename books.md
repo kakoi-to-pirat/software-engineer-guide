@@ -16,7 +16,7 @@
 
 ## Computer Science
 *   [Теоретический минимум по Computer Science. (Владстон Феррейра Филос)](https://www.ozon.ru/context/detail/id/144946027/)
-*   [Грокаем Алгоритмы (Адитья Бхаргава)](http://forcoder.ru/algorithm/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-1555)
+*   [Грокаем Алгоритмы (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
 
 ## Автоматное программирование
 *   [Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)](http://is.ifmo.ru/books/_book.pdf)
