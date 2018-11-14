@@ -100,6 +100,17 @@
 *   [Как и зачем управлять состоянием приложения с помощью конечного автомата и асинхронных функций — генераторов](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
 *   [Что такое объект? И почему Геттеры и Сеттеры — зло.](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
 *   [Разделение функций на команды и запросы: Саша Беспоясов с обзором преимуществ и недостатков паттерна CQS](https://bespoyasov.ru/blog/commands-and-queries/)
+*   [Как получить данные с помощью JavaScript в 2018 году](https://medium.com/@mattburgess/how-to-get-data-with-javascript-in-2018-f30ba04ad0da)
+*   [Забытая история ООП. JavaScript — месть Smalltalk миру за неправильное понимание концепции ООП](https://habr.com/company/ruvds/blog/428582/)
+*   [Что такое модель акторов и пример реализации на Javascript](https://medium.com/@arturarsalanov/модель-акторов-e2da975fff68)
+*   [Принцип наименьшего удивления](http://mokevnin.github.io/blog/2013/11/14/pnu/)
+*   [Учитесь писать код без if](https://proglib.io/p/without-if/)
+*   [Учитесь писать код без for](https://proglib.io/p/without-for/)
+*   [Итеративный процесс](https://ru.hexlet.io/courses/programming-basics/lessons/iterative_process/theory_unit)
+*   [Топовая статья о том, зачем нужны Symbol, Iterator и Generator в JavaScrip](https://medium.com/@abraztsov/зачем-они-нужны-в-javascript-symbol-iterator-generator-d5d186b4f1bd)
+*   [Полное понимание синхронного и асинхронного JavaScript с Async/Await](https://medium.com/@stasonmars/полное-понимание-синхронного-и-асинхронного-javascript-с-async-await-ba5f47f4436)
+*   [5 вопросов по JavaScript на которые вы должны знать ответ](https://medium.com/@abraztsov/5-нетипичных-javascript-вопросов-на-собеседовании-9e0370012582)
+*   [Краткое введение во внедрение зависимостей](https://medium.com/@xufocoder/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)
 
 ## Доклады
 *   [Семантическое программирование: куда поместить код. YiiConf 2017](https://www.youtube.com/watch?v=58BpEJAplsM)
@@ -123,6 +134,7 @@
 *   [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 *   [FullStack на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
 *   [Лекция по книге Роберта Мартина "Чистый код", дополненная личным опытом и примерами из собственной практики Сергея Немчинского](https://www.youtube.com/watch?v=otrfSgeK3JI&list=LLvPdIxe9ZhDJyXEWsNVgBcw&index=292&t=0s)
+*   [Как функциональное программирование может сделать жизнь проще, на примере JS](https://www.youtube.com/watch?v=t4AhK0oWd9I&index=7&t=0s&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
 
 ## Youtube-каналы
 *   [Hexlet](https://www.youtube.com/channel/UCqLPYxuAz-WbdEBLBk_Tb7g)
