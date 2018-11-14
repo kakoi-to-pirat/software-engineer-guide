@@ -27,8 +27,9 @@
 1. [Код. Тайный язык информатики](https://www.ozon.ru/context/detail/id/125884/)
 2. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
 3. [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-4. [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
-5. [Допольнительно: code-basics.ru](http://code-basics.ru/)
+4. [Теоретический минимум по Computer Science](https://www.ozon.ru/context/detail/id/144946027/)
+5. [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
+6. [Допольнительно: code-basics.ru](http://code-basics.ru/)
 
 ## Операционные системы: Linux
 
