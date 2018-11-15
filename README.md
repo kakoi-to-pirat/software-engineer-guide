@@ -209,8 +209,9 @@
  **1. ООП**
 1. [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
 2. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
-3. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
-4. [Что такое объект? И почему Геттеры и Сеттеры — зло](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
+3. [Забытая история ООП](https://habr.com/company/ruvds/blog/428582/)
+4. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
+5. [Что такое объект? И почему Геттеры и Сеттеры — зло](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
 
 **2. Сlass programming в PHP**
 1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
