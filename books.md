@@ -46,8 +46,9 @@
 *   [Семь баз данных за семь недель (Эрик Редмонд)](https://www.ozon.ru/context/detail/id/19383907/)
 
 ## JavaScript
-*   [Вы не знаете Javascript (Kyle Simpson)](https://github.com/azat-io/you-dont-know-js-ru)
 *   [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+*   [Вы не знаете Javascript (Kyle Simpson)](https://github.com/azat-io/you-dont-know-js-ru)
+*   [Exploring ES6 (Axel Rauschmayer)](http://exploringjs.com/es6/)
 
 ## React
 *   [Путь к изучению React (Робин Вирух)](https://leanpub.com/the-road-to-learn-react-russian)
