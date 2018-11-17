@@ -92,6 +92,14 @@
 2. [Простая функция](https://www.youtube.com/watch?v=UHhQ74uwCns)
 3. [jQuery: примеры типичных задач](https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa)
 
+## Алгоритмы и структуры данных
+1. [Что такое алгоритмы и структуры данных, и зачем они нужны](https://www.youtube.com/watch?v=ijwbVxLMp58&t=0s&index=11&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
+2. [Классические приёмы программирования во фронтенде](https://www.youtube.com/watch?v=mc7EMdyawBk)
+3. [Quicksort на JavaScript за пять минут](https://www.youtube.com/watch?v=o0fe6OlUROg&t=0s&index=4&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
+4. [Списки](http://kvodo.ru/data-structures/lists) 
+5. [Графы](http://kvodo.ru/data-structures/graph-data-structure)
+6. [Деревья](http://kvodo.ru/data-structures/tree) 
+
 ## Фронтенд. Часть 2: JS + автоматизация
 
 **1. JavaScript**
@@ -124,6 +132,11 @@
 6. [WebPack](https://www.youtube.com/watch?v=JK6AjIMYEZw)
 7. [Browsersync](https://www.youtube.com/watch?v=uEtnY7i-rmg)
 
+## Программирование, управляемое данными
+1. [Учитесь писать код без if](https://proglib.io/p/without-if/)
+2. [Учитесь писать код без циклов](https://proglib.io/p/without-for/)
+3. [Диспетчеризация и полиморфизм](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/polymorphism-and-dispatching.md)
+
 ## Функциональное программирование
 1. [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
 2. [Лямбда исчисление](https://www.youtube.com/watch?v=dowYB_dPkmU)
@@ -140,14 +153,6 @@
 1. [Что такое тестирование и почему мы должны его делать?](https://medium.com/devschacht/what-is-testing-and-why-should-we-do-it-acf06723816b)
 2. [TDD и автоматическое тестирование](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
 3. [Процесс разработки через тестирование по шагам с примерами кода](https://bespoyasov.ru/ttt-tdd/)
-
-## Алгоритмы и структуры данных
-1. [Что такое алгоритмы и структуры данных, и зачем они нужны](https://www.youtube.com/watch?v=ijwbVxLMp58&t=0s&index=11&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
-2. [Классические приёмы программирования во фронтенде](https://www.youtube.com/watch?v=mc7EMdyawBk)
-3. [Quicksort на JavaScript за пять минут](https://www.youtube.com/watch?v=o0fe6OlUROg&t=0s&index=4&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
-4. [Списки](http://kvodo.ru/data-structures/lists) 
-5. [Графы](http://kvodo.ru/data-structures/graph-data-structure)
-6. [Деревья](http://kvodo.ru/data-structures/tree) 
 
 ## Базы данных
 **1. Что такое базы данных**
