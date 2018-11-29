@@ -217,6 +217,7 @@
 3. [Забытая история ООП](https://habr.com/company/ruvds/blog/428582/)
 4. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
 5. [Что такое объект? И почему Геттеры и Сеттеры — зло](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
+6. [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
 
 **2. Сlass programming в PHP**
 1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
