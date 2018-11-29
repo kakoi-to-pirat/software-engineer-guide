@@ -135,6 +135,7 @@
 *   [FullStack на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
 *   [Лекция по книге Роберта Мартина "Чистый код", дополненная личным опытом и примерами из собственной практики Сергея Немчинского](https://www.youtube.com/watch?v=otrfSgeK3JI&list=LLvPdIxe9ZhDJyXEWsNVgBcw&index=292&t=0s)
 *   [Как функциональное программирование может сделать жизнь проще, на примере JS](https://www.youtube.com/watch?v=t4AhK0oWd9I&index=7&t=0s&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
+*   [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
 
 ## Youtube-каналы
 *   [Hexlet](https://www.youtube.com/channel/UCqLPYxuAz-WbdEBLBk_Tb7g)
