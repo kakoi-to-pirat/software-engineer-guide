@@ -2,7 +2,7 @@
 Топ книг по программированию, верстке, дизайну, мотивации.
 
 Telegram: [@piratestories](https://t.me/piratestories)
-| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/readme.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
+| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/README.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
 
 ## Архитектура компьютера
 *   [Код. Тайный язык информатики (Чарльз Петцольд)](https://www.ozon.ru/context/detail/id/125884/)
