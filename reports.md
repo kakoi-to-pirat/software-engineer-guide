@@ -2,7 +2,7 @@
 Список редактируется и актуализируется время от времени.
 
 Telegram: [@piratestories](https://t.me/piratestories)
-| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/readme.md) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) |
+| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/README.md) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) |
 
 ## Проекты
 *   [Хекслет: основы программирования](http://code-basics.ru/)
