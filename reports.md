@@ -1,6 +1,8 @@
 # Топ статей, докладов, ресурсов из мира веб-технологий.
 Список редактируется и актуализируется время от времени.
 
+| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/readme.md) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) |
+
 ## Проекты
 *   [Хекслет: основы программирования](http://code-basics.ru/)
 *   [Вёрстка — это не тупо](http://webmasters.teamdev.com/)
