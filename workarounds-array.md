@@ -1,5 +1,8 @@
 # Методы обхода массива: Reduce, Filter, Map, forEach
 
+Telegram: [@piratestories](https://t.me/piratestories)
+| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/README.md) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
+
 В JavaScript, как и во многих других языках, есть много встроенных методов, выполняющих итерацию. Эти методы обрабатывают весь список по одному элементу за раз. Когда вы вызываете их, вы предоставляете функцию обратного вызова (callback) — функцию, расчитывающую работать с одним элементом за один раз. В завимимости от используемого метода Array, функция обратного вызова получает аргументы и, как ожидается, возвращает значение (за исключением forEach), которое определяет окончательное возвращаемое значение операции обхода массива. Ниже перечислены и кратко описаны методы, наиболее необходимые в повседневной работе.
 
 ## forEach
