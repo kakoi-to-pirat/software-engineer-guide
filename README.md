@@ -1,7 +1,6 @@
 # Путь начинающего веб-разработчика. Мой опыт.
 
-Канал в Telegram: [@piratestories](https://t.me/piratestories)
-
+Telegram: [@piratestories](https://t.me/piratestories)
 | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
 
 Готовые гайды по построению стратегии изучения веб-технологий:
