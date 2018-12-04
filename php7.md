@@ -1,5 +1,8 @@
 # PHP 7: Кратко про основные моменты.
 
+Telegram: [@piratestories](https://t.me/piratestories)
+| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/README.md) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
+
 Быстродействие в новых версиях стало самым крутым и обсуждаемым нововведением. Теперь не нужно заморачиваться по оптимизации каких-то участков кода, а сразу писать понятный и поддерживаемый код. Далее на примерах я покажу, что мне понравилось в новых версиях:
 
 ## Замена тернарного оператора
