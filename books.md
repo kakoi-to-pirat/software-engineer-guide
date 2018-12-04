@@ -3,7 +3,7 @@
 
 Канал в Telegram: [@piratestories](https://t.me/piratestories)
 
-| [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
+| [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/readme.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
 
 ## Архитектура компьютера
 *   [Код. Тайный язык информатики (Чарльз Петцольд)](https://www.ozon.ru/context/detail/id/125884/)
