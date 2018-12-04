@@ -1,8 +1,7 @@
 # Книги
 Топ книг по программированию, верстке, дизайну, мотивации.
 
-Канал в Telegram: [@piratestories](https://t.me/piratestories)
-
+Telegram: [@piratestories](https://t.me/piratestories)
 | [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/readme.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
 
 ## Архитектура компьютера
