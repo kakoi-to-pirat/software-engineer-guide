@@ -1,5 +1,8 @@
 # TDD - Test Driven Development
 
+Telegram: [@piratestories](https://t.me/piratestories)
+| [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) | [Статьи, доклады, ресурсы](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/reports.md) |
+
 Тут недавно всплыла тема tdd в примере разработки «Крестиков‑ноликов» на JS.
 
 Саша Беспоясов подробно разбирает процесс разработки через тестирование по шагам с примерами кода — [bespoyasov.ru/ttt-tdd](https://bespoyasov.ru/ttt-tdd/)
