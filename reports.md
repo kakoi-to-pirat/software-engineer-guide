@@ -1,6 +1,7 @@
 # Топ статей, докладов, ресурсов из мира веб-технологий.
 Список редактируется и актуализируется время от времени.
 
+Канал в Telegram: [@piratestories](https://t.me/piratestories)
 | [Гайд](https://github.com/kakoi-to-pirat/web-developer-on-linux/readme.md) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md) |
 
 ## Проекты
