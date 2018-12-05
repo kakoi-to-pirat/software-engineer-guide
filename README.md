@@ -110,7 +110,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 17. [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
 18. [ANTY HYPE](https://www.youtube.com/watch?v=xPFRUM_oDKA)
 19. [Service Worker](https://getinstance.info/articles/javascript/introduction-to-service-workers/)
-20. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
+20. Инъекция зависимостей и инверсия контроля: [Теория](https://youtu.be/ETyltCwtQHs), [Илья vs DI](https://youtu.be/RwLWYB9C2Tc), [DI и фронтенд](https://youtu.be/0IqU_13tMcc), [InversifyJS](https://youtu.be/icbryEgQPxk)
+21. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
 
 **2. Автоматизация/сборка фронтенда**
 1. [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
