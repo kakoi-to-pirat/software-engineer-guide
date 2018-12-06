@@ -49,9 +49,10 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2. [Основы HTML5](https://www.youtube.com/playlist?list=PLwSSV-_L9szsyAwvl4Q-oTM1HdNBZFSF-)
 3. [HTML Шорты](https://htmlacademy.ru/shorts)
 4. [Семантика](https://www.youtube.com/watch?v=_nEspOK2rp4)
-5. [Шаблонизатор jade (pug)](https://www.youtube.com/watch?v=QCsFDi1cQIk)
-6. [Шрифты](https://web-standards.ru/articles/web-font-loading-patterns/)
-7. [Доступность](https://www.youtube.com/watch?v=ssJsjGZE2sc)
+5. [Семантика для циников](https://www.youtube.com/watch?v=W5DgVWtitjQ)
+6. [Шаблонизатор jade (pug)](https://www.youtube.com/watch?v=QCsFDi1cQIk)
+7. [Шрифты](https://web-standards.ru/articles/web-font-loading-patterns/)
+8. [Доступность](https://www.youtube.com/watch?v=ssJsjGZE2sc)
 
 **2. CSS**
 1. [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
