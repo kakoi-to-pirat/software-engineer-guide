@@ -165,3 +165,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Генератор градиентов на CSS](http://ourownthing.co.uk/gradpad.html?utm_source=twitter.com&utm_medium=social&utm_campaign=krutoy-vizualnyy-generator-gradientov-n&utm_content=16722558)
 *   [Генератор Docker-шаблонов для php-приложений](https://phpdocker.io/generator)
 *   [Набор нарисованных «от руки» UI-элементов для веба](http://amp.gs/kOsm)
+*   [CSS сlip-path marker](https://bennettfeely.com/clippy/)
+*   [Конструктор градиентов](https://www.grabient.com/)
+*   [sizzy.co](sizzy.co)
+
