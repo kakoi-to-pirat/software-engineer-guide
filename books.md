@@ -31,7 +31,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## Про языки
 *   [Семь языков за семь недель (Брюс Тейт)](https://www.ozon.ru/context/detail/id/26893656/)
 
-## Модели конкуренции и параллелизма
+## Concurrency
 *   [Семь моделей конкуренции и параллелизма за семь недель. Раскрываем тайны потоков (Пол Батчер)](https://www.ozon.ru/context/detail/id/31083491/)
 
 ## Тестирование
