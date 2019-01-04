@@ -114,6 +114,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Полное понимание синхронного и асинхронного JavaScript с Async/Await](https://medium.com/@stasonmars/полное-понимание-синхронного-и-асинхронного-javascript-с-async-await-ba5f47f4436)
 *   [5 вопросов по JavaScript на которые вы должны знать ответ](https://medium.com/@abraztsov/5-нетипичных-javascript-вопросов-на-собеседовании-9e0370012582)
 *   [Краткое введение во внедрение зависимостей](https://medium.com/@xufocoder/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)
+*   [Fira Code: шрифт с лигатурами для кода](http://github.com/tonsky/FiraCode)
+*   [Ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
 
 ## Доклады
 *   [Семантическое программирование: куда поместить код. YiiConf 2017](https://www.youtube.com/watch?v=58BpEJAplsM)
@@ -139,8 +141,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Лекция по книге Роберта Мартина "Чистый код", дополненная личным опытом и примерами из собственной практики Сергея Немчинского](https://www.youtube.com/watch?v=otrfSgeK3JI&list=LLvPdIxe9ZhDJyXEWsNVgBcw&index=292&t=0s)
 *   [Как функциональное программирование может сделать жизнь проще, на примере JS](https://www.youtube.com/watch?v=t4AhK0oWd9I&index=7&t=0s&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
 *   [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
-*   [Fira Code: шрифт с лигатурами для кода](http://github.com/tonsky/FiraCode)
-*   [Ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
 
 ## Youtube-каналы
 *   [Hexlet](https://www.youtube.com/channel/UCqLPYxuAz-WbdEBLBk_Tb7g)
