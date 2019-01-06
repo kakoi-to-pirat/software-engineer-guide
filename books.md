@@ -22,7 +22,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Грокаем Алгоритмы (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
 
 ## Математика
-*   [Начала теории множеств (Н. К. Верещагин, А.Шень)](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
+*   [Начала теории множеств (Н. К. Верещагин, А. Шень)](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
 *   [Что такое математика (Р. Курант, Г. Роббинс)](http://ilib.mccme.ru/pdf/kurant.pdf)
 *   [Математики для гуманитариев (А. Савватеев)](http://www.usdp.ru/book/savva-book-new.pdf)
 
