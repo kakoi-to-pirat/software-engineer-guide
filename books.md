@@ -21,6 +21,11 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Теоретический минимум по Computer Science. (Владстон Феррейра Филос)](https://www.ozon.ru/context/detail/id/144946027/)
 *   [Грокаем Алгоритмы (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
 
+## Математика
+*   [Начала теории множеств» (Н. К. Верещагин, А.Шень)](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
+*   [Что такое математика» (Р. Курант, Г. Роббинс)](http://ilib.mccme.ru/pdf/kurant.pdf)
+*   [Математики для гуманитариев» (А. Савватеев)](http://www.usdp.ru/book/savva-book-new.pdf)
+
 ## Автоматное программирование
 *   [Автоматное программирование (Н. И. Поликарпова, А. А. Шалыто)](http://is.ifmo.ru/books/_book.pdf)
 
