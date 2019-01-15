@@ -116,6 +116,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Краткое введение во внедрение зависимостей](https://medium.com/@xufocoder/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)
 *   [Fira Code: шрифт с лигатурами для кода](http://github.com/tonsky/FiraCode)
 *   [Ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
+*   [Приведение типов в JavaScript](https://medium.com/@frontman/приведение-типов-в-js-9d6f1845ea96)
+*   [Конспект-перевод книги «Чистая архитектура» Роберта Мартина](https://bespoyasov.ru/blog/clean-architecture/)
 
 ## Доклады
 *   [Семантическое программирование: куда поместить код. YiiConf 2017](https://www.youtube.com/watch?v=58BpEJAplsM)
