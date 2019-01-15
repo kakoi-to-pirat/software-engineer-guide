@@ -47,6 +47,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 [](https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/)
 *   [](https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/)[The Twelve-Factor App](https://12factor.net/ru/)
 [](https://12factor.net/ru/)
+*   [Открытый курс лекций по JavaScript и Node.js от Тимура Шемсединова в Киевском политехническом институте](https://habr.com/post/434686/)
 
 ## Новости
 *   [](https://12factor.net/ru/)[Chrome & Firefox now force .dev domains to HTTPS via preloaded HSTS](https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/), 16.02.2018
