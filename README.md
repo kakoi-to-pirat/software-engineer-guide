@@ -109,18 +109,15 @@ Telegram: [@piratestories](https://t.me/piratestories)
 14. Инъекция зависимостей и инверсия контроля: [Теория](https://youtu.be/ETyltCwtQHs), [Илья vs DI](https://youtu.be/RwLWYB9C2Tc), [DI и фронтенд](https://youtu.be/0IqU_13tMcc), [InversifyJS](https://youtu.be/icbryEgQPxk)
 15. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
 
-**2. JavaScript-фреймворки**
-1. [Фреймворки: Где мой JavaScript?](https://www.youtube.com/watch?v=T1Gljgey19Y)
-2. [Фреймворки: jQuery vs Angular vs Vue](https://www.youtube.com/watch?v=e6R8Mc015Is)
-3. [The Road to learn React](https://leanpub.com/the-road-to-learn-react-russian)
-4. [React.js от learn.javascript.ru](https://www.youtube.com/watch?time_continue=1&v=ol4OVMJZC1w)
-5. [React.js от CodeDojo](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
-6. [Redux от CodeDojo](https://www.youtube.com/playlist?list=PLqHlAwsJRxANFIgAf7BO8hNYdvipLERxQ)
-7. [React.js от CSSSR](http://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz)
-8. [Оф. документация по Vue.js](https://ru.vuejs.org/v2/guide/)
-9. [Vue.js с нуля от Точка.dev](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
-10. [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
-11. [Anti hype: как не гнаться за технологиями и начать жить](https://www.youtube.com/watch?v=xPFRUM_oDKA)
+**2. JavaScript—фреймворки**
+1. [Где мой JavaScript?](https://www.youtube.com/watch?v=T1Gljgey19Y)
+2. [jQuery vs Angular vs Vue](https://www.youtube.com/watch?v=e6R8Mc015Is)
+3. [Основы React.js](https://www.youtube.com/watch?v=fQAKKXc6BCM&list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl)
+4. [The Road to learn React](https://leanpub.com/the-road-to-learn-react-russian)
+5. [Основы Redux](https://www.youtube.com/playlist?list=PLqHlAwsJRxANFIgAf7BO8hNYdvipLERxQ)
+6. [Vue.js v.1](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
+7. [Vue.js v.2](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
+8. [Anti hype: как не гнаться за технологиями и начать жить](https://www.youtube.com/watch?v=xPFRUM_oDKA)
 
 **3. Автоматизация/сборка фронтенда**
 1. [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
@@ -190,13 +187,14 @@ Telegram: [@piratestories](https://t.me/piratestories)
 1. [Основы Elasticsearch](https://habr.com/post/280488/)
 2. [Текстовые уроки по Elasticsearch](https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/)
 
-## ООП
-1. [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
-2. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
-3. [Забытая история ООП](https://habr.com/company/ruvds/blog/428582/)
-4. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
-5. [Что такое объект? И почему Геттеры и Сеттеры — зло:)](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
-6. [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
+## OOP/Сlass programming
+1. [Сlass programming (то, что подразумевают под ООП в современном мире)](https://www.youtube.com/watch?v=QZTn7LQk1eg&list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu&index=1)
+2. [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
+3. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
+4. [Забытая история ООП](https://habr.com/company/ruvds/blog/428582/)
+5. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
+6. [Что такое объект? И почему Геттеры и Сеттеры — зло:)](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
+7. [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
 
 ## Внешнее взаимодействие
 1. [Web services. Введение](https://www.youtube.com/watch?v=yaz3PRC6bUI)
