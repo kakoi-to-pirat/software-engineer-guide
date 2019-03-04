@@ -217,34 +217,37 @@ Telegram: [@piratestories](https://t.me/piratestories)
 5. [From Symfony to Django](https://blog.joeymasip.com/from-symfony-to-django/)
 
 ## Бекенд. Часть-3: PHP
-1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
-2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
+**1. Введение в PHP**
+1. [Введение в PHP](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
 3. [Ключевые аспекты веб-разработки на PHP](https://ru.hexlet.io/courses/php-overview-of-web-development)
 
 **2. Рабочее окружение php и виртуализация**
-1. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
-2. [Composer](https://m.habrahabr.ru/post/145946/)
+1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
+2. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
+3. [Composer](https://m.habrahabr.ru/post/145946/)
 
-**3. Сlass programming в PHP**
-1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
-2. [Неделя ООП: SOLID, GRASP в PHP. (Дмитрий Елисеев)](http://www.elisdn.ru/blog/93/oop-week-review)
-
-**4. Декларативный подход в PHP**
+**3. Декларативный подход в PHP**
 1. [Отличие декларативного от императивного стиля](https://www.youtube.com/watch?v=2Wmd4L9oErg)
 2. Пишем свою функцию: [1 часть](https://www.youtube.com/watch?v=EaCR8ADzDow), [2 часть](https://www.youtube.com/watch?v=RxN_Oh7c5nM)
 3. [Построение абстракций в PHP](https://coursehunters.net/course/hexlet-php-sicp)
 
-**4. PHP + MySql**
+**4. Сlass programming в PHP**
+1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
+2. [Неделя ООП: SOLID, GRASP в PHP. (Дмитрий Елисеев)](http://www.elisdn.ru/blog/93/oop-week-review)
+3. [Стандартные классы PHP](https://www.youtube.com/watch?v=75qKZOyhm3g&list=PLGVvrE3FiqBPvIVWni8pOM4S6yVbxH4nJ&index=1)
+4. [Стандартная библиотека PHP (SPL)](http://php.net/manual/ru/book.spl.php#book.spl)
+
+**5. PHP + MySql**
 1. [Класс для работы с MySQL](http://phpfaq.ru/safemysql)
 2. [CRUD](http://phpfaq.ru/safemysql/crud)
 3. [PDO](http://phpfaq.ru/pdo)
 3. [Защита от SQL-инъекций](http://phpfaq.ru/mysql/slashes)
 
-**5. Функциональное программирование в php**
+**6. Функциональное программирование в php**
 1. [PHP: Функциональное программирование](https://coursehunters.net/course/hexlet-php-func)
 2. [Функциональный PHP 1/2: Подсчёт стоимости товаров](https://www.youtube.com/watch?v=b4V5ZMX7QCc) 
 
-**6. Фреймворки php**
+**7. Фреймворки php**
 1. [Yii2, Laravel, Symfony](https://www.youtube.com/watch?v=JEsLKK8PoaY)?
 3. [Что такое MVC Framework](https://www.youtube.com/watch?v=OfNvLy2solE)?
 4. [Slim](https://slimframework.ru/)
