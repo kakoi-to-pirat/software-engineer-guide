@@ -171,7 +171,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 7. [Нормализация баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
 8. [Денормализация баз данных](https://ruhighload.com/Денормализация+данных)
 9. [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
-10.[Как использовать индексы в JOIN запросах MySql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
+10. [Как использовать индексы в JOIN запросах MySql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
 
 **3. ORM**
 1. [Что такое ORM](https://ru.wikipedia.org/wiki/ORM)?
