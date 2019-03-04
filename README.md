@@ -120,7 +120,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 8. [Оф. документация по Vue.js](https://ru.vuejs.org/v2/guide/)
 9. [Vue.js с нуля от Точка.dev](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
 10. [Vue.js 2 от Yauhen Kavalchuk](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
-11. [ANTY HYPE](https://www.youtube.com/watch?v=xPFRUM_oDKA)
+11. [Anti hype: как не гнаться за технологиями и начать жить](https://www.youtube.com/watch?v=xPFRUM_oDKA)
 
 **3. Автоматизация/сборка фронтенда**
 1. [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
