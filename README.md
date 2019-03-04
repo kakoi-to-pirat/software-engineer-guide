@@ -14,10 +14,10 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 1. [Код. Тайный язык информатики](https://www.ozon.ru/context/detail/id/125884/)
 2. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming)
-3. [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-4. [Теоретический минимум по Computer Science](https://www.ozon.ru/context/detail/id/144946027/)
-5. [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
-6. [Допольнительно: code-basics.ru](http://code-basics.ru/)
+3. [сode-basics.ru](http://code-basics.ru/)
+4. [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
+5. [Теоретический минимум по Computer Science](https://www.ozon.ru/context/detail/id/144946027/)
+6. [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
 
 ## Операционные системы: Linux
 
@@ -25,6 +25,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2. [Основы Linux](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV)
 3. [Командная строка](https://ru.hexlet.io/courses/cli-basics)
 4. [Ubuntu/Mint](https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6)
+5. [Терминал Linux](https://www.youtube.com/watch?v=85tDpM3x2ts&list=PLlWXhlUMyooafqSoZ9YGX_dgCi5HxsgkB)
 
 ## Системы контроля версий: GIT
 
