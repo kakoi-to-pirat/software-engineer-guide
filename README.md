@@ -341,7 +341,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ### YouTube-каналы
 1. [DesignProsmotr](https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw/)
-2. [Академия Яндекс. Дизайн](https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtg/)
+2. [Академия Яндекс.Дизайн](https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtg/)
 3. [Максим Солдаткин](https://www.youtube.com/playlist?list=PLettrGtkBMerDELB4Qcd-5oJ3Ib324mu4/)
 4. [Виталий Менчуковский](https://www.youtube.com/channel/UCSLMlkPTunVwMXDoNkLPplg/)
 
