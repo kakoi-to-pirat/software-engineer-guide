@@ -124,12 +124,10 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 **3. Автоматизация/сборка фронтенда**
 1. [JS: Настройка окружения](https://ru.hexlet.io/courses/js-setup-environment)
-2. Обзор [инструментов](https://www.youtube.com/watch?v=j77g2GLTW2U)
-3. Обзор [npm, bower, git](https://www.youtube.com/watch?v=xSlxXbiB7dg&list=FLvPdIxe9ZhDJyXEWsNVgBcw&index=69)...
-4. [Npm](https://www.youtube.com/watch?v=OZ0D3irUT20)
-5. [Gulp](https://www.youtube.com/watch?v=86TvKUX3hMI)
-6. [WebPack](https://www.youtube.com/watch?v=JK6AjIMYEZw)
-7. [Browsersync](https://www.youtube.com/watch?v=uEtnY7i-rmg)
+2. [Npm](https://www.youtube.com/watch?v=OZ0D3irUT20)
+3. [Gulp](https://www.youtube.com/watch?v=86TvKUX3hMI)
+4. [WebPack](https://www.youtube.com/watch?v=JK6AjIMYEZw)
+5. [Browsersync](https://www.youtube.com/watch?v=uEtnY7i-rmg)
 
 ## Программирование, управляемое данными
 1. [Учитесь писать код без if](https://proglib.io/p/without-if/)
@@ -148,10 +146,13 @@ Telegram: [@piratestories](https://t.me/piratestories)
 1. [Управление состоянием приложения с помощью конечного автомата](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
 2. [Автоматное программирование](http://is.ifmo.ru/books/_book.pdf)
 
-## Автоматическое тестирование
+## Автоматическое тестирование и TDD
 1. [Что такое тестирование и почему мы должны его делать?](https://medium.com/devschacht/what-is-testing-and-why-should-we-do-it-acf06723816b)
 2. [TDD и автоматическое тестирование](https://www.youtube.com/watch?v=DqOnfQ4Ad5s)
-3. [Процесс разработки через тестирование по шагам с примерами кода](https://bespoyasov.ru/ttt-tdd/)
+3. [Начинаем писать тесты (правильно)](https://www.youtube.com/watch?v=zsz8kdi62mE&feature=youtu.be)
+4. [Процесс разработки через тестирование по шагам с примерами кода](https://bespoyasov.ru/ttt-tdd/)
+5. [TDD. Разработка через тестирование (Кент Бек)](https://www.ozon.ru/context/detail/id/140489225/)
+6. [Пример тестирования с PHPUnit и Codeception в Yii2](https://www.youtube.com/watch?v=gRmEpUYaS20)
 
 ## Базы данных
 **1. Что такое базы данных**
@@ -159,18 +160,18 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2. [Основные понятия баз данных](http://inf.susu.ac.ru/Klinachev/lc_sga_26.htm)
 3. [Объекты базы данных](http://inf.susu.ac.ru/Klinachev/lc_sga_27.htm)
 4. [Операции с базами данных](http://inf.susu.ac.ru/Klinachev/lc_sga_28.htm)
-5. [Базы данных: SQL (DDL/DML)](https://ru.hexlet.io/courses/postgresql-ddl)
-6. [Базы данных: SQL (DQL)](https://ru.hexlet.io/courses/sql-dql)
 
 **2. Основы SQL** 
 1. [Синтаксис SQL](https://postgrespro.ru/docs/postgresql/9.6/sql-syntax.html) 
-3. [Изучение SQL](https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
-4. [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
-5. [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
-6. [Нормализация баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
-7. [Денормализация баз данных](https://ruhighload.com/Денормализация+данных)
-8. [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
-9. [Как использовать индексы в JOIN запросах MySql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
+2. [Основы SQL](https://www.youtube.com/playlist?list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
+3. [DDL/DML](https://ru.hexlet.io/courses/postgresql-ddl)
+4. [DQL](https://ru.hexlet.io/courses/sql-dql)
+5. [Теория от Елисеева](https://www.youtube.com/watch?v=zWtJoWGHsiI)
+6. [Технострим маил.ру | Базы данных (2017)](https://www.youtube.com/watch?v=SfYaAQ9-RnE&list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
+7. [Нормализация баз данных](https://www.youtube.com/watch?v=1GWx5CZdSCg)
+8. [Денормализация баз данных](https://ruhighload.com/Денормализация+данных)
+9. [Индексы в MySQL](https://ruhighload.com/Индексы+в+mysql)
+10.[Как использовать индексы в JOIN запросах MySql](https://ruhighload.com/Как+использовать+индексы+в+join+запросах+mysql+)
 
 **3. ORM**
 1. [Что такое ORM](https://ru.wikipedia.org/wiki/ORM)?
