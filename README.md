@@ -78,9 +78,9 @@ Telegram: [@piratestories](https://t.me/piratestories)
 4. [Что поправить в верстке?](https://habrahabr.ru/post/319664/)
 
 **5. JavaScript**
-2. [You don't know js: up & going](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
-4. [Простая функция](https://www.youtube.com/watch?v=UHhQ74uwCns)
-5. [jQuery: примеры типичных задач](https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa)
+1. [You don't know js: up & going](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
+2. [Простая функция](https://www.youtube.com/watch?v=UHhQ74uwCns)
+3. [jQuery: примеры типичных задач](https://www.youtube.com/playlist?list=PLhSMKtAqXupEfyYQNlxOxb4CdRa66bMGa)
 
 ## Алгоритмы и структуры данных
 1. [Что такое алгоритмы и структуры данных, и зачем они нужны](https://www.youtube.com/watch?v=ijwbVxLMp58&t=0s&index=11&list=LLvPdIxe9ZhDJyXEWsNVgBcw)
