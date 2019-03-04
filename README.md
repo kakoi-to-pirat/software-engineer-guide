@@ -212,7 +212,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## Бекенд. Часть-2: Python
 1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
 2. [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
-3. [Что такое Django?](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+3. [Веб-фреймворк Django](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
 4. [Основы Django](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX)
 5. [From Symfony to Django](https://blog.joeymasip.com/from-symfony-to-django/)
 
