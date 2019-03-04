@@ -9,7 +9,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2.  По верстке есть текстовый гайд [_Вёрстка — это не тупо!_](http://webmasters.teamdev.com/)
 3.  По фронтенду — серия статей _От нуля до героя фронтенда: [часть 1](https://medium.com/russian/от-нуля-до-героя-front-enda-часть-1-f524d668f328), [часть 2](https://medium.com/russian/от-нуля-до-героя-фронтенда-часть-2-25f19e56eb29)_.
 
-
 ## Основы программирования
 
 1. [Код. Тайный язык информатики](https://www.ozon.ru/context/detail/id/125884/)
@@ -265,11 +264,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 **10. Профессия PHP-программист**
 1. Полноценный курс: [PHP-программист](https://ru.hexlet.io/professions#php)
 
-## Паттерны
-1. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/)
-2. [Говорим про SOLID](https://github.com/Hexlet/hexlet-slack-archive/wiki/%5B2018-04-20%5D-Говорим-про-SOLID)
-3. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
-
 ## Практика PHP
 **1.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
 1. [Интернет-магазин на Yii2 от Дмитрия Елисеева](http://www.elisdn.ru/blog/107/yii2-shop-master-class) (есть на coursehunters.net)
@@ -282,6 +276,11 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 **3.** [**Документация по Symfony 4**](https://symfony.com/doc)
 1. [Обзор основных моментов Symfony 3](https://www.youtube.com/watch?v=HrFYaEtwjBM&list=PLAjzt9qQ4n5YqwzlC4g3tqIY6N2HKNF4x)
+
+## Паттерны
+1. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/)
+2. [Говорим про SOLID](https://github.com/Hexlet/hexlet-slack-archive/wiki/%5B2018-04-20%5D-Говорим-про-SOLID)
+3. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 
 ## Архитектурные практики
 1. [Dependency Injection | Внедрение зависимостей](https://www.youtube.com/watch?v=ri7L-kbVKcU)
@@ -298,7 +297,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 13. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
 14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
 15. [RabbitMQ и Pipeline](https://www.youtube.com/watch?v=jMZviSKf3QU)
-
 
 ## DevOps
 ### **1. Практики и инструменты**
