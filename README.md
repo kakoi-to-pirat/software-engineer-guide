@@ -149,7 +149,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 3. [Начинаем писать тесты (правильно)](https://www.youtube.com/watch?v=zsz8kdi62mE&feature=youtu.be)
 4. [Процесс разработки через тестирование по шагам с примерами кода](https://bespoyasov.ru/ttt-tdd/)
 5. [TDD. Разработка через тестирование (Кент Бек)](https://www.ozon.ru/context/detail/id/140489225/)
-6. [Пример тестирования с PHPUnit и Codeception в Yii2](https://www.youtube.com/watch?v=gRmEpUYaS20)
 
 ## Базы данных
 **1. Что такое базы данных**
@@ -208,7 +207,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 1. [Зчем появилась Node.js и что такое неблокирующий I/O (devSchacht)](https://www.youtube.com/watch?v=MXqKatH5Lw4)
 2. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
 3. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
-4. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
+4. [Express (Node.js/JavaScript)](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
+5. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
 
 ## Бекенд. Часть-2: Python
 1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
@@ -221,13 +221,16 @@ Telegram: [@piratestories](https://t.me/piratestories)
 1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
 2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
 3. [Ключевые аспекты веб-разработки на PHP](https://ru.hexlet.io/courses/php-overview-of-web-development)
-4. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
 
-**2. Сlass programming в PHP**
+**2. Рабочее окружение php и виртуализация**
+1. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
+2. [Composer](https://m.habrahabr.ru/post/145946/)
+
+**3. Сlass programming в PHP**
 1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
 2. [Неделя ООП: SOLID, GRASP в PHP. (Дмитрий Елисеев)](http://www.elisdn.ru/blog/93/oop-week-review)
 
-**3. Декларативный подход в PHP**
+**4. Декларативный подход в PHP**
 1. [Отличие декларативного от императивного стиля](https://www.youtube.com/watch?v=2Wmd4L9oErg)
 2. Пишем свою функцию: [1 часть](https://www.youtube.com/watch?v=EaCR8ADzDow), [2 часть](https://www.youtube.com/watch?v=RxN_Oh7c5nM)
 3. [Построение абстракций в PHP](https://coursehunters.net/course/hexlet-php-sicp)
@@ -243,17 +246,9 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2. [Функциональный PHP 1/2: Подсчёт стоимости товаров](https://www.youtube.com/watch?v=b4V5ZMX7QCc) 
 
 **6. Фреймворки php**
-1. [Что такое фреймворки](https://www.youtube.com/watch?v=JEsLKK8PoaY)?
-2. [Какие бывают фреймворки](https://www.youtube.com/watch?v=Ejea5YYjPv0)?
+1. [Yii2, Laravel, Symfony](https://www.youtube.com/watch?v=JEsLKK8PoaY)?
 3. [Что такое MVC Framework](https://www.youtube.com/watch?v=OfNvLy2solE)?
 4. [Slim](https://slimframework.ru/)
-
-**7. Рабочее окружение php и виртуализация**
-1. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
-2. [Composer](https://m.habrahabr.ru/post/145946/)
-3. [Vagrant](http://kmarenov.github.io/2016/01/04/vagrant.html)
-4. [Docker](http://guides.hexlet.io/docker)
-5. [Отличия Vagrant и Docker](https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant)
 
 **8. PSR**
 1. [Обзор стандартов PSR](https://myrusakov.ru/php-psr-standards.html)
@@ -265,32 +260,15 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 **9. Тестирование в PHP**
 1. [PHP: Автоматическое тестирование](https://ru.hexlet.io/courses/php-testing)
+2. [Пример тестирования с PHPUnit и Codeception в Yii2](https://www.youtube.com/watch?v=gRmEpUYaS20)
 
 **10. Профессия PHP-программист**
 1. Полноценный курс: [PHP-программист](https://ru.hexlet.io/professions#php)
 
 ## Паттерны
-1. [SOLID в PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg)
-2. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/)
-4. [Говорим про SOLID](https://github.com/Hexlet/hexlet-slack-archive/wiki/%5B2018-04-20%5D-Говорим-про-SOLID)
-5. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
-
-## Архитектурные практики
-1. [Dependency Injection | Внедрение зависимостей](https://www.youtube.com/watch?v=ri7L-kbVKcU)
-2. [Service Locator | Локатор Служб](http://designpatternsphp.readthedocs.io/ru/latest/More/ServiceLocator/README.html)
-3. [Dependency Injection и Service Locator в Yii2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
-4. [Структура проекта](https://www.youtube.com/watch?v=uj6inHmDmAY)
-5. [Action-Domain-Responder с Slim](https://slimframework.ru/cookbook/action-domain-responder)
-6. [Middleware в Slim](https://slimframework.ru/concepts/middleware)
-7. [Сервисный слой и контроллеры](http://www.elisdn.ru/blog/105/services-and-controllers)
-8. DDD. [Domain Driven Design](https://www.youtube.com/watch?v=7HXIrEsmlzM)
-9. ADR. "[Goodbye controllers, hello request handlers](https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/)"
-10. Состояния: [Stateful vs. Stateless](https://www.youtube.com/watch?v=WPCz_U7D8PI&index=16&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr)
-11. [CQS: Разделение функций на команды и запросы](https://bespoyasov.ru/blog/commands-and-queries/)
-12. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
-13. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
-14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
-15. [RabbitMQ и Pipeline](https://www.youtube.com/watch?v=jMZviSKf3QU)
+1. [От STUPID кода к SOLID коду](https://habrahabr.ru/post/273843/)
+2. [Говорим про SOLID](https://github.com/Hexlet/hexlet-slack-archive/wiki/%5B2018-04-20%5D-Говорим-про-SOLID)
+3. [Что такое паттерны на самом деле?](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 
 ## Практика PHP
 **1.** [**Блог на Yii2**](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZWucOH1auan_m-POa3n7fV6)
@@ -305,6 +283,23 @@ Telegram: [@piratestories](https://t.me/piratestories)
 **3.** [**Документация по Symfony 4**](https://symfony.com/doc)
 1. [Обзор основных моментов Symfony 3](https://www.youtube.com/watch?v=HrFYaEtwjBM&list=PLAjzt9qQ4n5YqwzlC4g3tqIY6N2HKNF4x)
 
+## Архитектурные практики
+1. [Dependency Injection | Внедрение зависимостей](https://www.youtube.com/watch?v=ri7L-kbVKcU)
+2. [Service Locator | Локатор Служб](http://designpatternsphp.readthedocs.io/ru/latest/More/ServiceLocator/README.html)
+3. [Структура проекта](https://www.youtube.com/watch?v=uj6inHmDmAY)
+5. [Action-Domain-Responder в Slim](https://slimframework.ru/cookbook/action-domain-responder)
+6. [Middleware в Slim](https://slimframework.ru/concepts/middleware)
+7. [Сервисный слой и контроллеры](http://www.elisdn.ru/blog/105/services-and-controllers)
+8. DDD. [Domain Driven Design](https://www.youtube.com/watch?v=7HXIrEsmlzM)
+9. ADR. "[Goodbye controllers, hello request handlers](https://denisyuk.by/all/obrabotchiki-zaprosov-vmesto-kontrollerov/)"
+10. Состояния: [Stateful vs. Stateless](https://www.youtube.com/watch?v=WPCz_U7D8PI&index=16&list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr)
+11. [CQS: Разделение функций на команды и запросы](https://bespoyasov.ru/blog/commands-and-queries/)
+12. CQRS и Event Sourcing: [Command/Query Responsibility Segregation — отделяем мух от котлет](https://www.youtube.com/watch?v=V24L4a9FFps)
+13. Микросервисная архитектура: [PHP и микросервисы](https://www.youtube.com/watch?v=ly77wvz2Bjo)
+14. Бессерверная (Serverless) архитектура или Function as a Service (FaaS): [Доклад на PHP fwdays'17](https://www.youtube.com/watch?v=XBsXLxd5_v4) и [Забацали Lambda-Функцию на AWS](https://www.youtube.com/watch?v=4NOVYddMN-k)
+15. [RabbitMQ и Pipeline](https://www.youtube.com/watch?v=jMZviSKf3QU)
+
+
 ## DevOps
 ### **1. Практики и инструменты**
 1. [Практики и инструменты DevOps](http://youtube.com/watch?v=YxSYMRLmwDk&list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9)
@@ -313,16 +308,19 @@ Telegram: [@piratestories](https://t.me/piratestories)
 1. [Что такое Ansible?](https://www.youtube.com/watch?v=IWxPJrelh5w/)
 2. [Курс по Ansible.](https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N)
 
-### **3. Nginx и Php-Fpm**
+### **3. Nginx, Php-Fpm и LAMP**
 1. [Nginx, Php-Fpm и что это вообще?](https://perfect-inc.com/blog/nginx-php-fpm-i-chto-eto-voobshche/)
 2. [Документация по NGINX](https://nginx.org/ru/docs/)
-
-### **4. Виртуализация: Vagrant и Docker**
-1. [Установка Docker](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
-2. [Установка Vagrant](https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/)
 3. [Как установить LAMP](https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru)
 4. [Как настроить виртуальные хосты в Apache](https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru)
 5. [Настройка виртуальных хостов в Nginx](https://www.8host.com/blog/nastrojka-virtualnyx-xostov-nginx-v-ubuntu-16-04/)
+
+### **4. Виртуализация и контейнеризация: Vagrant и Docker**
+1. [Vagrant](http://kmarenov.github.io/2016/01/04/vagrant.html)
+2. [Docker](http://guides.hexlet.io/docker)
+3. [Отличия Vagrant и Docker](https://ru.stackoverflow.com/questions/573492/docker-vs-vagrant)
+4. [Установка Docker](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
+5. [Установка Vagrant](https://tutorialforlinux.com/2017/04/29/how-to-quickstart-with-vagrant-on-linux-mint-18-x/)
 
 ## Дизайн
 1. [UI/UX. Что это такое?](https://www.youtube.com/watch?v=MSnt9cznhTc/)
