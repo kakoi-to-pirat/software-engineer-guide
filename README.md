@@ -181,11 +181,13 @@ Telegram: [@piratestories](https://t.me/piratestories)
 1. [Основы Elasticsearch](https://habr.com/post/280488/)
 2. [Текстовые уроки по Elasticsearch](https://codedzen.ru/elasticsearch-urok-6-vse-o-poiske/)
 
-## Бэкенд. Часть 1: node JS
-1. [Зчем появилась Node.js и что такое неблокирующий I/O (devSchacht)](https://www.youtube.com/watch?v=MXqKatH5Lw4)
-2. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
-3. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
-4. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
+## ООП
+1. [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
+2. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
+3. [Забытая история ООП](https://habr.com/company/ruvds/blog/428582/)
+4. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
+5. [Что такое объект? И почему Геттеры и Сеттеры — зло:)](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
+6. [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
 
 ## Внешнее взаимодействие
 1. [Web services. Введение](https://www.youtube.com/watch?v=yaz3PRC6bUI)
@@ -195,20 +197,24 @@ Telegram: [@piratestories](https://t.me/piratestories)
 4. [Отличие “REST API” и “JSON API”](https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417)
 5. [GraphQL](http://codenative.ru/article/chto_takoe_graphql)
 
-## Бекенд. Часть-2: PHP
+## Бэкенд. Часть 1: Node.JS
+1. [Зчем появилась Node.js и что такое неблокирующий I/O (devSchacht)](https://www.youtube.com/watch?v=MXqKatH5Lw4)
+2. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
+3. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
+4. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
 
+## Бекенд. Часть-2: Python
+1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
+2. [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
+3. [Что такое Django?](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+4. [Основы Django](https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX)
+5. [From Symfony to Django](https://blog.joeymasip.com/from-symfony-to-django/)
+
+## Бекенд. Часть-3: PHP
 1. [PhpStorm](https://www.youtube.com/playlist?list=PLjvEG-kS6RG05hrDVZIOmLl7is4wJCKuZ)
 2. **Основы PHP**: [Marlin](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8), [Hexlet](https://coursehunters.net/course/hexlet-php-base)
 3. [Ключевые аспекты веб-разработки на PHP](https://ru.hexlet.io/courses/php-overview-of-web-development)
 4. [PHP: Настройка окружения](https://ru.hexlet.io/courses/php-setup-environment)
-
- **1. ООП**
-1. [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
-2. [Про ООП. Что это и зачем оно](https://github.com/Hexlet/hexlet-slack-archive/wiki/Про-ООП.-Что-это-и-зачем-оно-(часть-1)-(%23general))
-3. [Забытая история ООП](https://habr.com/company/ruvds/blog/428582/)
-4. [Сравнение подходов при решении простой задачи](https://www.youtube.com/watch?v=JiAljDpBmRg)
-5. [Что такое объект? И почему Геттеры и Сеттеры — зло](https://javarush.ru/groups/posts/1082-getterihsetterih-zlo-i-tochka)
-6. [OOP FOR BRAVE AND TRUE](https://www.youtube.com/watch?v=mPaoy4bnqic)
 
 **2. Сlass programming в PHP**
 1. [PHP: ООП (Hexlet)](https://coursehunters.net/course/hexlet-php-oop)
@@ -216,8 +222,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 **3. Декларативный подход в PHP**
 1. [Отличие декларативного от императивного стиля](https://www.youtube.com/watch?v=2Wmd4L9oErg)
-2. [Построение абстракций в PHP](https://coursehunters.net/course/hexlet-php-sicp)
-3. Пишем свою функцию: [1 часть](https://www.youtube.com/watch?v=EaCR8ADzDow), [2 часть](https://www.youtube.com/watch?v=RxN_Oh7c5nM)
+2. Пишем свою функцию: [1 часть](https://www.youtube.com/watch?v=EaCR8ADzDow), [2 часть](https://www.youtube.com/watch?v=RxN_Oh7c5nM)
+3. [Построение абстракций в PHP](https://coursehunters.net/course/hexlet-php-sicp)
 
 **4. PHP + MySql**
 1. [Класс для работы с MySQL](http://phpfaq.ru/safemysql)
