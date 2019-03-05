@@ -69,6 +69,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Python
 *   [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
+*   [Python. К вершинам мастерствае (Лучано Рамальо)](https://www.ozon.ru/context/detail/id/135305378//)
 
 ## PHP
 *   [PHP: Правильный Путь (Josh Lockhart)](http://phptherightway.ru/)
