@@ -33,7 +33,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Введение в веб-разработку
 
-1. [Как работает интернет](https://developer.mozilla.org/ru/docs/Learn/How_the_Internet_works)
+1. [Как работает интернет](https://www.youtube.com/watch?v=vobsAhMBPVw)
 2. [Как работает Веб](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 3. [Что такое доменные имена](https://developer.mozilla.org/ru/docs/Learn/Understanding_domain_names)
 4. [Введение в веб-разработку](https://ru.hexlet.io/courses/intro_to_web_development)
