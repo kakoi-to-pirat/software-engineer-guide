@@ -75,6 +75,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2. [Стримы по верстке](https://www.youtube.com/watch?v=QGMygnzlifk&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv)
 3. [Про подходы в верстке](https://www.youtube.com/watch?v=soWgVoOgQ_s)
 4. [Что поправить в верстке?](https://habrahabr.ru/post/319664/)
+5. [Вадим Макеев про верстку](https://www.youtube.com/user/pepelsbey/videos)
 
 **5. JavaScript**
 1. [You don't know js: up & going](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
