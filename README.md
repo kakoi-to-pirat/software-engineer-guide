@@ -109,7 +109,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 14. [Веб-компоненты](https://habr.com/ru/post/349366/)
 15. Инъекция зависимостей и инверсия контроля: [Теория](https://youtu.be/ETyltCwtQHs), [Илья vs DI](https://youtu.be/RwLWYB9C2Tc), [DI и фронтенд](https://youtu.be/0IqU_13tMcc), [InversifyJS](https://youtu.be/icbryEgQPxk)
 16. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
-17. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте: основы, асинхронное программирование, Node.js, архитектура и парадигмы](https://habr.com/post/434686d)
 
 **2. JavaScript—фреймворки**
 1. [Где мой JavaScript?](https://www.youtube.com/watch?v=T1Gljgey19Y)
@@ -211,6 +210,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 3. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
 4. [Express (Node.js/JavaScript)](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
 5. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
+6. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте:] основы, асинхронное программирование, Node.js, архитектура и парадигмы(https://habr.com/post/434686d)
 
 ## Бекенд. Часть-2: Python
 1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
