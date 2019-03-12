@@ -109,6 +109,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 14. [Веб-компоненты](https://habr.com/ru/post/349366/)
 15. Инъекция зависимостей и инверсия контроля: [Теория](https://youtu.be/ETyltCwtQHs), [Илья vs DI](https://youtu.be/RwLWYB9C2Tc), [DI и фронтенд](https://youtu.be/0IqU_13tMcc), [InversifyJS](https://youtu.be/icbryEgQPxk)
 16. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
+17. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте: основы, асинхронное программирование, Node.js, архитектура и парадигмы](https://habr.com/post/434686d)
 
 **2. JavaScript—фреймворки**
 1. [Где мой JavaScript?](https://www.youtube.com/watch?v=T1Gljgey19Y)
