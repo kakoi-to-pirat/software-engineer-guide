@@ -106,8 +106,9 @@ Telegram: [@piratestories](https://t.me/piratestories)
 11. [Map](https://www.youtube.com/watch?v=nSm_iTHy1DE)
 12. [Set](https://www.youtube.com/watch?v=EJWn81quVMA)
 13. [Service Worker](https://getinstance.info/articles/javascript/introduction-to-service-workers/)
-14. Инъекция зависимостей и инверсия контроля: [Теория](https://youtu.be/ETyltCwtQHs), [Илья vs DI](https://youtu.be/RwLWYB9C2Tc), [DI и фронтенд](https://youtu.be/0IqU_13tMcc), [InversifyJS](https://youtu.be/icbryEgQPxk)
-15. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
+14. [Веб-компоненты](https://habr.com/ru/post/349366/)
+15. Инъекция зависимостей и инверсия контроля: [Теория](https://youtu.be/ETyltCwtQHs), [Илья vs DI](https://youtu.be/RwLWYB9C2Tc), [DI и фронтенд](https://youtu.be/0IqU_13tMcc), [InversifyJS](https://youtu.be/icbryEgQPxk)
+16. Полноценный курс: [Фронтенд JS-программист](https://ru.hexlet.io/professions/frontend)
 
 **2. JavaScript—фреймворки**
 1. [Где мой JavaScript?](https://www.youtube.com/watch?v=T1Gljgey19Y)
