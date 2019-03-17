@@ -133,12 +133,13 @@ Telegram: [@piratestories](https://t.me/piratestories)
 3. [Диспетчеризация и полиморфизм](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/polymorphism-and-dispatching.md)
 
 ## Функциональное программирование
-1. [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
-2. [Лямбда исчисление](https://www.youtube.com/watch?v=dowYB_dPkmU)
-3. [Функторы и монады](https://www.youtube.com/watch?v=t2SaSHQhkdE)
-4. [Основы Haskell](https://www.youtube.com/watch?v=jNQVa5INdDk&list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
-5. [Clojure. Полный стэк на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
-6. [Elixir. Уроки на elixirschool.com](https://elixirschool.com/ru/)
+1. [Функциональное программирование как парадигма: цели, способы, применимость](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/functional-programming.md)
+2. [Итак, вы хотите научиться функциональному программированию](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
+3. [Лямбда исчисление](https://www.youtube.com/watch?v=dowYB_dPkmU)
+4. [Функторы и монады](https://www.youtube.com/watch?v=t2SaSHQhkdE)
+5. [Основы Haskell](https://www.youtube.com/watch?v=jNQVa5INdDk&list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
+6. [Clojure. Полный стэк на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
+7. [Elixir. Уроки на elixirschool.com](https://elixirschool.com/ru/)
 
 ## Автоматное программирование
 1. [Управление состоянием приложения с помощью конечного автомата](https://bespoyasov.ru/blog/fsm-to-the-rescue/)
