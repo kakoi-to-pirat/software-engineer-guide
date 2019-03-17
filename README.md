@@ -140,7 +140,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 5. [Изучай Haskell во имя добра!](https://www.ozon.ru/context/detail/id/8696277/)
 6. [Введение в Haskell](https://www.youtube.com/watch?v=jNQVa5INdDk&list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
 7. [Clojure. Полный стэк на одном языке или изоморфизм Рича Хикки](https://www.youtube.com/watch?v=b-Eq4YV4uwc)
-8. [clojurecourse.by](https://clojurecourse.by/)
+8. [Clojure. Учебный курс на clojurecourse.by](https://clojurecourse.by/)
 9. [Elixir. Уроки на elixirschool.com](https://elixirschool.com/ru/)
 
 ## Автоматное программирование
