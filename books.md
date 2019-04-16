@@ -79,6 +79,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Паттерны проектирования (Эрик Фримен)](https://www.ozon.ru/context/detail/id/20216992/)
 
 ## Docker
+*   [Использование Docker (Эдриен Моуэт)](https://www.ozon.ru/context/detail/id/139411597/)
 *   [Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)](https://leanpub.com/first-php-docker-application-ru)
 
 ## Дизайн
