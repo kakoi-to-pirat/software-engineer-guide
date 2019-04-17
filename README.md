@@ -208,12 +208,11 @@ Telegram: [@piratestories](https://t.me/piratestories)
 5. [GraphQL](http://codenative.ru/article/chto_takoe_graphql)
 
 ## Бэкенд. Часть 1: Node.JS
-1. [Зчем появилась Node.js и что такое неблокирующий I/O (devSchacht)](https://www.youtube.com/watch?v=MXqKatH5Lw4)
-2. [Знакомство с Node.js (CodeDojo)](https://www.youtube.com/watch?v=_EhqwOY4Ei0)
-3. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
-4. [Express (Node.js/JavaScript)](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
-5. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
-6. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте: основы, асинхронное программирование, Node.js, архитектура и парадигмы](https://habr.com/post/434686d)
+1. [Зчем появилась Node.js и как с ним работать](https://www.youtube.com/watch?v=4P1-JwZF0Vo)
+2. [Node.JS от А до Я (Илья Кантор)](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)
+3. [Express (Node.js/JavaScript)](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
+4. Полноценный курс: [Бэкенд JS-программист](https://ru.hexlet.io/professions/backend)
+5. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте: основы, асинхронное программирование, Node.js, архитектура и парадигмы](https://habr.com/ru/post/434686/)
 
 ## Бекенд. Часть-2: Python
 1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
