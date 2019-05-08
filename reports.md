@@ -147,21 +147,23 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Youtube-каналы
 *   [Hexlet](https://www.youtube.com/channel/UCqLPYxuAz-WbdEBLBk_Tb7g)
-*   [Fp Conf](https://www.youtube.com/channel/UCmiGqOz-jojsWUVXLZJ8mCw)
-*   [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
 *   [MoscowPython](https://www.youtube.com/channel/UC-OVMPlMA3-YCIeg4z5z23A)
+*   [Timur Shemsedinov](https://www.youtube.com/channel/UChSGI2R2kRMjzXJuYqHWQZg)
+*   [Deep Refactoring](https://www.youtube.com/channel/UCkmu866apk8FbOMuEIQvH0g)
 *   [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w)
 *   [Веб-стандарты](https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg)
 *   [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ)
 *   [getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg)
+*   [Fp Conf](https://www.youtube.com/channel/UCmiGqOz-jojsWUVXLZJ8mCw)
+*   [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
 *   [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 *   [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 *   [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 
 ## Блоги и паблики
-*   [Дмитрий Елисеев](http://www.elisdn.ru/)
 *   [Hexlet Guides](http://guides.hexlet.io/)
 *   [Блог Рахима](https://rakh.im/)
+*   [Дмитрий Елисеев](http://www.elisdn.ru/)
 
 ## Сервисы
 *   [Href Tools](https://hreftools.com/)
