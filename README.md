@@ -215,8 +215,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 5. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте: основы, асинхронное программирование, Node.js, архитектура и парадигмы](https://habr.com/ru/post/434686/)
 6. [The definitive Node.js handbook (перевод)](https://habr.com/ru/company/ruvds/blog/422893/)
 7. [Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)
-8. [Фреймворк NestJS] (https://habr.com/ru/post/439434/)
-9. [Тестирование с Jest] (https://doc.ebichu.cc/jest/ru/)
+8. [Фреймворк NestJS](https://habr.com/ru/post/439434/)
+9. [Тестирование с Jest](https://doc.ebichu.cc/jest/ru/)
 
 ## Бекенд. Часть-2: Python
 1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
