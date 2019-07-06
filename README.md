@@ -205,7 +205,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 2. [Что такое API](https://mkdev.me/posts/chto-takoe-api-v-veb-prilozheniyah-i-zachem-on-nuzhen/)
 3. [REST API](http://www.restapitutorial.ru/)
 4. [Отличие “REST API” и “JSON API”](https://forum.jscourse.com/t/v-chem-princzip-json-api-rest-api/1417)
-5. [GraphQL](http://codenative.ru/article/chto_takoe_graphql)
+5. [GraphQL](https://graphql.org/learn/)
 
 ## Бэкенд. Часть 1: Node.JS
 1. [Зчем появилась Node.js и как с ним работать](https://www.youtube.com/watch?v=4P1-JwZF0Vo)
@@ -215,6 +215,8 @@ Telegram: [@piratestories](https://t.me/piratestories)
 5. [Открытый курс лекций от Тимура Шемсединова в Киевском политехническом институте: основы, асинхронное программирование, Node.js, архитектура и парадигмы](https://habr.com/ru/post/434686/)
 6. [The definitive Node.js handbook (перевод)](https://habr.com/ru/company/ruvds/blog/422893/)
 7. [Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)
+8. [Фреймворк NestJS] (https://habr.com/ru/post/439434/)
+9. [Тестирование с Jest] (https://doc.ebichu.cc/jest/ru/)
 
 ## Бекенд. Часть-2: Python
 1. [Python Junior Podcast](https://podcast.python.ru/all/podcast_o_python_0/)
