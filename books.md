@@ -95,7 +95,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## CSS
 *   [Секреты CSS. Идеальные решения ежедневных задач (Леа Веру)](https://www.ozon.ru/context/detail/id/137213400/)
 
-## Философия, мотивация 
+## Философия, мотивация, самоорганизация
 *   [Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)](https://www.ozon.ru/context/detail/id/28347106/)
 *   [Джедайские техники (Максим Дорофеев)](https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&utm_medium=partner&utm_campaign=955860)
 *   [Антихрупкость. Как извлечь выгоду из хаоса (Нассим Николас Талеб)](https://www.ozon.ru/context/detail/id/24310355/)
