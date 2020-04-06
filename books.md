@@ -39,6 +39,10 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## Concurrency
 *   [Семь моделей конкуренции и параллелизма за семь недель. Раскрываем тайны потоков (Пол Батчер)](https://www.ozon.ru/context/detail/id/31083491/)
 
+## Распределенные системы
+*   [Создание микросервисов (Сэм Ньюман)](https://www.ozon.ru/context/detail/id/135199296/)
+*   [Распределенные системы. Паттерны проектирования (Бернс Брендан)](https://www.ozon.ru/context/detail/id/163867277/)
+
 ## Тестирование
 *   [TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)](https://www.ozon.ru/context/detail/id/140489225/)
 
@@ -69,7 +73,9 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Python
 *   [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
-*   [Python. К вершинам мастерствае (Лучано Рамальо)](https://www.ozon.ru/context/detail/id/135305378//)
+*   [Python. К вершинам мастерствае (Лучано Рамальо)](https://www.ozon.ru/context/detail/id/135305378/)
+*   [Two Scoops of Django (Daniel Roy Greenfeld)](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729/ref=sr_1_1?s=books&ie=UTF8&qid=1542140714&sr=1-1&keywords=Two+Scoops+of+Django+1.11)
+*   [Building Django 2.0 Web Applications (Tom Aratyn)](https://www.amazon.com/Building-Django-2-0-Applications-enterprise-grade/dp/1787286215)
 
 ## PHP
 *   [PHP: Правильный Путь (Josh Lockhart)](http://phptherightway.ru/)
@@ -87,12 +93,17 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Не заставляйте меня думать (Стив Круг)](https://www.ozon.ru/context/detail/id/141214330/)
 
 ## CSS
-*   [Секреты CSS. Идеальные решения ежедневных задач. (Леа Веру)](https://www.ozon.ru/context/detail/id/137213400/)
+*   [Секреты CSS. Идеальные решения ежедневных задач (Леа Веру)](https://www.ozon.ru/context/detail/id/137213400/)
 
-## Философия, мотивация, самоорганизация
+## Философия, мотивация 
 *   [Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)](https://www.ozon.ru/context/detail/id/28347106/)
 *   [Джедайские техники (Максим Дорофеев)](https://www.ozon.ru/context/detail/id/140376487/?utm_source=epoint&utm_medium=partner&utm_campaign=955860)
 *   [Антихрупкость. Как извлечь выгоду из хаоса (Нассим Николас Талеб)](https://www.ozon.ru/context/detail/id/24310355/)
+
+## О программировании, как профессии
 *   [Джоэл о программировании (Джоэл Спольски)](https://www.ozon.ru/context/detail/id/2820575/)
 *   [Идеальный программист. Как стать профессионалом разработки ПО (Роберт Мартин)](https://www.ozon.ru/context/detail/id/144954705/)
 
+## Процессы
+*   [Постигая Agile. Ценности, принципы, методологии (Эндрю Стеллман)](https://www.ozon.ru/context/detail/id/140970762/)
+*   [Канбан. Альтернативный путь в Agile (Дэвид Андерсон)](https://www.ozon.ru/context/detail/id/139969042/)
