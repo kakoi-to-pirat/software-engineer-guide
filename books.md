@@ -33,8 +33,27 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Совершенный код (Стив Макконнелл)](https://www.ozon.ru/context/detail/id/138437220/)
 *   [Чистый код. Создание, анализ и рефакторинг (Роберт Мартин)](https://www.ozon.ru/context/detail/id/142429922/)
 
-## Про языки
+## Языки программирования
 *   [Семь языков за семь недель (Брюс Тейт)](https://www.ozon.ru/context/detail/id/26893656/)
+*   [Изучай Haskell во имя добра! (Миран Липовача)](https://www.ozon.ru/context/detail/id/8696277/)
+*   [Введение в Elixir (Симон Сенлорен, Дэвид Эйзенберг)](https://www.ozon.ru/context/detail/id/140439544/)
+*   [Программирование на Clojure (Чаз Эмерик)](https://www.ozon.ru/context/detail/id/21296773/)
+
+### JavaScript
+*   [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+*   [Вы не знаете Javascript (Kyle Simpson)](https://github.com/azat-io/you-dont-know-js-ru)
+*   [Exploring ES6 (Axel Rauschmayer)](http://exploringjs.com/es6/)
+
+### Python
+*   [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
+*   [Python. К вершинам мастерствае (Лучано Рамальо)](https://www.ozon.ru/context/detail/id/135305378/)
+*   [Two Scoops of Django (Daniel Roy Greenfeld)](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729/ref=sr_1_1?s=books&ie=UTF8&qid=1542140714&sr=1-1&keywords=Two+Scoops+of+Django+1.11)
+*   [Building Django 2.0 Web Applications (Tom Aratyn)](https://www.amazon.com/Building-Django-2-0-Applications-enterprise-grade/dp/1787286215)
+
+### PHP
+*   [PHP: Правильный Путь (Josh Lockhart)](http://phptherightway.ru/)
+*   [Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)](https://www.ozon.ru/context/detail/id/135695718/)
+
 
 ## Concurrency
 *   [Семь моделей конкуренции и параллелизма за семь недель. Раскрываем тайны потоков (Пол Батчер)](https://www.ozon.ru/context/detail/id/31083491/)
@@ -56,30 +75,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## Базы данных
 *   [Изучаем SQL (Алан Бьюли)](https://www.ozon.ru/context/detail/id/3291513/)
 *   [Семь баз данных за семь недель (Эрик Редмонд)](https://www.ozon.ru/context/detail/id/19383907/)
-
-## JavaScript
-*   [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-*   [Вы не знаете Javascript (Kyle Simpson)](https://github.com/azat-io/you-dont-know-js-ru)
-*   [Exploring ES6 (Axel Rauschmayer)](http://exploringjs.com/es6/)
-
-## React
-*   [Путь к изучению React (Робин Вирух)](https://leanpub.com/the-road-to-learn-react-russian)
-
-## Haskel
-*   [Изучай Haskell во имя добра! (Миран Липовача)](https://www.ozon.ru/context/detail/id/8696277/)
-
-## Elixir
-*   [Введение в Elixir (Симон Сенлорен, Дэвид Эйзенберг)](https://www.ozon.ru/context/detail/id/140439544/)
-
-## Python
-*   [Изучаем Python. 4-е издание (Марк Лутц)](https://www.ozon.ru/context/detail/id/141734188/)
-*   [Python. К вершинам мастерствае (Лучано Рамальо)](https://www.ozon.ru/context/detail/id/135305378/)
-*   [Two Scoops of Django (Daniel Roy Greenfeld)](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729/ref=sr_1_1?s=books&ie=UTF8&qid=1542140714&sr=1-1&keywords=Two+Scoops+of+Django+1.11)
-*   [Building Django 2.0 Web Applications (Tom Aratyn)](https://www.amazon.com/Building-Django-2-0-Applications-enterprise-grade/dp/1787286215)
-
-## PHP
-*   [PHP: Правильный Путь (Josh Lockhart)](http://phptherightway.ru/)
-*   [Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)](https://www.ozon.ru/context/detail/id/135695718/)
 
 ## Паттерны
 *   [Паттерны проектирования (Эрик Фримен)](https://www.ozon.ru/context/detail/id/20216992/)
