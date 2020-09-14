@@ -31,7 +31,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Про код
 *   [Совершенный код (Стив Макконнелл)](https://www.ozon.ru/context/detail/id/138437220/)
-*   [Чистый код. Создание, анализ и рефакторинг (Роберт Мартин)](https://www.ozon.ru/context/detail/id/142429922/)
 
 ## Языки программирования
 *   [Семь языков за семь недель (Брюс Тейт)](https://www.ozon.ru/context/detail/id/26893656/)
@@ -67,7 +66,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Архитектура
 *   [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)](https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709)
-*   [Чистая архитектура. Искусство разработки программного обеспечения (Роберт Мартин)](https://www.ozon.ru/context/detail/id/144499396/)
 
 ## GIT
 *   [Pro Git (Scott Chacon & Ben Straub)](https://git-scm.com/book/ru/v2)
@@ -81,7 +79,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Docker
 *   [Использование Docker (Эдриен Моуэт)](https://www.ozon.ru/context/detail/id/139411597/)
-*   [Создание вашего первого PHP-приложения с помощью Docker (Карл Хьюз)](https://leanpub.com/first-php-docker-application-ru)
 
 ## Дизайн
 *   [Дизайн для реального мира (Виктор Папанек)](https://www.ozon.ru/context/detail/id/32545263/?utm_source=yandex_direct&utm_medium=cpc&utm_campaign=proryv_regstore_product_n_cid_detail_our_no_all_dynamic_CBR_23555380&utm_term=_cbrx_642669)
