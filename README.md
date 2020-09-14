@@ -12,3 +12,4 @@ Telegram: [@piratestories](https://t.me/piratestories)
 7. Изучайте разные языки программирования
 8. Изучайте devops
 9. Изучайте database
+10. Изучайте фундаментальные вещи, характерные для web: http, browser, eventloop, html/css/js
