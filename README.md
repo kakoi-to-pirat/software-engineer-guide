@@ -1,12 +1,11 @@
 # Гайд начинающего веб-разработчика
 
-Telegram: [@piratestories](https://t.me/piratestories)
-| [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md)
+Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md)
 
 1. Приобретите навык [слепой печати](https://ru.wikipedia.org/wiki/Слепой_метод_печати)
-2. Изучите базовые принципы работы операционных систем: 
- -- абстракции (процессы, потоки, файлы, сокеты, память),
- -- механизмы (создание, управление, открытие, запись, распределение), 
+2. Изучите базовые принципы работы операционных систем:
+ -- абстракции (процессы, потоки, файлы, сокеты, память)
+ -- механизмы (создание, управление, открытие, запись, распределение)
  -- реализации (алгоритмы LRU, EDF)
 3. Научитесь работать с unix shell: навигация, файловая структура, grep, потоки, пайпланйы, IO ...
 4. Изучайте vi*, emacs/spacemacs
