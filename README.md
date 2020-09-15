@@ -4,7 +4,7 @@ Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://gi
 
 1. Приобретите навык [слепой печати](https://ru.wikipedia.org/wiki/Слепой_метод_печати)
 2. Изучите базовые принципы работы [операционных систем](https://www.ozon.ru/context/detail/id/31649356/): абстракции (процессы, потоки, файлы, сокеты, память), механизмы (создание, управление, открытие, запись, распределение), реализации (алгоритмы LRU, EDF)
-3. Научитесь работать с [unix shell](https://ru.hexlet.io/courses/cli-basics): навигация, файловая структура, grep, потоки, пайпланйы, IO ...
+3. Научитесь работать с [unix shell](https://ru.hexlet.io/courses/cli-basics): навигация, файловая структура, grep, streams, piplines, IO ...
 4. Изучайте [vi*](https://zenway.ru/uploads/knigi/prosto-o-vim.pdf), [emacs](https://www.gnu.org/software/emacs/)/[spacemacs](https://practicalli.github.io/spacemacs/)
 5. Практикуйтесь в навыках программирования: решайте [СИКП](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf), решайте [задачи](https://www.hackerrank.com/)
 6. Изучайте [структуры данных и алгоритмы](https://stepik.org/course/1547/syllabus): очередь, стэк, куча, деревья, хэш-таблицы, [алгоритмы сортировки\поиска](https://www.ozon.ru/context/detail/id/139296295/)
@@ -17,4 +17,4 @@ Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://gi
 13. Учитесь [правильно профилировать свое приложение](https://www.youtube.com/watch?v=HPFARivHJRY&ab_channel=HolyJS)
 14. Учитесь правильно пользоваться стандартами и экосистемой своего языка: code style, linters, testing, code formating, best practices, standard libraries
 15. Изучайте процессы: [Agile](https://www.ozon.ru/context/detail/id/140970762/), [Kanban](https://www.ozon.ru/context/detail/id/139969042/)
-16. Будте [профессионалом](https://www.ozon.ru/context/detail/id/144954705/)
+16. Будьте [профессионалом](https://www.ozon.ru/context/detail/id/144954705/)
