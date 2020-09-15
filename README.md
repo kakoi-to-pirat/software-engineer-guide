@@ -6,7 +6,7 @@ Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://gi
 2. Изучите базовые принципы работы [операционных систем](https://www.ozon.ru/context/detail/id/31649356/): абстракции (процессы, потоки, файлы, сокеты, память), механизмы (создание, управление, открытие, запись, распределение), реализации (алгоритмы LRU, EDF)
 3. Научитесь работать с [unix shell](https://ru.hexlet.io/courses/cli-basics): навигация, файловая структура, grep, потоки, пайпланйы, IO ...
 4. Изучайте [vi*](https://zenway.ru/uploads/knigi/prosto-o-vim.pdf), [emacs](https://www.gnu.org/software/emacs/)/[spacemacs](https://practicalli.github.io/spacemacs/)
-5. Практикуйтесь в навыках программирования: решайте [СИКП]((https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf)), решайте [задачи](https://www.codewars.com/)
+5. Практикуйтесь в навыках программирования: решайте [СИКП](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf), решайте [задачи](https://www.codewars.com/)
 6. Изучайте [структуры данных и алгоритмы](https://stepik.org/course/1547/syllabus): очередь, стэк, куча, деревья, хэш-таблицы, алгоритмы сортировки\поиска
 7. Изучайте [разные языки программирования](https://www.ozon.ru/context/detail/id/26893656/): python, ruby, clojure, elixir, javascript
 8. Изучайте разные парадигмы программирования:  [functional](https://github.com/kakoi-to-pirat/web-developer-roadmap/blob/master/functional-programming.md), [oop](https://ru.hexlet.io/courses/js-introduction-to-oop), [logical](https://ru.hexlet.io/courses/logic)
