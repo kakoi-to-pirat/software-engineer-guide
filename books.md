@@ -53,7 +53,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [PHP: Правильный Путь (Josh Lockhart)](http://phptherightway.ru/)
 *   [Современный PHP. Новые возможности и передовой опыт (Джош Локхарт)](https://www.ozon.ru/context/detail/id/135695718/)
 
-
 ## Concurrency
 *   [Семь моделей конкуренции и параллелизма за семь недель. Раскрываем тайны потоков (Пол Батчер)](https://www.ozon.ru/context/detail/id/31083491/)
 
@@ -64,9 +63,6 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## Тестирование
 *   [TDD. Экстремальное программирование: разработка через тестирование (Кент Бек)](https://www.ozon.ru/context/detail/id/140489225/)
 
-## Архитектура
-*   [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)](https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709)
-
 ## GIT
 *   [Pro Git (Scott Chacon & Ben Straub)](https://git-scm.com/book/ru/v2)
 
@@ -74,11 +70,15 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Изучаем SQL (Алан Бьюли)](https://www.ozon.ru/context/detail/id/3291513/)
 *   [Семь баз данных за семь недель (Эрик Редмонд)](https://www.ozon.ru/context/detail/id/19383907/)
 
+## Инфраструктура
+*   [Использование Docker (Эдриен Моуэт)](https://www.ozon.ru/context/detail/id/139411597/)
+*   [Kubernetes в действии (Лукша Марко)](https://www.ozon.ru/context/detail/id/148388621/)
+
+## Архитектура
+*   [Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем (Эрик Эванс)](https://www.ozon.ru/context/detail/id/5497184/?utm_source=advertiseru&utm_medium=partner&utm_campaign=57709)
+
 ## Паттерны
 *   [Паттерны проектирования (Эрик Фримен)](https://www.ozon.ru/context/detail/id/20216992/)
-
-## Docker
-*   [Использование Docker (Эдриен Моуэт)](https://www.ozon.ru/context/detail/id/139411597/)
 
 ## Дизайн
 *   [Дизайн для реального мира (Виктор Папанек)](https://www.ozon.ru/context/detail/id/32545263/?utm_source=yandex_direct&utm_medium=cpc&utm_campaign=proryv_regstore_product_n_cid_detail_our_no_all_dynamic_CBR_23555380&utm_term=_cbrx_642669)
