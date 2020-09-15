@@ -16,4 +16,4 @@ Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://gi
 12. Учитесь [правильно писать тесты](https://www.youtube.com/watch?v=zsz8kdi62mE&ab_channel=%D0%A5%D0%B5%D0%BA%D1%81%D0%BB%D0%B5%D1%82) (функциональные, интеграционные, e2e)
 13. Учитесь [правильно профилировать свое приложение](https://www.youtube.com/watch?v=HPFARivHJRY&ab_channel=HolyJS)
 14. Учитесь правильно пользоваться стандартами и экосистемой своего языка: code style, linters, testing, code formating, best practices, standard libraries
-15. Изучайте процессы: [Agile]((https://www.ozon.ru/context/detail/id/140970762/)), [Kanban](https://www.ozon.ru/context/detail/id/139969042/)
+15. Изучайте процессы: [Agile](https://www.ozon.ru/context/detail/id/140970762/), [Kanban](https://www.ozon.ru/context/detail/id/139969042/)
