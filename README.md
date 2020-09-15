@@ -1,4 +1,4 @@
-# Гайд начинающего веб-разработчика
+# Software engineer guide
 
 Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://github.com/kakoi-to-pirat/web-developer-on-linux/blob/master/books.md)
 
