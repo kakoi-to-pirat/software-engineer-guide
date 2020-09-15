@@ -17,3 +17,4 @@ Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://gi
 13. Учитесь [правильно профилировать свое приложение](https://www.youtube.com/watch?v=HPFARivHJRY&ab_channel=HolyJS)
 14. Учитесь правильно пользоваться стандартами и экосистемой своего языка: code style, linters, testing, code formating, best practices, standard libraries
 15. Изучайте процессы: [Agile](https://www.ozon.ru/context/detail/id/140970762/), [Kanban](https://www.ozon.ru/context/detail/id/139969042/)
+16. Будте [профессионалом](https://www.ozon.ru/context/detail/id/144954705/)
