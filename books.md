@@ -44,6 +44,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ### JavaScript
 *   [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
 *   [Вы не знаете Javascript (Kyle Simpson)](https://github.com/azat-io/you-dont-know-js-ru)
+*   [Mostly adequate guide to Functional Programming (JS)](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
 *   [Exploring ES6 (Axel Rauschmayer)](http://exploringjs.com/es6/)
 
 ### Python
