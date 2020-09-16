@@ -34,9 +34,12 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Языки программирования
 *   [Семь языков за семь недель (Брюс Тейт)](https://www.ozon.ru/context/detail/id/26893656/)
-*   [Изучай Haskell во имя добра! (Миран Липовача)](https://www.ozon.ru/context/detail/id/8696277/)
 *   [Введение в Elixir (Симон Сенлорен, Дэвид Эйзенберг)](https://www.ozon.ru/context/detail/id/140439544/)
+*   [Изучай Haskell во имя добра! (Миран Липовача)](https://www.ozon.ru/context/detail/id/8696277/)
+
+### Clojure
 *   [Программирование на Clojure (Чаз Эмерик)](https://www.ozon.ru/context/detail/id/21296773/)
+*   [Clojure на производстве (Иван Гришаев)](https://ridero.ru/books/clojure_na_proizvodstve/)
 
 ### JavaScript
 *   [Выразительный Javascript (Marijn Haverbeke)](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
