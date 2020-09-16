@@ -89,7 +89,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Что такое Дженерики](http://phpprofi.ru/blogs/post/82)
 *   [Поднимаем docker-container для NodeJs-приложения: Express + Mongo + Docker Compose](https://www.dlighthouse.co/2017/09/docker-node-express-mongo.html)
 *   [Создаём самый маленький и безопасный Docker контейнер для Golang на базе Scratch](https://ergoz.ru/create-the-smallest-and-secured-golang-docker-image-based-on-scratch/ml)
-*   [Guard Expression](https://ru.hexlet.io/courses/js-functions/lessons/guard-expression/theory_unit)
+*   [Guard Expression](https://medium.com/better-programming/refactoring-guard-clauses-2ceeaa1a9da)
 *   [Continuous Delivery, Continuous Deployment и Continuous Integration](http://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/)
 *   [Что такое и как работает GraphQL?](http://codenative.ru/article/chto_takoe_graphql)
 *   [Автоматное программирование на примере React](https://ru.hexlet.io/courses/js-react/lessons/fsm/theory_unit)
@@ -147,6 +147,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 
 ## Youtube-каналы
 *   [Hexlet](https://www.youtube.com/channel/UCqLPYxuAz-WbdEBLBk_Tb7g)
+*   [Кирилл Мокевнин](https://www.youtube.com/channel/UCJuotEzekRzmMEQdADcdJ8w)
 *   [MoscowPython](https://www.youtube.com/channel/UC-OVMPlMA3-YCIeg4z5z23A)
 *   [Timur Shemsedinov](https://www.youtube.com/channel/UChSGI2R2kRMjzXJuYqHWQZg)
 *   [Deep Refactoring](https://www.youtube.com/channel/UCkmu866apk8FbOMuEIQvH0g)
@@ -159,11 +160,11 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 *   [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 *   [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+*   [Practicalli](https://www.youtube.com/channel/UCLsiVY-kWVH1EqgEtZiREJw)
 
 ## Блоги и паблики
 *   [Hexlet Guides](http://guides.hexlet.io/)
 *   [Блог Рахима](https://rakh.im/)
-*   [Дмитрий Елисеев](http://www.elisdn.ru/)
 
 ## Сервисы
 *   [Href Tools](https://hreftools.com/)
