@@ -6,7 +6,7 @@ Telegram: [@piratestories](https://t.me/piratestories) | [Книги](https://gi
 2. Изучите базовые принципы работы [операционных систем](https://www.ozon.ru/context/detail/id/31649356/): абстракции (процессы, потоки, файлы, сокеты, память), механизмы (создание, управление, открытие, запись, распределение), реализации (алгоритмы LRU, EDF)
 3. Научитесь работать с [unix shell](https://ru.hexlet.io/courses/cli-basics): навигация, файловая структура, grep, streams, pipes, I/O ...
 4. Изучите [основы сетей](https://habr.com/ru/post/491540/): глобальные и локальные сети, белые и серые IP-адреса, NAT, DHCP-сервер и подсети, маршрутизация, команды для анализа сети, UDP и TCP
-5. Изучайте [vi*](https://zenway.ru/uploads/knigi/prosto-o-vim.pdf), [emacs](https://www.gnu.org/software/emacs/)/[spacemacs](https://practicalli.github.io/spacemacs/)
+5. Изучайте [vi*](https://zenway.ru/uploads/knigi/prosto-o-vim.pdf), [emacs](https://www.gnu.org/software/emacs/)/[spacemacs](https://practicalli.github.io/spacemacs/) [(Cheat Sheet)](https://github.com/kakoi-to-pirat/software-engineer-guide/blob/master/vim-emacs-clj-tmux-qwerty.pdf)
 6. Практикуйтесь в навыках программирования: решайте [СИКП](https://mirror.yandex.ru/mirrors/ftp.linux.kiev.ua/docs/developer/general/sicp-ru/sicp-ru-screen.pdf), решайте [задачи](https://www.hackerrank.com/)
 7. Изучайте [структуры данных и алгоритмы](https://stepik.org/course/1547/syllabus): очередь, стэк, куча, деревья, хэш-таблицы, [алгоритмы сортировки/поиска](https://www.ozon.ru/context/detail/id/139296295/)
 8. Изучайте [разные языки программирования](https://www.ozon.ru/context/detail/id/26893656/): python, ruby, clojure, elixir, javascript
