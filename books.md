@@ -74,7 +74,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 ## Базы данных
 *   [Изучаем SQL (Алан Бьюли)](https://www.ozon.ru/context/detail/id/3291513/)
 *   [Семь баз данных за семь недель (Эрик Редмонд)](https://www.ozon.ru/context/detail/id/19383907/)
-*   [Cвободно доступные книиги от PostgresPRO](https://postgrespro.ru/education/books) 
+*   [Cвободно доступные книги от PostgresPRO](https://postgrespro.ru/education/books) 
 
 ## Инфраструктура
 *   [Использование Docker (Эдриен Моуэт)](https://www.ozon.ru/context/detail/id/139411597/)
