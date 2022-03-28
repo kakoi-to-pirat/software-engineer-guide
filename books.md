@@ -16,6 +16,7 @@ Telegram: [@piratestories](https://t.me/piratestories)
 *   [Современные операционные системы (Эндрю Таненбаум, Х. Бос)](https://www.ozon.ru/context/detail/id/31649356/)
 *   [Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](https://www.ozon.ru/context/detail/id/2419365/?partner=hexlet)
 *   [Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/?partner=hexlet)
+*   [UNIX. Профессиональное программирование | Стивенс Уильям Ричард, Раго Стивен А.](https://www.ozon.ru/product/unix-professionalnoe-programmirovanie-stivens-uilyam-richard-rago-stiven-a-459550605)
 
 ## Computer Science
 *   [Теоретический минимум по Computer Science (Владстон Феррейра Филос)](https://www.ozon.ru/context/detail/id/144946027/)
